@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:10:20 AM 22-11-2026",
+  "last_update_time": "03:20:16 AM 22-11-2026",
   "total_matches": 396,
-  "live_match": 67,
-  "upcoming_match": 294,
+  "live_match": 68,
+  "upcoming_match": 293,
   "ended_match": 35,
   "matches": [
     {
@@ -2080,6 +2080,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Universidad Catolica Vs Barcelona Guayaquil",
+      "eventInfo": {
+        "teamA": "Universidad Catolica",
+        "teamB": "Barcelona Guayaquil",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3151/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5250/image",
+        "eventName": "Liga Pro",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
+        "startTime": "22/11/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=f757d7aa0b9a7ce04b61be6b1b414348&wsABSTime=1795332307",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c3803be8b15b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Strasbourg Vs Brest",
       "eventInfo": {
         "teamA": "Strasbourg",
@@ -3863,30 +3887,6 @@
       ],
       "isHot": false,
       "id": "evt_69e5302e68e5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Universidad Catolica Vs Barcelona Guayaquil",
-      "eventInfo": {
-        "teamA": "Universidad Catolica",
-        "teamB": "Barcelona Guayaquil",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3151/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5250/image",
-        "eventName": "Liga Pro",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-        "startTime": "22/11/2026 03:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=f757d7aa0b9a7ce04b61be6b1b414348&wsABSTime=1795332307",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_c3803be8b15b",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
