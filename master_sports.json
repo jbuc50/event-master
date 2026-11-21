@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:40:16 PM 21-11-2026",
-  "total_matches": 510,
-  "live_match": 110,
+  "last_update_time": "10:50:15 PM 21-11-2026",
+  "total_matches": 508,
+  "live_match": 108,
   "upcoming_match": 351,
   "ended_match": 49,
   "matches": [
@@ -3514,86 +3514,6 @@
         }
       ],
       "id": "evt_ba2175548f6e",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Elversberg Vs Freiburg",
-      "eventInfo": {
-        "teamA": "Elversberg",
-        "teamB": "Freiburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795267534-0-0-59394f97b9bfb56ab3277c8c857bff20",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel7.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_efaf80c1b1d6",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Gladbach Vs Dortmund",
-      "eventInfo": {
-        "teamA": "Gladbach",
-        "teamB": "Dortmund",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "21/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795267181-0-0-e770a78928b7477ce1e2e6b1f5a82e8b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel18.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_5b62064f0f4d",
       "isHot": false
     },
     {
