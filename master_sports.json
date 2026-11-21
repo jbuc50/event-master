@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:40:16 AM 22-11-2026",
+  "last_update_time": "02:50:17 AM 22-11-2026",
   "total_matches": 389,
-  "live_match": 67,
-  "upcoming_match": 292,
+  "live_match": 68,
+  "upcoming_match": 291,
   "ended_match": 30,
   "matches": [
     {
@@ -2272,6 +2272,36 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Dallas Vs Portland",
+      "eventInfo": {
+        "teamA": "Dallas",
+        "teamB": "Portland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "22/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001795288832-0-0-a4c02c23aabc93d118aeceecd00b8f5b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_1b72f93e329d",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "New Zealand Vs India",
@@ -2656,7 +2686,20 @@
         {
           "channel_name": "PREMIERER1 FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795288791-0-0-bd59c3eaa1b6ceeb45b9cde1068db432",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2758,7 +2801,40 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "22/11/2026 05:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795288875-0-0-ee771e50f59992e08a7b4e812433e1ae",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795259348-0-0-afbae05e579bdb51d22801433d50bae3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a7429c8567b132b4b41782ef2f74d686&txTime=6b018138",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_21236cf4c703"
     },
@@ -3690,36 +3766,6 @@
         }
       ],
       "id": "evt_c3803be8b15b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Dallas Vs Portland",
-      "eventInfo": {
-        "teamA": "Dallas",
-        "teamB": "Portland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-        "eventName": "MLS",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-        "startTime": "22/11/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel20.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-20.flv?auth_key=3000001795288832-0-0-a4c02c23aabc93d118aeceecd00b8f5b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_1b72f93e329d",
       "isHot": false
     },
     {
