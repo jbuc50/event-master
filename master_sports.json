@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:20 AM 22-11-2026",
-  "total_matches": 366,
-  "live_match": 47,
-  "upcoming_match": 275,
-  "ended_match": 44,
+  "last_update_time": "05:40:16 AM 22-11-2026",
+  "total_matches": 367,
+  "live_match": 45,
+  "upcoming_match": 270,
+  "ended_match": 52,
   "matches": [
     {
       "status": "LIVE",
@@ -313,54 +313,20 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
-      "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "22/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA2 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "SPORT 1 DE - FHD",
-          "stream_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
-          "drm_key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BEEEAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
-      "event_name": "O'Higgins Vs Universidad de Chile",
+      "event_name": "Universidad de Concepción Vs Ñublense",
       "eventInfo": {
-        "teamA": "O'Higgins",
-        "teamB": "Universidad de Chile",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamA": "Universidad de Concepción",
+        "teamB": "Ñublense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5034/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
         "eventName": "Liga de Primera",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "22/11/2026 03:00:00 AM"
+        "startTime": "22/11/2026 05:30:00 AM"
       },
       "streams": [],
       "isHot": false,
-      "id": "evt_e8ef0405b6f3"
+      "id": "evt_73399877f6f3"
     },
     {
       "status": "LIVE",
@@ -382,9 +348,19 @@
           "referer": "https://gooz.aapmains.net"
         },
         {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://www.rtmpcdn.com/live/400982f6-b587-44c4-a981-ecd609913acb.m3u8"
+        },
+        {
           "channel_name": "HD QUALITY ",
           "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
           "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ZAZAZAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -421,29 +397,6 @@
       ],
       "isHot": false,
       "id": "evt_21236cf4c703"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Dallas Vs Portland Timbers",
-      "eventInfo": {
-        "teamA": "FC Dallas",
-        "teamB": "Portland Timbers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "22/11/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60668/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3705a84d023f"
     },
     {
       "status": "LIVE",
@@ -555,51 +508,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60674/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
       "id": "evt_ed9bd0e69395"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Calgary Flames Vs Chicago Blackhawks",
-      "eventInfo": {
-        "teamA": "Calgary Flames",
-        "teamB": "Chicago Blackhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS MIX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "channel_name": "SKY TOP EVENT FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60662/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9a223077-caa1-42f1-969f-f5d211f00892/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_92e2b0941d92"
     },
     {
       "status": "LIVE",
@@ -669,52 +583,6 @@
       ],
       "isHot": false,
       "id": "evt_f70a66d05307"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Kennesaw State Owls Vs Florida Intl Golden Panthers",
-      "eventInfo": {
-        "teamA": "Kennesaw State Owls",
-        "teamB": "Florida Intl Golden Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296494/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47353/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_38d7ca65525c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "New Mexico State Aggies Vs Delaware Blue Hens",
-      "eventInfo": {
-        "teamA": "New Mexico State Aggies",
-        "teamB": "Delaware Blue Hens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4333/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/46643/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60654/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_12c338a62ca7"
     },
     {
       "status": "LIVE",
@@ -1017,6 +885,23 @@
     {
       "status": "LIVE",
       "Category": "American football",
+      "event_name": "USC Trojans Vs Maryland Terrapins",
+      "eventInfo": {
+        "teamA": "USC Trojans",
+        "teamB": "Maryland Terrapins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4290/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4306/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 05:15:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_01491d696b5e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
       "event_name": "Texas State Bobcats Vs Washington State Cougars",
       "eventInfo": {
         "teamA": "Texas State Bobcats",
@@ -1036,66 +921,6 @@
       ],
       "isHot": false,
       "id": "evt_3e11e9061c9c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "France Vs Argentina",
-      "eventInfo": {
-        "teamA": "France",
-        "teamB": "Argentina",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4224/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4225/image",
-        "eventName": "Nations Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "22/11/2026 02:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/UVVV.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/UVVV.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0549272e434d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Wales Vs Australia",
-      "eventInfo": {
-        "teamA": "Wales",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
-        "eventName": "Nations Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "22/11/2026 02:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/UVVVAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/UVVVAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a2f24a656bac"
     },
     {
       "status": "LIVE",
@@ -1188,20 +1013,32 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad de Concepción Vs Ñublense",
+      "Category": "Basketball",
+      "event_name": "New York Knicks Vs Portland Trail Blazers",
       "eventInfo": {
-        "teamA": "Universidad de Concepción",
-        "teamB": "Ñublense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5034/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "22/11/2026 05:30:00 AM"
+        "teamA": "New York Knicks",
+        "teamB": "Portland Trail Blazers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/11/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
       "isHot": false,
-      "id": "evt_73399877f6f3"
+      "id": "evt_5cc58560d87c"
     },
     {
       "status": "LIVE",
@@ -1378,19 +1215,25 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "USC Trojans Vs Maryland Terrapins",
+      "event_name": "San Jose State Spartans Vs UNLV Rebels",
       "eventInfo": {
-        "teamA": "USC Trojans",
-        "teamB": "Maryland Terrapins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4290/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4306/image",
+        "teamA": "San Jose State Spartans",
+        "teamB": "UNLV Rebels",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4291/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4378/image",
         "eventName": "NCAA Division FBS",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 05:15:00 AM"
+        "startTime": "22/11/2026 06:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60687/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
       "isHot": false,
-      "id": "evt_01491d696b5e"
+      "id": "evt_eddcad00a451"
     },
     {
       "status": "LIVE",
@@ -1413,7 +1256,7 @@
         },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60688/load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         }
       ],
@@ -1433,9 +1276,101 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
         "startTime": "22/11/2026 06:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60690/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
       "isHot": false,
       "id": "evt_14d28d6a6538"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Fresno State Bulldogs Vs Colorado State Rams",
+      "eventInfo": {
+        "teamA": "Fresno State Bulldogs",
+        "teamB": "Colorado State Rams",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4341/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6e10a9c646f4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Missouri Tigers Vs Kentucky Wildcats",
+      "eventInfo": {
+        "teamA": "Missouri Tigers",
+        "teamB": "Kentucky Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4314/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47363/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 06:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_6286c483ca03"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Notre Dame Fighting Irish Vs Southern Methodist Mustangs",
+      "eventInfo": {
+        "teamA": "Notre Dame Fighting Irish",
+        "teamB": "Southern Methodist Mustangs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4372/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4305/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 06:30:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_905b2c4a5f9a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "South Carolina Gamecocks Vs Georgia Bulldogs",
+      "eventInfo": {
+        "teamA": "South Carolina Gamecocks",
+        "teamB": "Georgia Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4278/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47358/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7d71e4e5a1db"
     },
     {
       "status": "LIVE",
@@ -1998,35 +1933,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "New York Knicks Vs Portland Trail Blazers",
-      "eventInfo": {
-        "teamA": "New York Knicks",
-        "teamB": "Portland Trail Blazers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5cc58560d87c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
       "eventInfo": {
         "teamA": "Minnesota Timberwolves",
@@ -2194,92 +2100,6 @@
       ],
       "isHot": false,
       "id": "evt_17d9429b3da1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Fresno State Bulldogs Vs Colorado State Rams",
-      "eventInfo": {
-        "teamA": "Fresno State Bulldogs",
-        "teamB": "Colorado State Rams",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4341/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6e10a9c646f4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Missouri Tigers Vs Kentucky Wildcats",
-      "eventInfo": {
-        "teamA": "Missouri Tigers",
-        "teamB": "Kentucky Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4314/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47363/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_6286c483ca03"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Notre Dame Fighting Irish Vs Southern Methodist Mustangs",
-      "eventInfo": {
-        "teamA": "Notre Dame Fighting Irish",
-        "teamB": "Southern Methodist Mustangs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4372/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4305/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_905b2c4a5f9a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "South Carolina Gamecocks Vs Georgia Bulldogs",
-      "eventInfo": {
-        "teamA": "South Carolina Gamecocks",
-        "teamB": "Georgia Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4278/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47358/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7d71e4e5a1db"
     },
     {
       "status": "UPCOMING",
@@ -7136,6 +6956,40 @@
     },
     {
       "status": "ENDED",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
+      "eventInfo": {
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "22/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA2 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "SPORT 1 DE - FHD",
+          "stream_url": "https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd",
+          "drm_key": "98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BEEEAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Primera A Vs Primera A",
       "eventInfo": {
@@ -7705,6 +7559,23 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "O'Higgins Vs Universidad de Chile",
+      "eventInfo": {
+        "teamA": "O'Higgins",
+        "teamB": "Universidad de Chile",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "22/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e8ef0405b6f3"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Vitória SC Vs Sporting Braga",
       "eventInfo": {
         "teamA": "Vitória SC",
@@ -7815,6 +7686,29 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "FC Dallas Vs Portland Timbers",
+      "eventInfo": {
+        "teamA": "FC Dallas",
+        "teamB": "Portland Timbers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "22/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60668/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3705a84d023f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Motherwell Vs Rangers",
       "eventInfo": {
         "teamA": "Motherwell",
@@ -7882,6 +7776,45 @@
       ],
       "isHot": false,
       "id": "evt_08f17325372e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Calgary Flames Vs Chicago Blackhawks",
+      "eventInfo": {
+        "teamA": "Calgary Flames",
+        "teamB": "Chicago Blackhawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 02:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS MIX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "SKY TOP EVENT FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60662/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9a223077-caa1-42f1-969f-f5d211f00892/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_92e2b0941d92"
     },
     {
       "status": "ENDED",
@@ -8020,6 +7953,112 @@
       ],
       "isHot": false,
       "id": "evt_5cff47e39918"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Kennesaw State Owls Vs Florida Intl Golden Panthers",
+      "eventInfo": {
+        "teamA": "Kennesaw State Owls",
+        "teamB": "Florida Intl Golden Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296494/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47353/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_38d7ca65525c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "New Mexico State Aggies Vs Delaware Blue Hens",
+      "eventInfo": {
+        "teamA": "New Mexico State Aggies",
+        "teamB": "Delaware Blue Hens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4333/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/46643/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60654/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_12c338a62ca7"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "France Vs Argentina",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "Argentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4224/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4225/image",
+        "eventName": "Nations Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "22/11/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/UVVV.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/UVVV.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0549272e434d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Wales Vs Australia",
+      "eventInfo": {
+        "teamA": "Wales",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "eventName": "Nations Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "22/11/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/UVVVAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/UVVVAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a2f24a656bac"
     },
     {
       "status": "ENDED",
