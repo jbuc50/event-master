@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:20:15 AM 23-11-2026",
-  "total_matches": 316,
-  "live_match": 32,
-  "upcoming_match": 229,
+  "last_update_time": "03:30:59 AM 23-11-2026",
+  "total_matches": 313,
+  "live_match": 31,
+  "upcoming_match": 227,
   "ended_match": 55,
   "matches": [
     {
@@ -962,103 +962,73 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Rosario Central Vs Gimnasia Mendoza",
+      "event_name": "Fluminense Vs Mirassol Futebol Clube",
       "eventInfo": {
-        "teamA": "Rosario Central",
-        "teamB": "Gimnasia Mendoza",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188441/image",
-        "eventName": "Liga Profesional",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-        "startTime": "23/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3.klerovamediadelivery.com/live/channel23.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795367996-0-0-c28b6b650ec999cd26ada86d2b405f2a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.55/hls/VBVBVBAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_a203d295ac13",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Athletico-PR Vs Remo",
-      "eventInfo": {
-        "teamA": "Athletico-PR",
-        "teamB": "Remo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "teamA": "Fluminense",
+        "teamB": "Mirassol Futebol Clube",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
         "eventName": "Brasileirão Série A",
         "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "23/11/2026 01:00:00 AM"
+        "startTime": "23/11/2026 03:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERER1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "channel_name": "PREMIERE2 BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+          "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
         },
         {
           "channel_name": "Server - 1",
-          "stream_url": "https://live3.klerovamediadelivery.com/live/channel17.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "stream_url": "https://live3.klerovamediadelivery.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001795367971-0-0-1d4cb7fd0fdea88606dcc7a7ff8703fd",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795368043-0-0-c92bae3888288c769219708c83839a41",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.55/hls/VBVBVBAAA.m3u8",
+          "stream_url": "http://193.47.62.44/hls/ZIIIAAAqQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_91e7cfad4dce",
+      "id": "evt_89db833cce77",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Orense Vs Mushuc Runa",
+      "event_name": "LDU Vs SD Aucas",
       "eventInfo": {
-        "teamA": "Orense",
-        "teamB": "Mushuc Runa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/277525/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134976/image",
+        "teamA": "LDU",
+        "teamB": "SD Aucas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5257/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5249/image",
         "eventName": "Liga Pro",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-        "startTime": "23/11/2026 01:00:00 AM"
+        "startTime": "23/11/2026 03:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "Server - 1",
-          "stream_url": "http://193.47.62.55/hls/VBVBVB.m3u8",
+          "channel_name": "hd quality",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel2.flv?wsSecret=ae7a672c55c35e8aa08f4a25b6a26a9e&wsABSTime=1795411278",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "low quality",
+          "stream_url": "http://193.47.62.44/hls/ZIIIAAAqQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_b21a884ed944",
+      "id": "evt_366a2e4edf6f",
       "isHot": false
     },
     {
@@ -3173,23 +3143,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Fluminense Vs Mirassol Futebol Clube",
-      "eventInfo": {
-        "teamA": "Fluminense",
-        "teamB": "Mirassol Futebol Clube",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-        "eventName": "Brasileirão Série A",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "23/11/2026 03:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_89db833cce77",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Bragantino Vs Vasco da Gama",
       "eventInfo": {
         "teamA": "Bragantino",
@@ -3202,23 +3155,6 @@
       },
       "streams": [],
       "id": "evt_6743acb6dafc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "LDU Vs SD Aucas",
-      "eventInfo": {
-        "teamA": "LDU",
-        "teamB": "SD Aucas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5257/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5249/image",
-        "eventName": "Liga Pro",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-        "startTime": "23/11/2026 03:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_366a2e4edf6f",
       "isHot": false
     },
     {
