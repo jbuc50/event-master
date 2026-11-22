@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:30:25 AM 22-11-2026",
+  "last_update_time": "07:40:15 AM 22-11-2026",
   "total_matches": 369,
-  "live_match": 45,
-  "upcoming_match": 294,
-  "ended_match": 30,
+  "live_match": 43,
+  "upcoming_match": 293,
+  "ended_match": 33,
   "matches": [
     {
       "status": "LIVE",
@@ -373,72 +373,26 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Inter Miami CF Vs Columbus Crew",
+      "event_name": "Once Caldas Vs Atlético Nacional",
       "eventInfo": {
-        "teamA": "Inter Miami CF",
-        "teamB": "Columbus Crew",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "22/11/2026 05:00:00 AM"
+        "teamA": "Once Caldas",
+        "teamB": "Atlético Nacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "22/11/2026 07:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY+ MLS",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60677/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/400982f6-b587-44c4-a981-ecd609913acb.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ZAZAZAAA.m3u8",
+          "stream_url": "http://193.47.62.41/hls/NNNNA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795288875-0-0-ee771e50f59992e08a7b4e812433e1ae",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795259348-0-0-afbae05e579bdb51d22801433d50bae3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a7429c8567b132b4b41782ef2f74d686&txTime=6b018138",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_21236cf4c703"
+      "id": "evt_bfd044021af5"
     },
     {
       "status": "LIVE",
@@ -517,47 +471,6 @@
       ],
       "isHot": false,
       "id": "evt_f2f20df802b5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Santos Laguna Vs Club León",
-      "eventInfo": {
-        "teamA": "Santos Laguna",
-        "teamB": "Club León",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "22/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_637859e3dd61"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CF Pachuca Vs CD Toluca",
-      "eventInfo": {
-        "teamA": "CF Pachuca",
-        "teamB": "CD Toluca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "22/11/2026 04:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/FTFTFTAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ea481bcf7035"
     },
     {
       "status": "LIVE",
@@ -1284,30 +1197,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Once Caldas Vs Atlético Nacional",
-      "eventInfo": {
-        "teamA": "Once Caldas",
-        "teamB": "Atlético Nacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "22/11/2026 07:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/NNNNA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bfd044021af5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Wellington Phoenix Vs Macarthur FC",
       "eventInfo": {
         "teamA": "Wellington Phoenix",
@@ -1378,6 +1267,29 @@
       ],
       "isHot": false,
       "id": "evt_a6b98747fca8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Boise State Broncos Vs San Diego State Aztecs",
+      "eventInfo": {
+        "teamA": "Boise State Broncos",
+        "teamB": "San Diego State Aztecs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4279/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4363/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 08:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f1047ca07d29"
     },
     {
       "status": "LIVE",
@@ -2148,29 +2060,6 @@
       ],
       "isHot": false,
       "id": "evt_56b17477d4be"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Boise State Broncos Vs San Diego State Aztecs",
-      "eventInfo": {
-        "teamA": "Boise State Broncos",
-        "teamB": "San Diego State Aztecs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4279/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4363/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f1047ca07d29"
     },
     {
       "status": "UPCOMING",
@@ -7877,6 +7766,76 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Inter Miami CF Vs Columbus Crew",
+      "eventInfo": {
+        "teamA": "Inter Miami CF",
+        "teamB": "Columbus Crew",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "22/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY+ MLS",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60677/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://www.rtmpcdn.com/live/400982f6-b587-44c4-a981-ecd609913acb.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ZAZAZAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795288875-0-0-ee771e50f59992e08a7b4e812433e1ae",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795259348-0-0-afbae05e579bdb51d22801433d50bae3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=a7429c8567b132b4b41782ef2f74d686&txTime=6b018138",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_21236cf4c703"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Atlético Mineiro Vs Boca Juniors",
       "eventInfo": {
         "teamA": "Atlético Mineiro",
@@ -7926,6 +7885,47 @@
       ],
       "isHot": false,
       "id": "evt_1feae17e2664"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Santos Laguna Vs Club León",
+      "eventInfo": {
+        "teamA": "Santos Laguna",
+        "teamB": "Club León",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "22/11/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_637859e3dd61"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CF Pachuca Vs CD Toluca",
+      "eventInfo": {
+        "teamA": "CF Pachuca",
+        "teamB": "CD Toluca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "22/11/2026 04:50:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/FTFTFTAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ea481bcf7035"
     },
     {
       "status": "ENDED",
