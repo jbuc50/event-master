@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:20:17 PM 22-11-2026",
-  "total_matches": 347,
+  "last_update_time": "08:30:22 PM 22-11-2026",
+  "total_matches": 346,
   "live_match": 50,
-  "upcoming_match": 279,
+  "upcoming_match": 278,
   "ended_match": 18,
   "matches": [
     {
@@ -1552,7 +1552,20 @@
         {
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-9.flv?auth_key=3000001795353676-0-0-7a81b128f23004682bef419c7d51e56e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1667,6 +1680,56 @@
       ],
       "isHot": false,
       "id": "evt_e98d8b90f599"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Augsburg Vs Mainz",
+      "eventInfo": {
+        "teamA": "Augsburg",
+        "teamB": "Mainz",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "22/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795353573-0-0-b517d165b2ddb35680f8a0db9e189c9f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1795358049-0-0-3b04366ae589ba7a777d1e88481b8da3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1795358049-0-0-c82ad01839ff1c1c6d07f4b44f80a073",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795352589-0-0-0a2592ee81970535c12acb6b43235061",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e877b7b9d93e",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -1851,48 +1914,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "Sharjah Warriorz Vs Gulf Giants",
-      "eventInfo": {
-        "teamA": "Sharjah Warriorz",
-        "teamB": "Gulf Giants",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M7.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M5.png",
-        "eventName": "ILT20 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
-        "startTime": "22/11/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "fancode - Aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a"
-        }
-      ],
-      "id": "evt_7af9fbc0aa06",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
       "event_name": "Dubai Capitals Vs Abu Dhabi Knight Riders",
       "eventInfo": {
         "teamA": "Dubai Capitals",
@@ -1909,6 +1930,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jsbrhiu4jg/out/v1/a4d08c7d62ba467fbad3354567862885/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a"
         },
         {
           "channel_name": "fancode - Aq",
@@ -4784,23 +4811,6 @@
       },
       "streams": [],
       "id": "evt_78071973c555",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Augsburg Vs Mainz",
-      "eventInfo": {
-        "teamA": "Augsburg",
-        "teamB": "Mainz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "22/11/2026 08:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_e877b7b9d93e",
       "isHot": false
     },
     {
