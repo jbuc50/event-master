@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:50:25 PM 22-11-2026",
+  "last_update_time": "05:00:29 PM 22-11-2026",
   "total_matches": 367,
   "live_match": 18,
   "upcoming_match": 308,
@@ -3656,6 +3656,30 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Twente Vs Willem II",
+      "eventInfo": {
+        "teamA": "Twente",
+        "teamB": "Willem II",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "22/11/2026 05:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.44/hls/F3333AAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e4216508f789",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Dubai Capitals Vs Abu Dhabi Knight Riders",
       "eventInfo": {
@@ -3767,23 +3791,6 @@
       },
       "streams": [],
       "id": "evt_53b4abd80e0a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Twente Vs Willem II",
-      "eventInfo": {
-        "teamA": "Twente",
-        "teamB": "Willem II",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
-        "eventName": "Eredivisie",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-        "startTime": "22/11/2026 05:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_e4216508f789",
       "isHot": false
     },
     {
