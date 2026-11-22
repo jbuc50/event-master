@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:20 PM 22-11-2026",
+  "last_update_time": "03:40:20 PM 22-11-2026",
   "total_matches": 362,
-  "live_match": 9,
-  "upcoming_match": 312,
+  "live_match": 10,
+  "upcoming_match": 311,
   "ended_match": 41,
   "matches": [
     {
@@ -495,10 +495,57 @@
           "channel_name": "STREAM TV+ HD",
           "stream_url": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
           "drm_key": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9"
+        },
+        {
+          "channel_name": "sonyliv - (eng)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795381891~acl=/*~id=18716087647869343740419066739704~hmac=e8c0cbd005358f1a7896c53e1ffc902ab3e54133fc6344c072422c8360602242",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (hin)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795381891~acl=/*~id=18716087647869343740419066739704~hmac=e8c0cbd005358f1a7896c53e1ffc902ab3e54133fc6344c072422c8360602242",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tam)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795381891~acl=/*~id=18716087647869343740419066739704~hmac=e8c0cbd005358f1a7896c53e1ffc902ab3e54133fc6344c072422c8360602242",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tel)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795381891~acl=/*~id=18716087647869343740419066739704~hmac=e8c0cbd005358f1a7896c53e1ffc902ab3e54133fc6344c072422c8360602242",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (kan)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795381891~acl=/*~id=18716087647869343740419066739704~hmac=e8c0cbd005358f1a7896c53e1ffc902ab3e54133fc6344c072422c8360602242",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_0542d0f2740e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Erzurumspor FK Vs Göztepe",
+      "eventInfo": {
+        "teamA": "Erzurumspor FK",
+        "teamB": "Göztepe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55603/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3054/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "22/11/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_edf00b49d39f"
     },
     {
       "status": "LIVE",
@@ -2227,28 +2274,6 @@
       ],
       "isHot": false,
       "id": "evt_d35d332a8059"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Erzurumspor FK Vs Göztepe",
-      "eventInfo": {
-        "teamA": "Erzurumspor FK",
-        "teamB": "Göztepe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55603/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3054/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "22/11/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_edf00b49d39f"
     },
     {
       "status": "UPCOMING",
