@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:23 AM 22-11-2026",
+  "last_update_time": "07:10:16 AM 22-11-2026",
   "total_matches": 369,
-  "live_match": 43,
-  "upcoming_match": 297,
-  "ended_match": 29,
+  "live_match": 45,
+  "upcoming_match": 294,
+  "ended_match": 30,
   "matches": [
     {
       "status": "LIVE",
@@ -443,55 +443,80 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Atlético Mineiro Vs Boca Juniors",
+      "event_name": "Washington Spirit Vs Kansas City Current",
       "eventInfo": {
-        "teamA": "Atlético Mineiro",
-        "teamB": "Boca Juniors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "eventName": "CONMEBOL Sudamericana",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
-        "startTime": "22/11/2026 04:30:00 AM"
+        "teamA": "Washington Spirit",
+        "teamB": "Kansas City Current",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/151012/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/377826/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "22/11/2026 07:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
         },
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         },
         {
-          "channel_name": "beIN ESPNAOL FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "channel_name": "beIN SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "\u000227759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/FTFTFTAA.m3u8",
+          "stream_url": "http://193.47.62.41/hls/GLLLAAAQAAQQQA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SportDigital FussBall",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
       "isHot": false,
-      "id": "evt_1feae17e2664"
+      "id": "evt_485f48b539f1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pumas UNAM Vs CF Monterrey",
+      "eventInfo": {
+        "teamA": "Pumas UNAM",
+        "teamB": "CF Monterrey",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "22/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL5 MX+ FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/NNNN.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f2f20df802b5"
     },
     {
       "status": "LIVE",
@@ -573,6 +598,93 @@
       ],
       "isHot": false,
       "id": "evt_5cc58560d87c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Memphis Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/YEEEAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_93a28db75eef"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "San Antonio Spurs Vs New Orleans Pelicans",
+      "eventInfo": {
+        "teamA": "San Antonio Spurs",
+        "teamB": "New Orleans Pelicans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/YEEEAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4a21d1823e3b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Dallas Mavericks Vs Los Angeles Clippers",
+      "eventInfo": {
+        "teamA": "Dallas Mavericks",
+        "teamB": "Los Angeles Clippers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/YEEEA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b4487caf62f9"
     },
     {
       "status": "LIVE",
@@ -1154,6 +1266,23 @@
     },
     {
       "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "AEW Collision Vs AEW COLLISION",
+      "eventInfo": {
+        "teamA": "AEW Collision",
+        "teamB": "AEW COLLISION",
+        "teamAFlag": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+        "teamBFlag": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+        "eventName": "AEW Collision",
+        "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
+        "startTime": "22/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_6ab53bf31a3e"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Once Caldas Vs Atlético Nacional",
       "eventInfo": {
@@ -1179,93 +1308,39 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Washington Spirit Vs Kansas City Current",
+      "event_name": "Wellington Phoenix Vs Macarthur FC",
       "eventInfo": {
-        "teamA": "Washington Spirit",
-        "teamB": "Kansas City Current",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/151012/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/377826/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "22/11/2026 07:00:00 AM"
+        "teamA": "Wellington Phoenix",
+        "teamB": "Macarthur FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7568/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/371682/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "22/11/2026 08:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/GLLLAAAQAAQQQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         }
       ],
       "isHot": false,
-      "id": "evt_485f48b539f1"
+      "id": "evt_a2aa1bef2649"
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Pumas UNAM Vs CF Monterrey",
+      "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs Anaheim Ducks",
       "eventInfo": {
-        "teamA": "Pumas UNAM",
-        "teamB": "CF Monterrey",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "22/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL5 MX+ FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/NNNN.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f2f20df802b5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Memphis Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/11/2026 07:00:00 AM"
+        "teamA": "Utah Mammoth",
+        "teamB": "Anaheim Ducks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 08:00:00 AM"
       },
       "streams": [
         {
@@ -1274,89 +1349,35 @@
           "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/YEEEAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4704096f-7b21-41b6-b901-bb11ed078f12/master.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_93a28db75eef"
+      "id": "evt_2704d8aca44d"
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "San Antonio Spurs Vs New Orleans Pelicans",
+      "Category": "American football",
+      "event_name": "TCU Horned Frogs Vs Utah Utes",
       "eventInfo": {
-        "teamA": "San Antonio Spurs",
-        "teamB": "New Orleans Pelicans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/11/2026 07:00:00 AM"
+        "teamA": "TCU Horned Frogs",
+        "teamB": "Utah Utes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4303/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 08:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/YEEEAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_4a21d1823e3b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Dallas Mavericks Vs Los Angeles Clippers",
-      "eventInfo": {
-        "teamA": "Dallas Mavericks",
-        "teamB": "Los Angeles Clippers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/YEEEA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b4487caf62f9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "AEW Collision Vs AEW COLLISION",
-      "eventInfo": {
-        "teamA": "AEW Collision",
-        "teamB": "AEW COLLISION",
-        "teamAFlag": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
-        "teamBFlag": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
-        "eventName": "AEW Collision",
-        "event_logo": "https://i.ibb.co/jPLdK3bM/aewlogo24b.png",
-        "startTime": "22/11/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_6ab53bf31a3e"
+      "id": "evt_a6b98747fca8"
     },
     {
       "status": "LIVE",
@@ -1941,30 +1962,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Wellington Phoenix Vs Macarthur FC",
-      "eventInfo": {
-        "teamA": "Wellington Phoenix",
-        "teamB": "Macarthur FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7568/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/371682/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "22/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a2aa1bef2649"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Tigres UANL Vs Club América",
       "eventInfo": {
         "teamA": "Tigres UANL",
@@ -2013,33 +2010,6 @@
       ],
       "isHot": false,
       "id": "evt_74eff15c4ac9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Utah Mammoth Vs Anaheim Ducks",
-      "eventInfo": {
-        "teamA": "Utah Mammoth",
-        "teamB": "Anaheim Ducks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4704096f-7b21-41b6-b901-bb11ed078f12/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2704d8aca44d"
     },
     {
       "status": "UPCOMING",
@@ -2150,29 +2120,6 @@
       ],
       "isHot": false,
       "id": "evt_cc65b67395e8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "TCU Horned Frogs Vs Utah Utes",
-      "eventInfo": {
-        "teamA": "TCU Horned Frogs",
-        "teamB": "Utah Utes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4303/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a6b98747fca8"
     },
     {
       "status": "UPCOMING",
@@ -7926,6 +7873,59 @@
       ],
       "isHot": false,
       "id": "evt_6c9f84b06974"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlético Mineiro Vs Boca Juniors",
+      "eventInfo": {
+        "teamA": "Atlético Mineiro",
+        "teamB": "Boca Juniors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "eventName": "CONMEBOL Sudamericana",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
+        "startTime": "22/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "beIN ESPNAOL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "beIN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "\u000227759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/FTFTFTAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SportDigital FussBall",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1feae17e2664"
     },
     {
       "status": "ENDED",
