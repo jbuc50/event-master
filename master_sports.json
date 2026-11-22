@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:50:16 AM 23-11-2026",
+  "last_update_time": "03:00:27 AM 23-11-2026",
   "total_matches": 316,
-  "live_match": 30,
-  "upcoming_match": 233,
+  "live_match": 32,
+  "upcoming_match": 231,
   "ended_match": 53,
   "matches": [
     {
@@ -1037,6 +1037,54 @@
         }
       ],
       "id": "evt_b21a884ed944",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Rubio Ñu Vs Libertad PY",
+      "eventInfo": {
+        "teamA": "Rubio Ñu",
+        "teamB": "Libertad PY",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5996/image",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "23/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "hd quality",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=7dc69273e60628ac950dcba174a8b148&wsABSTime=1795411396",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_cd665a8188ce",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Olimpia Vs Sportivo Trinidense",
+      "eventInfo": {
+        "teamA": "Olimpia",
+        "teamB": "Sportivo Trinidense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/39722/image",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "23/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=b02dd245104172a0594de429010a6663&wsABSTime=1795411362",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0f55137c69cb",
       "isHot": false
     },
     {
@@ -3198,40 +3246,6 @@
       },
       "streams": [],
       "id": "evt_366a2e4edf6f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Rubio Ñu Vs Libertad PY",
-      "eventInfo": {
-        "teamA": "Rubio Ñu",
-        "teamB": "Libertad PY",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5996/image",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "23/11/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_cd665a8188ce",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Olimpia Vs Sportivo Trinidense",
-      "eventInfo": {
-        "teamA": "Olimpia",
-        "teamB": "Sportivo Trinidense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/39722/image",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "23/11/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_0f55137c69cb",
       "isHot": false
     },
     {
