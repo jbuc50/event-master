@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:25 PM 22-11-2026",
-  "total_matches": 345,
-  "live_match": 51,
-  "upcoming_match": 273,
-  "ended_match": 21,
+  "last_update_time": "09:10:19 PM 22-11-2026",
+  "total_matches": 343,
+  "live_match": 46,
+  "upcoming_match": 270,
+  "ended_match": 27,
   "matches": [
     {
       "status": "LIVE",
@@ -435,6 +435,28 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kagera Sugar FC Vs TRA United SC",
+      "eventInfo": {
+        "teamA": "Kagera Sugar FC",
+        "teamB": "TRA United SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212404/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/380759/image",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "22/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_46f88766ae4b"
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Italia T10 League Vs Italia T10 League",
       "eventInfo": {
@@ -575,16 +597,9 @@
       },
       "streams": [
         {
-          "channel_name": "hd quality",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel38.flv?wsSecret=28016ebf2fd5ba3521b83711e44411bc&wsABSTime=1795392095",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel38/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
           "channel_name": "LaLiga Hypermotion",
           "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ],
       "isHot": false,
@@ -794,7 +809,8 @@
         {
           "channel_name": "DAZN SPORTS FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhqcelugnp/out/v1/89d3d1dbde1e441cb379751432bc1688/cenc.mpd",
-          "drm_key": "fa3ffd09de83afc48fbe36b18d6dfd7e:9710da0f81d23a80c483ca133ee3074d"
+          "drm_key": "fa3ffd09de83afc48fbe36b18d6dfd7e:9710da0f81d23a80c483ca133ee3074d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "beIN SPORTS US FHD",
@@ -822,7 +838,8 @@
         },
         {
           "channel_name": "HD QUALITY 4",
-          "stream_url": "https://www.rtmpcdn.com/live/7617d0d0-4bc2-4de7-a350-4df2209730e3.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/7617d0d0-4bc2-4de7-a350-4df2209730e3.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
@@ -869,64 +886,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Energie Cottbus Vs Hertha BSC",
-      "eventInfo": {
-        "teamA": "Energie Cottbus",
-        "teamB": "Hertha BSC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "22/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY BUNDESLIGA FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
-          "drm_key": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y888A.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a99b5f108ace"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Kaiserslautern Vs SG Dynamo Dresden",
-      "eventInfo": {
-        "teamA": "1. FC Kaiserslautern",
-        "teamB": "SG Dynamo Dresden",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "22/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY BUNDESLIGA FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
-          "drm_key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y888AA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_29ef5486bd1e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "FC Augsburg Vs 1. FSV Mainz 05",
       "eventInfo": {
         "teamA": "FC Augsburg",
@@ -955,35 +914,6 @@
       ],
       "isHot": false,
       "id": "evt_2c52062be38f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Karlsruher SC Vs VfL Osnabrück",
-      "eventInfo": {
-        "teamA": "Karlsruher SC",
-        "teamB": "VfL Osnabrück",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "22/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY BUNDESLIGA FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd",
-          "drm_key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y888AAQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fab80c503369"
     },
     {
       "status": "LIVE",
@@ -1065,6 +995,40 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Qatar U17 Vs Egypt U17",
+      "eventInfo": {
+        "teamA": "Qatar U17",
+        "teamB": "Egypt U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/468401/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/216077/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "22/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795353848-0-0-ccce82f4b72608ca4307c07cb29d4f8e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_46a6feb89397"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Ecuador U17 Vs Uganda U17",
       "eventInfo": {
         "teamA": "Ecuador U17",
@@ -1091,59 +1055,6 @@
       ],
       "isHot": false,
       "id": "evt_70bb3bdc58dc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Denmark U17 Vs Australia U17",
-      "eventInfo": {
-        "teamA": "Denmark U17",
-        "teamB": "Australia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22597/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22578/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "22/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_463b10319bef"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Greece U17 Vs Panama U17",
-      "eventInfo": {
-        "teamA": "Greece U17",
-        "teamB": "Panama U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22607/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/48866/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "22/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_94d3cf95971c"
     },
     {
       "status": "LIVE",
@@ -1209,6 +1120,23 @@
       ],
       "isHot": false,
       "id": "evt_5fa1c613df38"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Huachipato Vs Deportes Concepción",
+      "eventInfo": {
+        "teamA": "Huachipato",
+        "teamB": "Deportes Concepción",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3164/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "22/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_38618071c7bc"
     },
     {
       "status": "LIVE",
@@ -1456,30 +1384,24 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "SK Beveren Vs KAA Gent",
+      "event_name": "KV Kortrijk Vs Royale Union Saint-Gilloise",
       "eventInfo": {
-        "teamA": "SK Beveren",
-        "teamB": "KAA Gent",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4859/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+        "teamA": "KV Kortrijk",
+        "teamB": "Royale Union Saint-Gilloise",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4858/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
         "eventName": "Pro League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
-        "startTime": "22/11/2026 06:30:00 PM"
+        "startTime": "22/11/2026 09:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/37ca8343-92d8-4cbd-9129-11fc6ba554ad.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/Y888AAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_9c24e01f4c2c"
+      "id": "evt_d3641b23f1f6"
     },
     {
       "status": "LIVE",
@@ -1542,6 +1464,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Harlequins Women Vs Bristol Bears",
+      "eventInfo": {
+        "teamA": "Harlequins Women",
+        "teamB": "Bristol Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1119868/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1119876/image",
+        "eventName": "Premiership Women's Rugby",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/28945/image/dark",
+        "startTime": "22/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e98d8b90f599"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Gil Vicente Vs SC Olhanense",
       "eventInfo": {
@@ -1578,28 +1524,6 @@
       ],
       "isHot": false,
       "id": "evt_9bff6e9a1d7a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kagera Sugar FC Vs TRA United SC",
-      "eventInfo": {
-        "teamA": "Kagera Sugar FC",
-        "teamB": "TRA United SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/212404/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/380759/image",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "22/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_46f88766ae4b"
     },
     {
       "status": "LIVE",
@@ -1736,44 +1660,16 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "hd quality",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=6d7d62e964889cc36dcdf7a0ca5d6931&wsABSTime=1795400357",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_4040c6617c24"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Qatar U17 Vs Egypt U17",
-      "eventInfo": {
-        "teamA": "Qatar U17",
-        "teamB": "Egypt U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/468401/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/216077/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "22/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel13.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795353848-0-0-ccce82f4b72608ca4307c07cb29d4f8e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_46a6feb89397"
     },
     {
       "status": "LIVE",
@@ -1812,19 +1708,19 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Huachipato Vs Deportes Concepción",
+      "event_name": "Go Ahead Eagles Vs Fortuna Sittard",
       "eventInfo": {
-        "teamA": "Huachipato",
-        "teamB": "Deportes Concepción",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3164/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "22/11/2026 09:00:00 PM"
+        "teamA": "Go Ahead Eagles",
+        "teamB": "Fortuna Sittard",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "22/11/2026 09:45:00 PM"
       },
       "streams": [],
       "isHot": false,
-      "id": "evt_38618071c7bc"
+      "id": "evt_8d7662052817"
     },
     {
       "status": "LIVE",
@@ -1846,48 +1742,49 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "KV Kortrijk Vs Royale Union Saint-Gilloise",
+      "event_name": "Trabzonspor Vs Eyüpspor",
       "eventInfo": {
-        "teamA": "KV Kortrijk",
-        "teamB": "Royale Union Saint-Gilloise",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4858/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
-        "eventName": "Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
-        "startTime": "22/11/2026 09:00:00 PM"
+        "teamA": "Trabzonspor",
+        "teamB": "Eyüpspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "22/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS3 -- FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d35d332a8059"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Costa Adeje Tenerife Vs Madrid CFF",
+      "eventInfo": {
+        "teamA": "Costa Adeje Tenerife",
+        "teamB": "Madrid CFF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/202971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "22/11/2026 10:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
-      "id": "evt_d3641b23f1f6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Harlequins Women Vs Bristol Bears",
-      "eventInfo": {
-        "teamA": "Harlequins Women",
-        "teamB": "Bristol Bears",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1119868/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1119876/image",
-        "eventName": "Premiership Women's Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/28945/image/dark",
-        "startTime": "22/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e98d8b90f599"
+      "id": "evt_0115eefd6ca6"
     },
     {
       "status": "LIVE",
@@ -1903,6 +1800,18 @@
         "startTime": "22/11/2026 08:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "PEACOCK ES FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/so7lluhsj7/out/v1/f912950b3bac41afbc1f7a73e7505a77/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "bb2ec4f8284af42054a53b6866602904:1b690d7a8f93757f32273dfd14ff44c7"
+        },
+        {
+          "channel_name": "DAZN DE FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v6kda6u1j5/out/v1/68192f286df44105a49ac8effb9ee9c3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "c218e76a0722e3d206b8130fdd433406:3bbeed52573d04bc4e58499d0c463a38"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live2.tanrixstreamorigin.com/live/channel11.flv",
@@ -1979,72 +1888,6 @@
         }
       ],
       "id": "evt_a6c9ea23b61e",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Konyaspor Vs Besiktas",
-      "eventInfo": {
-        "teamA": "Konyaspor",
-        "teamB": "Besiktas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS - FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel22.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795349016-0-0-eb83937b8ab6bbd0ce1b247ae228ae35",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_9d735d3ef488",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Kasimpasa Vs Alanyaspor",
-      "eventInfo": {
-        "teamA": "Kasimpasa",
-        "teamB": "Alanyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel28.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795349015-0-0-01a3192fb8c94a6741e8d515024eba93",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_2460f8fe83f2",
       "isHot": false
     },
     {
@@ -2925,23 +2768,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Go Ahead Eagles Vs Fortuna Sittard",
-      "eventInfo": {
-        "teamA": "Go Ahead Eagles",
-        "teamB": "Fortuna Sittard",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "22/11/2026 09:45:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_8d7662052817"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Club Sporting Cristal Vs Cienciano",
       "eventInfo": {
         "teamA": "Club Sporting Cristal",
@@ -3142,30 +2968,6 @@
       ],
       "isHot": false,
       "id": "evt_22e8c5d27457"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Trabzonspor Vs Eyüpspor",
-      "eventInfo": {
-        "teamA": "Trabzonspor",
-        "teamB": "Eyüpspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "22/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS3 -- FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d35d332a8059"
     },
     {
       "status": "UPCOMING",
@@ -4114,29 +3916,6 @@
       ],
       "isHot": false,
       "id": "evt_16ff53d6b094"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Costa Adeje Tenerife Vs Madrid CFF",
-      "eventInfo": {
-        "teamA": "Costa Adeje Tenerife",
-        "teamB": "Madrid CFF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/202971/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "22/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0115eefd6ca6"
     },
     {
       "status": "UPCOMING",
@@ -8287,6 +8066,93 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Energie Cottbus Vs Hertha BSC",
+      "eventInfo": {
+        "teamA": "Energie Cottbus",
+        "teamB": "Hertha BSC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY BUNDESLIGA FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
+          "drm_key": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y888A.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a99b5f108ace"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "1. FC Kaiserslautern Vs SG Dynamo Dresden",
+      "eventInfo": {
+        "teamA": "1. FC Kaiserslautern",
+        "teamB": "SG Dynamo Dresden",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY BUNDESLIGA FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
+          "drm_key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y888AA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_29ef5486bd1e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Karlsruher SC Vs VfL Osnabrück",
+      "eventInfo": {
+        "teamA": "Karlsruher SC",
+        "teamB": "VfL Osnabrück",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY BUNDESLIGA FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd",
+          "drm_key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y888AAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fab80c503369"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Burnley Vs Blackburn Rovers",
       "eventInfo": {
         "teamA": "Burnley",
@@ -8322,6 +8188,59 @@
       ],
       "isHot": false,
       "id": "evt_3a8b976d0f3d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Denmark U17 Vs Australia U17",
+      "eventInfo": {
+        "teamA": "Denmark U17",
+        "teamB": "Australia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22597/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22578/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_463b10319bef"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Greece U17 Vs Panama U17",
+      "eventInfo": {
+        "teamA": "Greece U17",
+        "teamB": "Panama U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22607/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48866/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GOOOAAAAQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_94d3cf95971c"
     },
     {
       "status": "ENDED",
@@ -8445,6 +8364,34 @@
       ],
       "isHot": false,
       "id": "evt_36456a2d1ed7"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "SK Beveren Vs KAA Gent",
+      "eventInfo": {
+        "teamA": "SK Beveren",
+        "teamB": "KAA Gent",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4859/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+        "eventName": "Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
+        "startTime": "22/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/37ca8343-92d8-4cbd-9129-11fc6ba554ad.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/Y888AAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9c24e01f4c2c"
     },
     {
       "status": "ENDED",
