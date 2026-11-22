@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:40:16 PM 22-11-2026",
+  "last_update_time": "06:50:22 PM 22-11-2026",
   "total_matches": 336,
-  "live_match": 36,
-  "upcoming_match": 288,
+  "live_match": 38,
+  "upcoming_match": 286,
   "ended_match": 12,
   "matches": [
     {
@@ -1254,6 +1254,72 @@
         }
       ],
       "id": "evt_e4216508f789",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Konyaspor Vs Besiktas",
+      "eventInfo": {
+        "teamA": "Konyaspor",
+        "teamB": "Besiktas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS - FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel22.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795349016-0-0-eb83937b8ab6bbd0ce1b247ae228ae35",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9d735d3ef488",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kasimpasa Vs Alanyaspor",
+      "eventInfo": {
+        "teamA": "Kasimpasa",
+        "teamB": "Alanyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795349015-0-0-01a3192fb8c94a6741e8d515024eba93",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_2460f8fe83f2",
       "isHot": false
     },
     {
@@ -3816,72 +3882,6 @@
       ],
       "isHot": false,
       "id": "evt_0115eefd6ca6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Konyaspor Vs Besiktas",
-      "eventInfo": {
-        "teamA": "Konyaspor",
-        "teamB": "Besiktas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS - FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel22.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-22.flv?auth_key=3000001795349016-0-0-eb83937b8ab6bbd0ce1b247ae228ae35",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_9d735d3ef488",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Kasimpasa Vs Alanyaspor",
-      "eventInfo": {
-        "teamA": "Kasimpasa",
-        "teamB": "Alanyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel28.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795349015-0-0-01a3192fb8c94a6741e8d515024eba93",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_2460f8fe83f2",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
