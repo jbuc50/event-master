@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:21 AM 22-11-2026",
+  "last_update_time": "11:40:17 AM 22-11-2026",
   "total_matches": 363,
-  "live_match": 18,
+  "live_match": 16,
   "upcoming_match": 316,
-  "ended_match": 29,
+  "ended_match": 31,
   "matches": [
     {
       "status": "LIVE",
@@ -474,29 +474,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Tigres UANL Vs Club América",
-      "eventInfo": {
-        "teamA": "Tigres UANL",
-        "teamB": "Club América",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "22/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1d1e87592e3d"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Sacramento Kings Vs Boston Celtics",
       "eventInfo": {
@@ -637,29 +614,6 @@
       ],
       "isHot": false,
       "id": "evt_cc65b67395e8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "TCU Horned Frogs Vs Utah Utes",
-      "eventInfo": {
-        "teamA": "TCU Horned Frogs",
-        "teamB": "Utah Utes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4303/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60712/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a6b98747fca8"
     },
     {
       "status": "LIVE",
@@ -7860,6 +7814,29 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Tigres UANL Vs Club América",
+      "eventInfo": {
+        "teamA": "Tigres UANL",
+        "teamB": "Club América",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "22/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1d1e87592e3d"
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
       "eventInfo": {
@@ -8137,6 +8114,29 @@
       ],
       "isHot": false,
       "id": "evt_5b2b86f7c7bb"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "TCU Horned Frogs Vs Utah Utes",
+      "eventInfo": {
+        "teamA": "TCU Horned Frogs",
+        "teamB": "Utah Utes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4303/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60712/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a6b98747fca8"
     },
     {
       "status": "ENDED",
