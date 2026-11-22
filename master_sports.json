@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:50:16 PM 22-11-2026",
+  "last_update_time": "12:00:28 AM 23-11-2026",
   "total_matches": 318,
   "live_match": 40,
   "upcoming_match": 252,
@@ -279,6 +279,12 @@
         {
           "channel_name": "Server - 5",
           "stream_url": "https://playback.livetl004.com/live/6a2a59b347bbddd62a8dc4e4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -1424,6 +1430,11 @@
         {
           "channel_name": "hd quality 2",
           "stream_url": "https://www.rtmpcdn.com/live/c9af7ae1-65c7-4a0a-ae40-ab2f4d1655d7.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "BEIN SPORTS ARABIC HD",
+          "stream_url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/33.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
