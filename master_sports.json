@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:19 AM 23-11-2026",
+  "last_update_time": "12:40:19 AM 23-11-2026",
   "total_matches": 318,
-  "live_match": 35,
+  "live_match": 31,
   "upcoming_match": 250,
-  "ended_match": 33,
+  "ended_match": 37,
   "matches": [
     {
       "status": "LIVE",
@@ -562,30 +562,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Go Ahead Eagles Vs Fortuna Sittard",
-      "eventInfo": {
-        "teamA": "Go Ahead Eagles",
-        "teamB": "Fortuna Sittard",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "22/11/2026 09:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/DUUUVVVAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8d7662052817"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Arezzo Vs Padova",
       "eventInfo": {
         "teamA": "Arezzo",
@@ -608,30 +584,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Trabzonspor Vs Eyüpspor",
-      "eventInfo": {
-        "teamA": "Trabzonspor",
-        "teamB": "Eyüpspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "22/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS3 -- FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d35d332a8059"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "RSC Anderlecht Vs Oud-Heverlee Leuven",
       "eventInfo": {
         "teamA": "RSC Anderlecht",
@@ -650,6 +602,28 @@
       ],
       "isHot": false,
       "id": "evt_272bf6531976"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lommel SK Vs Standard Liège",
+      "eventInfo": {
+        "teamA": "Lommel SK",
+        "teamB": "Standard Liège",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5046/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2901/image",
+        "eventName": "Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
+        "startTime": "23/11/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8e4349864187"
     },
     {
       "status": "LIVE",
@@ -757,6 +731,29 @@
       ],
       "isHot": false,
       "id": "evt_90ebc40cb8bc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Argeș Pitești Vs FCSB",
+      "eventInfo": {
+        "teamA": "FC Argeș Pitești",
+        "teamB": "FCSB",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3301/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "23/11/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital FussBall",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a375b02613dd"
     },
     {
       "status": "LIVE",
@@ -1025,23 +1022,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Costa Adeje Tenerife Vs Madrid CFF",
-      "eventInfo": {
-        "teamA": "Costa Adeje Tenerife",
-        "teamB": "Madrid CFF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/202971/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "22/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_0115eefd6ca6"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Nebraska Cornhuskers Vs Butler Bulldogs",
       "eventInfo": {
@@ -1062,23 +1042,6 @@
       ],
       "isHot": false,
       "id": "evt_adfa5bb5645f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Rodina Moscow Vs Lokomotiv Moscow",
-      "eventInfo": {
-        "teamA": "Rodina Moscow",
-        "teamB": "Lokomotiv Moscow",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/322699/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2320/image",
-        "eventName": "Russian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
-        "startTime": "22/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_aafd7b107dd3"
     },
     {
       "status": "LIVE",
@@ -1106,28 +1069,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Lommel SK Vs Standard Liège",
-      "eventInfo": {
-        "teamA": "Lommel SK",
-        "teamB": "Standard Liège",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5046/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2901/image",
-        "eventName": "Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38/image/dark",
-        "startTime": "23/11/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8e4349864187"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Rosario Central Vs Gimnasia y Esgrima Mendoza",
       "eventInfo": {
         "teamA": "Rosario Central",
@@ -1146,29 +1087,6 @@
       ],
       "isHot": false,
       "id": "evt_b23194f3b848"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Argeș Pitești Vs FCSB",
-      "eventInfo": {
-        "teamA": "FC Argeș Pitești",
-        "teamB": "FCSB",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3301/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "23/11/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital FussBall",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a375b02613dd"
     },
     {
       "status": "LIVE",
@@ -7559,6 +7477,30 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Go Ahead Eagles Vs Fortuna Sittard",
+      "eventInfo": {
+        "teamA": "Go Ahead Eagles",
+        "teamB": "Fortuna Sittard",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "22/11/2026 09:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DUUUVVVAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8d7662052817"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "AFC Ajax Vs ADO Den Haag",
       "eventInfo": {
         "teamA": "AFC Ajax",
@@ -7662,6 +7604,30 @@
       ],
       "isHot": false,
       "id": "evt_0560dd125cd9"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Trabzonspor Vs Eyüpspor",
+      "eventInfo": {
+        "teamA": "Trabzonspor",
+        "teamB": "Eyüpspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "22/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS3 -- FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d35d332a8059"
     },
     {
       "status": "ENDED",
@@ -7883,6 +7849,23 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Costa Adeje Tenerife Vs Madrid CFF",
+      "eventInfo": {
+        "teamA": "Costa Adeje Tenerife",
+        "teamB": "Madrid CFF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/202971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/253896/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "22/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_0115eefd6ca6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Gil Vicente Vs SC Olhanense",
       "eventInfo": {
         "teamA": "Gil Vicente",
@@ -7918,6 +7901,23 @@
       ],
       "isHot": false,
       "id": "evt_9bff6e9a1d7a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Rodina Moscow Vs Lokomotiv Moscow",
+      "eventInfo": {
+        "teamA": "Rodina Moscow",
+        "teamB": "Lokomotiv Moscow",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/322699/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2320/image",
+        "eventName": "Russian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
+        "startTime": "22/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_aafd7b107dd3"
     }
   ]
 }
