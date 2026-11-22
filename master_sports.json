@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:33 AM 22-11-2026",
+  "last_update_time": "09:10:16 AM 22-11-2026",
   "total_matches": 365,
-  "live_match": 40,
-  "upcoming_match": 286,
-  "ended_match": 39,
+  "live_match": 35,
+  "upcoming_match": 283,
+  "ended_match": 47,
   "matches": [
     {
       "status": "LIVE",
@@ -439,6 +439,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Tigres UANL Vs Club América",
+      "eventInfo": {
+        "teamA": "Tigres UANL",
+        "teamB": "Club América",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "22/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1d1e87592e3d"
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "New York Knicks Vs Portland Trail Blazers",
       "eventInfo": {
@@ -509,6 +532,35 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Sacramento Kings Vs Boston Celtics",
+      "eventInfo": {
+        "teamA": "Sacramento Kings",
+        "teamB": "Boston Celtics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/YEEEAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_74eff15c4ac9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "San Antonio Spurs Vs New Orleans Pelicans",
       "eventInfo": {
         "teamA": "San Antonio Spurs",
@@ -567,184 +619,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Boston Bruins Vs Washington Capitals",
-      "eventInfo": {
-        "teamA": "Boston Bruins",
-        "teamB": "Washington Capitals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60684/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1e2a5278-203c-4772-8286-bfb5e23cf4ee/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b9e5686c2251"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "St. Louis Blues Vs New Jersey Devils",
-      "eventInfo": {
-        "teamA": "St. Louis Blues",
-        "teamB": "New Jersey Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60683/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7a062660-30fc-40a5-9767-2f1056bbf6cc/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a46caad1fa87"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Detroit Red Wings Vs New York Islanders",
-      "eventInfo": {
-        "teamA": "Detroit Red Wings",
-        "teamB": "New York Islanders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60679/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/074044ee-20c4-4287-b5be-b170fe9dcf67/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c6204358fef9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Toronto Maple Leafs Vs Columbus Blue Jackets",
-      "eventInfo": {
-        "teamA": "Toronto Maple Leafs",
-        "teamB": "Columbus Blue Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60689/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f9df447-44c0-49e2-b2a7-3fc570b847f7/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8bdfbd236213"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Montréal Canadiens Vs Philadelphia Flyers",
-      "eventInfo": {
-        "teamA": "Montréal Canadiens",
-        "teamB": "Philadelphia Flyers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60682/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60681/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e408bfe-7423-4628-b073-c6fde686cece/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_54f80f44f679"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Ottawa Senators Vs Los Angeles Kings",
-      "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "Los Angeles Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60680/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/71169885-b148-4562-a83f-d814b962bb02/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_58848c4bcd67"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "Utah Mammoth Vs Anaheim Ducks",
       "eventInfo": {
         "teamA": "Utah Mammoth",
@@ -772,29 +646,66 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Winnipeg Jets Vs Vegas Golden Knights",
+      "event_name": "San Jose Sharks Vs Seattle Kraken",
       "eventInfo": {
-        "teamA": "Winnipeg Jets",
-        "teamB": "Vegas Golden Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamA": "San Jose Sharks",
+        "teamB": "Seattle Kraken",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
         "eventName": "NHL",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 06:00:00 AM"
+        "startTime": "22/11/2026 09:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60685/load-playlist-multi?&.m3u8",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
           "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fbd304e7-22a2-4e12-835c-8c9331b6a861/master.m3u8"
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5e389f37-9781-4891-974b-6c35803558a9/master.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_403a2687e764"
+      "id": "evt_02f14d0d8102"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Vancouver Canucks Vs Minnesota Wild",
+      "eventInfo": {
+        "teamA": "Vancouver Canucks",
+        "teamB": "Minnesota Wild",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/23e49965-e1a2-4e87-92ee-738f48932993/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_17d9429b3da1"
     },
     {
       "status": "LIVE",
@@ -818,23 +729,6 @@
       ],
       "isHot": false,
       "id": "evt_eddcad00a451"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "USC Trojans Vs Maryland Terrapins",
-      "eventInfo": {
-        "teamA": "USC Trojans",
-        "teamB": "Maryland Terrapins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4290/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4306/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 05:15:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_01491d696b5e"
     },
     {
       "status": "LIVE",
@@ -1113,196 +1007,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Tigres UANL Vs Club América",
-      "eventInfo": {
-        "teamA": "Tigres UANL",
-        "teamB": "Club América",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "22/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1d1e87592e3d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Sacramento Kings Vs Boston Celtics",
-      "eventInfo": {
-        "teamA": "Sacramento Kings",
-        "teamB": "Boston Celtics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/YEEEAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_74eff15c4ac9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "San Jose Sharks Vs Seattle Kraken",
-      "eventInfo": {
-        "teamA": "San Jose Sharks",
-        "teamB": "Seattle Kraken",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST+ HD",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5e389f37-9781-4891-974b-6c35803558a9/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_02f14d0d8102"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vancouver Canucks Vs Minnesota Wild",
-      "eventInfo": {
-        "teamA": "Vancouver Canucks",
-        "teamB": "Minnesota Wild",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/23e49965-e1a2-4e87-92ee-738f48932993/master.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_17d9429b3da1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Arizona State Sun Devils Vs Oklahoma State Cowboys",
-      "eventInfo": {
-        "teamA": "Arizona State Sun Devils",
-        "teamB": "Oklahoma State Cowboys",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4380/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4281/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 09:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_135ecd2ff548"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Oregon State Beavers Vs Utah State Aggies",
-      "eventInfo": {
-        "teamA": "Oregon State Beavers",
-        "teamB": "Utah State Aggies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4299/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4300/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cc65b67395e8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Nevada Wolf Pack Vs Hawaii Rainbow Warriors",
-      "eventInfo": {
-        "teamA": "Nevada Wolf Pack",
-        "teamB": "Hawaii Rainbow Warriors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4371/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "22/11/2026 09:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_56b17477d4be"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Motorsports",
       "event_name": "Formula 1 Vs Formula 1",
       "eventInfo": {
@@ -1382,6 +1086,127 @@
       ],
       "isHot": false,
       "id": "evt_c4e10ab9664c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Perth Glory",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Perth Glory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174100/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "22/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/HLPPPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cec9a940b288"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Arizona State Sun Devils Vs Oklahoma State Cowboys",
+      "eventInfo": {
+        "teamA": "Arizona State Sun Devils",
+        "teamB": "Oklahoma State Cowboys",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4380/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4281/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 09:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_135ecd2ff548"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Oregon State Beavers Vs Utah State Aggies",
+      "eventInfo": {
+        "teamA": "Oregon State Beavers",
+        "teamB": "Utah State Aggies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4299/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4300/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cc65b67395e8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Nevada Wolf Pack Vs Hawaii Rainbow Warriors",
+      "eventInfo": {
+        "teamA": "Nevada Wolf Pack",
+        "teamB": "Hawaii Rainbow Warriors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4371/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_56b17477d4be"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "South East Melbourne Phoenix Vs Cairns Taipans",
+      "eventInfo": {
+        "teamA": "South East Melbourne Phoenix",
+        "teamB": "Cairns Taipans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "22/11/2026 10:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e0cc5e45d59a"
     },
     {
       "status": "UPCOMING",
@@ -1671,36 +1496,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Perth Glory",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Perth Glory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174100/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "22/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/HLPPPAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cec9a940b288"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Italia T10 League Vs Italia T10 League",
       "eventInfo": {
@@ -1725,23 +1520,6 @@
       ],
       "isHot": false,
       "id": "evt_6e67cab91738"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "South East Melbourne Phoenix Vs Cairns Taipans",
-      "eventInfo": {
-        "teamA": "South East Melbourne Phoenix",
-        "teamB": "Cairns Taipans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "22/11/2026 10:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_e0cc5e45d59a"
     },
     {
       "status": "UPCOMING",
@@ -7582,6 +7360,33 @@
     {
       "status": "ENDED",
       "Category": "Hockey",
+      "event_name": "Boston Bruins Vs Washington Capitals",
+      "eventInfo": {
+        "teamA": "Boston Bruins",
+        "teamB": "Washington Capitals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60684/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1e2a5278-203c-4772-8286-bfb5e23cf4ee/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b9e5686c2251"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
       "event_name": "Florida Panthers Vs Buffalo Sabres",
       "eventInfo": {
         "teamA": "Florida Panthers",
@@ -7624,6 +7429,184 @@
       ],
       "isHot": false,
       "id": "evt_0ba3e337e5bc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "St. Louis Blues Vs New Jersey Devils",
+      "eventInfo": {
+        "teamA": "St. Louis Blues",
+        "teamB": "New Jersey Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60683/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7a062660-30fc-40a5-9767-2f1056bbf6cc/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a46caad1fa87"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Detroit Red Wings Vs New York Islanders",
+      "eventInfo": {
+        "teamA": "Detroit Red Wings",
+        "teamB": "New York Islanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60679/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/074044ee-20c4-4287-b5be-b170fe9dcf67/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c6204358fef9"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Toronto Maple Leafs Vs Columbus Blue Jackets",
+      "eventInfo": {
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "Columbus Blue Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60689/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9f9df447-44c0-49e2-b2a7-3fc570b847f7/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8bdfbd236213"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Montréal Canadiens Vs Philadelphia Flyers",
+      "eventInfo": {
+        "teamA": "Montréal Canadiens",
+        "teamB": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60682/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60681/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e408bfe-7423-4628-b073-c6fde686cece/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_54f80f44f679"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Ottawa Senators Vs Los Angeles Kings",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Los Angeles Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60680/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/71169885-b148-4562-a83f-d814b962bb02/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_58848c4bcd67"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Winnipeg Jets Vs Vegas Golden Knights",
+      "eventInfo": {
+        "teamA": "Winnipeg Jets",
+        "teamB": "Vegas Golden Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60685/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST+ HD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fbd304e7-22a2-4e12-835c-8c9331b6a861/master.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_403a2687e764"
     },
     {
       "status": "ENDED",
@@ -7968,6 +7951,23 @@
       ],
       "isHot": false,
       "id": "evt_2545e3e452dc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "USC Trojans Vs Maryland Terrapins",
+      "eventInfo": {
+        "teamA": "USC Trojans",
+        "teamB": "Maryland Terrapins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4290/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4306/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "22/11/2026 05:15:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_01491d696b5e"
     },
     {
       "status": "ENDED",
