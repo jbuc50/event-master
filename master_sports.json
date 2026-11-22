@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:40:16 PM 22-11-2026",
+  "last_update_time": "05:50:20 PM 22-11-2026",
   "total_matches": 368,
   "live_match": 29,
   "upcoming_match": 298,
@@ -599,6 +599,11 @@
           "channel_name": "SPORT1 CZ FHD",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "hd quality",
+          "stream_url": "https://www.rtmpcdn.com/live/dcca6cd1-7f87-4544-9c54-bb8648b4d76c.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
