@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:20:16 AM 22-11-2026",
+  "last_update_time": "10:30:25 AM 22-11-2026",
   "total_matches": 337,
-  "live_match": 22,
-  "upcoming_match": 291,
+  "live_match": 23,
+  "upcoming_match": 290,
   "ended_match": 24,
   "matches": [
     {
@@ -892,6 +892,30 @@
       ],
       "isHot": false,
       "id": "evt_7e8aa0e4bd32"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Brisbane Heat Women Vs Adelaide Strikers Women",
+      "eventInfo": {
+        "teamA": "Brisbane Heat Women",
+        "teamB": "Adelaide Strikers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+        "eventName": "Womens Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "22/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_d6e47dae0d20",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -3062,30 +3086,6 @@
       ],
       "isHot": false,
       "id": "evt_bb861f1f3083"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Brisbane Heat Women Vs Adelaide Strikers Women",
-      "eventInfo": {
-        "teamA": "Brisbane Heat Women",
-        "teamB": "Adelaide Strikers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "eventName": "Womens Big Bash League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "22/11/2026 10:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_d6e47dae0d20",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
