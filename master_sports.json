@@ -1,100 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:21 PM 22-11-2026",
+  "last_update_time": "09:40:16 PM 22-11-2026",
   "total_matches": 343,
-  "live_match": 46,
-  "upcoming_match": 270,
-  "ended_match": 27,
+  "live_match": 44,
+  "upcoming_match": 265,
+  "ended_match": 34,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Barcelona Vs Villarreal",
-      "eventInfo": {
-        "teamA": "FC Barcelona",
-        "teamB": "Villarreal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "beIN ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "D SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "DAZN DE FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u8ummoryxo/out/v1/34c6b6d4f2e340fcb56e3eb5a0d9726c/cenc.mpd",
-          "drm_key": "010dc235ab05b5db4436db71e6b118e5:91a2d52f1e744d5b45f8000b379303d6"
-        },
-        {
-          "channel_name": "CAZE TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-        },
-        {
-          "channel_name": "ESPN DEPORTES+HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60725/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY TV ",
-          "stream_url": "https://www.rtmpcdn.com/live/8b610bde-4b1e-4242-b997-274b9e6c7943.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://www.rtmpcdn.com/live/migu2.m3u8"
-        },
-        {
-          "channel_name": "FANCODE SD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm_key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/8UUU.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "DAZN Multi Commentary",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd",
-          "drm_key": "63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1ae69ed17cde"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -389,7 +301,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.44/hls/QIII.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/QIII.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -438,8 +358,8 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jsbrhiu4jg/out/v1/a4d08c7d62ba467fbad3354567862885/cenc.mpd",
-          "drm_key": "65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g0tdsq9yi2/out/v1/732ff57fc3cf49b791421213b7c9b211/cenc.mpd",
+          "drm_key": "bc80c0b7f64185f59b3eb9129ea16f4d:625c429192608e209508a10c86780a7c"
         },
         {
           "channel_name": "TNT3 SPORTS FHD",
@@ -525,25 +445,140 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Córdoba Vs Real Oviedo",
+      "event_name": "Real Racing Club Vs Real Sociedad",
       "eventInfo": {
-        "teamA": "Córdoba",
-        "teamB": "Real Oviedo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+        "teamA": "Real Racing Club",
+        "teamB": "Real Sociedad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "22/11/2026 09:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/73zpl8bksq/out/v1/be6ecab30c1746499fce1a422a6205fe/cenc.mpd",
+          "drm_key": "6365ce13b350b2d18c0c8ca197788571:15c4d7c272fd71c8f3ec017ee2bf0301"
+        },
+        {
+          "channel_name": "PREMIER SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "CAZE TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "CAZE TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "CANAL5 MX+ FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "ESPN DEPORTES+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60731/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/H555AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795353851-0-0-fdffe757314bd435e3997e8f22b7b57a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795341249-0-0-89ae6c7dc5911804b5335e6ae8c5357f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fced3010478da88cebc83f9d1934ff73&txTime=6b0301d5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/6a0c7c4b1ae4d6db02433c48.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f7248513037a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sporting Gijón Vs UD Las Palmas",
+      "eventInfo": {
+        "teamA": "Sporting Gijón",
+        "teamB": "UD Las Palmas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
         "eventName": "LaLiga 2",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
+        "startTime": "22/11/2026 09:15:00 PM"
       },
       "streams": [
         {
           "channel_name": "LaLiga Hypermotion",
           "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=7d4da048b514cf9de1adab12eff1edc4&wsABSTime=1795397083",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_0e6f419ef515"
+      "id": "evt_7cbef7e7c91d"
     },
     {
       "status": "LIVE",
@@ -917,6 +952,12 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/E444A.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "Server - 1",
           "stream_url": "https://live2.tanrixstreamorigin.com/live/channel9.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
@@ -935,6 +976,53 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Argentina U17 Vs Mozambique U17",
+      "eventInfo": {
+        "teamA": "Argentina U17",
+        "teamB": "Mozambique U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22576/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1126751/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "22/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS ++ FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL5 MX+ FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "hd quality",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=6d7d62e964889cc36dcdf7a0ca5d6931&wsABSTime=1795400357",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4040c6617c24"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Qatar U17 Vs Egypt U17",
       "eventInfo": {
         "teamA": "Qatar U17",
@@ -948,7 +1036,15 @@
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.44/hls/QIIIQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/QIIIQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -969,32 +1065,50 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Ecuador U17 Vs Uganda U17",
+      "event_name": "Uruguay U17 Vs Haiti U17",
       "eventInfo": {
-        "teamA": "Ecuador U17",
-        "teamB": "Uganda U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48835/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1077159/image",
+        "teamA": "Uruguay U17",
+        "teamB": "Haiti U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37322/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image",
         "eventName": "U17 World Championship",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
+        "startTime": "22/11/2026 09:30:00 PM"
       },
       "streams": [
         {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
           "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.50/hls/EPPPQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+          "stream_url": "http://193.47.62.44/hls/DUUUV.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/EPPPQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+          "stream_url": "http://193.47.62.44/hls/DUUUV.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795353923-0-0-87adf9ffa99d02d6d69faf03acfb0839",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_70bb3bdc58dc"
+      "id": "evt_a47c87b3e566"
     },
     {
       "status": "LIVE",
@@ -1074,57 +1188,40 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
         "startTime": "22/11/2026 09:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/QIIIQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_38618071c7bc"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "IK Sirius Vs Djurgårdens IF",
+      "event_name": "IF Brommapojkarna Vs Halmstads BK",
       "eventInfo": {
-        "teamA": "IK Sirius",
-        "teamB": "Djurgårdens IF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1793/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1759/image",
+        "teamA": "IF Brommapojkarna",
+        "teamB": "Halmstads BK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1787/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1767/image",
         "eventName": "Allsvenskan",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
+        "startTime": "22/11/2026 09:30:00 PM"
       },
       "streams": [
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/DMMMAAA.m3u8",
+          "stream_url": "http://193.47.62.44/hls/DUUUVVVA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_8f208100ac0d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "BK Häcken Vs IF Elfsborg",
-      "eventInfo": {
-        "teamA": "BK Häcken",
-        "teamB": "IF Elfsborg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1760/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1762/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/DMMMAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fe78c5836066"
+      "id": "evt_3d40d6874f0d"
     },
     {
       "status": "LIVE",
@@ -1159,70 +1256,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Kasımpaşa Vs Alanyaspor",
-      "eventInfo": {
-        "teamA": "Kasımpaşa",
-        "teamB": "Alanyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_301a104c4c19"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Konyaspor Vs Beşiktaş JK",
-      "eventInfo": {
-        "teamA": "Konyaspor",
-        "teamB": "Beşiktaş JK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "22/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS3 -- FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/2d8a7933-3472-4621-8296-6b0ca1d90e2f.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e09459e3a38c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Arsenal Vs West Ham",
       "eventInfo": {
         "teamA": "Arsenal",
@@ -1234,6 +1267,11 @@
         "startTime": "22/11/2026 08:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u8yvmiy1mv/out/v1/959d5255514b41ff8057d0b95c5602ed/cenc.mpd",
+          "drm_key": "352fa74482cd697fb109ec433626646b:d6e9c9e23ec2d9c83be2d8534e469e2b"
+        },
         {
           "channel_name": "CBS SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
@@ -1337,7 +1375,13 @@
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/30182640-8dd1-45d6-9ec9-8f11f99417eb.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/H555AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1468,188 +1512,104 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Real Racing Club Vs Real Sociedad",
+      "event_name": "Liverpool FC Vs Manchester United",
       "eventInfo": {
-        "teamA": "Real Racing Club",
-        "teamB": "Real Sociedad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "22/11/2026 09:15:00 PM"
+        "teamA": "Liverpool FC",
+        "teamB": "Manchester United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "22/11/2026 10:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PREMIER SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "channel_name": "FUBO SPORTS CA FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+          "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
         },
         {
-          "channel_name": "beIN ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "channel_name": "SKY SPORTS EPL - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "SKY SPORTS EPL FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
         },
         {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "channel_name": "SKY SPORTS ACTION - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "SKY SPORTS EPL",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "CAZE TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-        },
-        {
-          "channel_name": "CAZE TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795353851-0-0-fdffe757314bd435e3997e8f22b7b57a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912142_lhd.m3u8?auth_key=1795341249-0-0-89ae6c7dc5911804b5335e6ae8c5357f",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=fced3010478da88cebc83f9d1934ff73&txTime=6b0301d5",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://playback.livetl004.com/live/6a0c7c4b1ae4d6db02433c48.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - (bd)",
-          "stream_url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
         }
       ],
       "isHot": false,
-      "id": "evt_f7248513037a"
+      "id": "evt_a17ab8434950"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sporting Gijón Vs UD Las Palmas",
+      "event_name": "Lorient Vs Stade Rennais",
       "eventInfo": {
-        "teamA": "Sporting Gijón",
-        "teamB": "UD Las Palmas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "22/11/2026 09:15:00 PM"
+        "teamA": "Lorient",
+        "teamB": "Stade Rennais",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+        "eventName": "Ligue 1",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "22/11/2026 10:15:00 PM"
       },
       "streams": [
         {
-          "channel_name": "LaLiga Hypermotion",
-          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "beIN SPORTS US FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
         },
         {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel24.flv?wsSecret=7d4da048b514cf9de1adab12eff1edc4&wsABSTime=1795397083",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "beIN ESPNAOL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1847/index.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_7cbef7e7c91d"
+      "id": "evt_67b3a662104a"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Argentina U17 Vs Mozambique U17",
+      "event_name": "SV Werder Bremen Vs Hamburger SV",
       "eventInfo": {
-        "teamA": "Argentina U17",
-        "teamB": "Mozambique U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22576/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1126751/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "22/11/2026 09:30:00 PM"
+        "teamA": "SV Werder Bremen",
+        "teamB": "Hamburger SV",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "22/11/2026 10:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL5 MX+ FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "hd quality",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel31.flv?wsSecret=6d7d62e964889cc36dcdf7a0ca5d6931&wsABSTime=1795400357",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel31/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2122/index.m3u8"
         }
       ],
       "isHot": false,
-      "id": "evt_4040c6617c24"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Uruguay U17 Vs Haiti U17",
-      "eventInfo": {
-        "teamA": "Uruguay U17",
-        "teamB": "Haiti U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37322/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "22/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-7.flv?auth_key=3000001795353923-0-0-87adf9ffa99d02d6d69faf03acfb0839",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a47c87b3e566"
+      "id": "evt_c555edfdf218"
     },
     {
       "status": "LIVE",
@@ -1664,26 +1624,38 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "startTime": "22/11/2026 09:45:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/DUUUVVVAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_8d7662052817"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "IF Brommapojkarna Vs Halmstads BK",
+      "event_name": "Arezzo Vs Padova",
       "eventInfo": {
-        "teamA": "IF Brommapojkarna",
-        "teamB": "Halmstads BK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1787/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1767/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "22/11/2026 09:30:00 PM"
+        "teamA": "Arezzo",
+        "teamB": "Padova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2731/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "22/11/2026 10:15:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
       "isHot": false,
-      "id": "evt_3d40d6874f0d"
+      "id": "evt_5978f87ddf7b"
     },
     {
       "status": "LIVE",
@@ -1704,10 +1676,50 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live2.tanrixstreamorigin.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795357465-0-0-e19b33882bf86212830ff3173fd24714",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_d35d332a8059"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wisła Płock Vs Legia Warszawa",
+      "eventInfo": {
+        "teamA": "Wisła Płock",
+        "teamB": "Legia Warszawa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3122/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3106/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "22/11/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "SportDigital FussBall",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5445c015541a"
     },
     {
       "status": "LIVE",
@@ -1883,52 +1895,6 @@
       ],
       "id": "evt_08c3814e306d",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Liverpool FC Vs Manchester United",
-      "eventInfo": {
-        "teamA": "Liverpool FC",
-        "teamB": "Manchester United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "22/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FUBO SPORTS CA FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
-        },
-        {
-          "channel_name": "SKY SPORTS ACTION - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a17ab8434950"
     },
     {
       "status": "UPCOMING",
@@ -2658,62 +2624,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Lorient Vs Stade Rennais",
-      "eventInfo": {
-        "teamA": "Lorient",
-        "teamB": "Stade Rennais",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-        "eventName": "Ligue 1",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "startTime": "22/11/2026 10:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS US FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
-        },
-        {
-          "channel_name": "beIN ESPNAOL FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1847/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_67b3a662104a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "SV Werder Bremen Vs Hamburger SV",
-      "eventInfo": {
-        "teamA": "SV Werder Bremen",
-        "teamB": "Hamburger SV",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "22/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2122/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c555edfdf218"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Club Sporting Cristal Vs Cienciano",
       "eventInfo": {
         "teamA": "Club Sporting Cristal",
@@ -2724,12 +2634,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "startTime": "23/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_504cb54286e7"
     },
@@ -2746,12 +2651,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
         "startTime": "23/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_f197508dd48d"
     },
@@ -2788,28 +2688,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_ac77f66f4ab0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Arezzo Vs Padova",
-      "eventInfo": {
-        "teamA": "Arezzo",
-        "teamB": "Padova",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2731/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
-        "eventName": "Serie B",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
-        "startTime": "22/11/2026 10:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5978f87ddf7b"
     },
     {
       "status": "UPCOMING",
@@ -2958,34 +2836,6 @@
       ],
       "isHot": false,
       "id": "evt_8e4349864187"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wisła Płock Vs Legia Warszawa",
-      "eventInfo": {
-        "teamA": "Wisła Płock",
-        "teamB": "Legia Warszawa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3106/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "22/11/2026 10:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "SportDigital FussBall",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5445c015541a"
     },
     {
       "status": "UPCOMING",
@@ -7608,6 +7458,94 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Barcelona Vs Villarreal",
+      "eventInfo": {
+        "teamA": "FC Barcelona",
+        "teamB": "Villarreal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "D SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "DAZN DE FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u8ummoryxo/out/v1/34c6b6d4f2e340fcb56e3eb5a0d9726c/cenc.mpd",
+          "drm_key": "010dc235ab05b5db4436db71e6b118e5:91a2d52f1e744d5b45f8000b379303d6"
+        },
+        {
+          "channel_name": "CAZE TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "ESPN DEPORTES+HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60725/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY TV ",
+          "stream_url": "https://www.rtmpcdn.com/live/8b610bde-4b1e-4242-b997-274b9e6c7943.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://www.rtmpcdn.com/live/migu2.m3u8"
+        },
+        {
+          "channel_name": "FANCODE SD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "drm_key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/8UUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "DAZN Multi Commentary",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd",
+          "drm_key": "63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1ae69ed17cde"
+    },
+    {
+      "status": "ENDED",
       "Category": "Boxing",
       "event_name": "Amari Jones Vs Deaundre Pettus",
       "eventInfo": {
@@ -7934,6 +7872,29 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Córdoba Vs Real Oviedo",
+      "eventInfo": {
+        "teamA": "Córdoba",
+        "teamB": "Real Oviedo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LaLiga Hypermotion",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0e6f419ef515"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Juventus Vs Venezia",
       "eventInfo": {
         "teamA": "Juventus",
@@ -8099,6 +8060,36 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Ecuador U17 Vs Uganda U17",
+      "eventInfo": {
+        "teamA": "Ecuador U17",
+        "teamB": "Uganda U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48835/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1077159/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "http://193.47.62.50/hls/EPPPQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/EPPPQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_70bb3bdc58dc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Burnley Vs Blackburn Rovers",
       "eventInfo": {
         "teamA": "Burnley",
@@ -8219,6 +8210,84 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "IK Sirius Vs Djurgårdens IF",
+      "eventInfo": {
+        "teamA": "IK Sirius",
+        "teamB": "Djurgårdens IF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1793/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1759/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/DMMMAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8f208100ac0d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "BK Häcken Vs IF Elfsborg",
+      "eventInfo": {
+        "teamA": "BK Häcken",
+        "teamB": "IF Elfsborg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1762/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/DMMMAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fe78c5836066"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Kasımpaşa Vs Alanyaspor",
+      "eventInfo": {
+        "teamA": "Kasımpaşa",
+        "teamB": "Alanyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_301a104c4c19"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Erzurumspor FK Vs Göztepe",
       "eventInfo": {
         "teamA": "Erzurumspor FK",
@@ -8245,6 +8314,40 @@
       ],
       "isHot": false,
       "id": "evt_edf00b49d39f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Konyaspor Vs Beşiktaş JK",
+      "eventInfo": {
+        "teamA": "Konyaspor",
+        "teamB": "Beşiktaş JK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "22/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS3 -- FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/2d8a7933-3472-4621-8296-6b0ca1d90e2f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/EPPPQQQQQAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e09459e3a38c"
     },
     {
       "status": "ENDED",
