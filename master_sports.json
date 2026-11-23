@@ -1,42 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:40:16 AM 24-11-2026",
-  "total_matches": 170,
-  "live_match": 4,
+  "last_update_time": "01:50:18 AM 24-11-2026",
+  "total_matches": 169,
+  "live_match": 3,
   "upcoming_match": 166,
   "ended_match": 0,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Başakşehir Vs Corum Belediyespor",
-      "eventInfo": {
-        "teamA": "Başakşehir",
-        "teamB": "Corum Belediyespor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "23/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel23.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001795439993-0-0-f50655c9f695ebe19276319f67721e8a",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7c3a549835c6",
-      "isHot": false
-    },
     {
       "status": "LIVE",
       "Category": "Football",
