@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:28 PM 23-11-2026",
+  "last_update_time": "12:10:18 PM 23-11-2026",
   "total_matches": 285,
-  "live_match": 4,
+  "live_match": 3,
   "upcoming_match": 226,
-  "ended_match": 55,
+  "ended_match": 56,
   "matches": [
     {
       "status": "LIVE",
@@ -264,51 +264,6 @@
       ],
       "isHot": false,
       "id": "evt_b00a1ae1d209"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "NFL REDZONE Vs NFL REDZONE",
-      "eventInfo": {
-        "teamA": "NFL REDZONE",
-        "teamB": "NFL REDZONE",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "eventName": "NFL REDZONE",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "22/11/2026 11:50:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "REDZONE FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b"
-        },
-        {
-          "channel_name": "SERVER HD 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60733/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER HD 3",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60734/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "RedZone - Week 11",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f60169a33f5c94aca22d7d93079bbfa1:888e18968c39f6e3b7fcada59b87e857"
-        },
-        {
-          "channel_name": "SERVER 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/60732/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6fff843dd536"
     },
     {
       "status": "LIVE",
@@ -5382,6 +5337,51 @@
       ],
       "isHot": false,
       "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "NFL REDZONE Vs NFL REDZONE",
+      "eventInfo": {
+        "teamA": "NFL REDZONE",
+        "teamB": "NFL REDZONE",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "eventName": "NFL REDZONE",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "22/11/2026 11:50:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "REDZONE FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b"
+        },
+        {
+          "channel_name": "SERVER HD 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60733/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER HD 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60734/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "RedZone - Week 11",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ym9kbji9jh/out/v1/fddb9964cee64f9a9f5bd97bf0ad668e/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f60169a33f5c94aca22d7d93079bbfa1:888e18968c39f6e3b7fcada59b87e857"
+        },
+        {
+          "channel_name": "SERVER 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60732/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6fff843dd536"
     },
     {
       "status": "ENDED",
