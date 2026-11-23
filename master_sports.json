@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:30:22 AM 24-11-2026",
-  "total_matches": 169,
-  "live_match": 7,
-  "upcoming_match": 162,
+  "last_update_time": "02:40:26 AM 24-11-2026",
+  "total_matches": 166,
+  "live_match": 5,
+  "upcoming_match": 161,
   "ended_match": 0,
   "matches": [
     {
@@ -35,76 +35,6 @@
         }
       ],
       "id": "evt_937b31f310f8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al Ittihad Vs Pakhtakor",
-      "eventInfo": {
-        "teamA": "Al Ittihad",
-        "teamB": "Pakhtakor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "24/11/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel16.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795439957-0-0-afc30768dbb2f4aa34b073bda4f380da",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1795444689-0-0-3b44e5f30dcd23d96db68639ae45af80",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_03c19776e7b6",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Quwa Al Jawiya Vs Al Gharafa",
-      "eventInfo": {
-        "teamA": "Quwa Al Jawiya",
-        "teamB": "Al Gharafa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "24/11/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001795439964-0-0-ae0f03a43eaf70de3b3e1ce81661de76",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_4b9e4948068a",
       "isHot": false
     },
     {
@@ -376,6 +306,90 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Internacional Vs Vitoria",
+      "eventInfo": {
+        "teamA": "Internacional",
+        "teamB": "Vitoria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "24/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001795465318-0-0-dd9761408ae9ebe59836d38dad940c87",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_20b88e358bbf",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Botafogo Vs São Paulo",
+      "eventInfo": {
+        "teamA": "Botafogo",
+        "teamB": "São Paulo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "24/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel28.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-28.flv?auth_key=3000001795465212-0-0-3809a2ed9ec66969c61e89cf3054c27a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8ee8468ff827",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "2 de Mayo Vs Sp. San Lorenzo",
+      "eventInfo": {
+        "teamA": "2 de Mayo",
+        "teamB": "Sp. San Lorenzo",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "24/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=b8b029f4f5969114757de844d9d9a26e&wsABSTime=1795508691",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7434d6fd50b9",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Galatasaray Vs Aston Villa",
       "eventInfo": {
         "teamA": "Galatasaray",
@@ -563,40 +577,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Internacional Vs Vitoria",
-      "eventInfo": {
-        "teamA": "Internacional",
-        "teamB": "Vitoria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-        "eventName": "Brasileirão Série A",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "24/11/2026 04:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_20b88e358bbf",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Botafogo Vs São Paulo",
-      "eventInfo": {
-        "teamA": "Botafogo",
-        "teamB": "São Paulo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-        "eventName": "Brasileirão Série A",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "24/11/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_8ee8468ff827",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Santos Vs Gremio",
       "eventInfo": {
         "teamA": "Santos",
@@ -609,40 +589,6 @@
       },
       "streams": [],
       "id": "evt_7db251287e28",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "2 de Mayo Vs Sp. San Lorenzo",
-      "eventInfo": {
-        "teamA": "2 de Mayo",
-        "teamB": "Sp. San Lorenzo",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "24/11/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_7434d6fd50b9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Club Nacional Vs Cerro Porteño",
-      "eventInfo": {
-        "teamA": "Club Nacional",
-        "teamB": "Cerro Porteño",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33001/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5991/image",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "24/11/2026 05:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ab1add705188",
       "isHot": false
     },
     {
