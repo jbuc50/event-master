@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:40:17 AM 23-11-2026",
+  "last_update_time": "06:50:16 AM 23-11-2026",
   "total_matches": 308,
-  "live_match": 24,
-  "upcoming_match": 207,
+  "live_match": 25,
+  "upcoming_match": 206,
   "ended_match": 77,
   "matches": [
     {
@@ -980,6 +980,36 @@
       ],
       "isHot": false,
       "id": "evt_a52b790e624b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Instituto Cordoba Vs Club Atletico Huracan",
+      "eventInfo": {
+        "teamA": "Instituto Cordoba",
+        "teamB": "Club Atletico Huracan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4937/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "23/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3.klerovamediadelivery.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795368065-0-0-b80e80b4eaac0a777493b80e4fbd456f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c5b76b2c8439",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -2359,36 +2389,6 @@
       ],
       "isHot": false,
       "id": "evt_4cc4991e0eb2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Instituto Cordoba Vs Club Atletico Huracan",
-      "eventInfo": {
-        "teamA": "Instituto Cordoba",
-        "teamB": "Club Atletico Huracan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4937/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
-        "eventName": "Liga Profesional",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-        "startTime": "23/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3.klerovamediadelivery.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795368065-0-0-b80e80b4eaac0a777493b80e4fbd456f",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_c5b76b2c8439",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
