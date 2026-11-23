@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:40:26 AM 24-11-2026",
+  "last_update_time": "02:50:17 AM 24-11-2026",
   "total_matches": 166,
-  "live_match": 5,
-  "upcoming_match": 161,
+  "live_match": 6,
+  "upcoming_match": 160,
   "ended_match": 0,
   "matches": [
     {
@@ -169,6 +169,30 @@
         }
       ],
       "id": "evt_e8b2ada9d69f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "2 de Mayo Vs Sp. San Lorenzo",
+      "eventInfo": {
+        "teamA": "2 de Mayo",
+        "teamB": "Sp. San Lorenzo",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
+        "eventName": "Copa de Primera",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
+        "startTime": "24/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=b8b029f4f5969114757de844d9d9a26e&wsABSTime=1795508691",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7434d6fd50b9",
       "isHot": false
     },
     {
@@ -361,30 +385,6 @@
         }
       ],
       "id": "evt_8ee8468ff827",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "2 de Mayo Vs Sp. San Lorenzo",
-      "eventInfo": {
-        "teamA": "2 de Mayo",
-        "teamB": "Sp. San Lorenzo",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-        "eventName": "Copa de Primera",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "24/11/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel7.flv?wsSecret=b8b029f4f5969114757de844d9d9a26e&wsABSTime=1795508691",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7434d6fd50b9",
       "isHot": false
     },
     {
