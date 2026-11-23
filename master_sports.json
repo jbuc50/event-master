@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:00:29 PM 23-11-2026",
+  "last_update_time": "08:10:17 PM 23-11-2026",
   "total_matches": 237,
-  "live_match": 12,
-  "upcoming_match": 215,
+  "live_match": 13,
+  "upcoming_match": 214,
   "ended_match": 10,
   "matches": [
     {
@@ -458,6 +458,36 @@
       ],
       "isHot": false,
       "id": "evt_6544f902f4d0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Morocco U17 Vs China U17",
+      "eventInfo": {
+        "teamA": "Morocco U17",
+        "teamB": "China U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48862/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/468402/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "23/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/R555AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_705e470b41db"
     },
     {
       "status": "LIVE",
@@ -1159,36 +1189,6 @@
       ],
       "isHot": false,
       "id": "evt_e5b0b2e8d6fc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Morocco U17 Vs China U17",
-      "eventInfo": {
-        "teamA": "Morocco U17",
-        "teamB": "China U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48862/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468402/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "23/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R555AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_705e470b41db"
     },
     {
       "status": "UPCOMING",
