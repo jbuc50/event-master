@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:28 PM 23-11-2026",
-  "total_matches": 281,
+  "last_update_time": "10:10:20 PM 23-11-2026",
+  "total_matches": 280,
   "live_match": 20,
-  "upcoming_match": 248,
-  "ended_match": 13,
+  "upcoming_match": 246,
+  "ended_match": 14,
   "matches": [
     {
       "status": "LIVE",
@@ -196,30 +196,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Senegal U17 Vs Cuba U17",
-      "eventInfo": {
-        "teamA": "Senegal U17",
-        "teamB": "Cuba U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190704/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "23/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_897959d00ffc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Vietnam U17 Vs New Zealand U17",
       "eventInfo": {
         "teamA": "Vietnam U17",
@@ -233,7 +209,7 @@
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-cE57yreTLfKG72wpwPY6kD%2FWlJvTgnrjPnb7kKhKFzansraeHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJlGUkUY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/qq4o4568nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_972335/index.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -306,8 +282,8 @@
       },
       "streams": [
         {
-          "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8",
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-IE8qnrKULvKG7GErx%2FY6nGuKlMDb0S%2FjbCatk6RLQ2GjtOacHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJhPVUcY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/pq55099snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_968580/index.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -510,31 +486,141 @@
     },
     {
       "status": "LIVE",
-      "Category": "http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark",
-      "event_name": "Bangladesh A Vs Sri Lanka A",
+      "Category": "Football",
+      "event_name": "Al Shamal SC Vs Al-Ahli",
       "eventInfo": {
-        "teamA": "Bangladesh A",
-        "teamB": "Sri Lanka A",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "Cricket Evento",
-        "event_logo": "g",
-        "startTime": "23/11/2026 04:00:00 PM"
+        "teamA": "Al Shamal SC",
+        "teamB": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PRIME VIDEO FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y9w1vhkmod/out/v1/db4038c42a2c4ab4acc3642f1f7435dd/cenc.mpd",
-          "drm_key": "88c543d8b2d0fb9736930d9f7115d02c:474298fb05d7bbc6d4605b99ec7013be"
-        },
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/maww3shfhu/out/v1/da7a0597e1fb4f2bb672e1a38d58c383/cenc.mpd",
-          "drm_key": "1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GIIIAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
-      "id": "evt_9ce3880e261a"
+      "id": "evt_750fc3bbdd50"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Tractor FC Vs Al Wasl",
+      "eventInfo": {
+        "teamA": "Tractor FC",
+        "teamB": "Al Wasl",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GIIIAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795440313-0-0-2e2946384261ea7559559934928d77de",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795444749-0-0-4f221b4c3bb606602d5a1ce143b08045",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795444749-0-0-d144f7340c6a660025bbea0a356c798f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_327d99a7a1d9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ain Vs Esteghlal FC",
+      "eventInfo": {
+        "teamA": "Al-Ain",
+        "teamB": "Esteghlal FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/GIIIA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795439949-0-0-4f2624686bdabe4a5ecc52341df5be8e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795422909-0-0-568f28577f3f1b5d0f24c19873479c07",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/6afd3d6e53914a788517a0db.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bf19e7ca2506"
     },
     {
       "status": "LIVE",
@@ -549,7 +635,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
         "startTime": "23/11/2026 09:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-dEAvk%2BbCKPKG6G15l%2FY6nGKDlJrS1C%2FjZXGjlKRJFjn64%2BOdHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJhOVUIY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/0p2r8q62nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_969523/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_bf3f7420c769"
     },
@@ -569,7 +662,7 @@
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQQQQ.m3u8",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-JUZzmeTCe%2FSG7zcskvY6mmzQlJvRhizjPXStkKlKRDPzsrPIHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJhPUUEY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/n7n4n307nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_969519/index.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -599,7 +692,7 @@
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.41/hls/R555.m3u8",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-cRd7k7mRIKWG6zAolfY6nmyLlMDT1H3jOCT8wqVOQzbx4uTPHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJhPXEMY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/20oo9q52nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_972636/index.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
@@ -616,15 +709,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Al Shamal SC Vs Al-Ahli",
+      "event_name": "Başakşehir FK Vs Çorum FK",
       "eventInfo": {
-        "teamA": "Al Shamal SC",
-        "teamB": "Al-Ahli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "23/11/2026 10:00:00 PM"
+        "teamA": "Başakşehir FK",
+        "teamB": "Çorum FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "23/11/2026 11:00:00 PM"
       },
       "streams": [
         {
@@ -634,53 +727,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_750fc3bbdd50"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Tractor FC Vs Al Wasl",
-      "eventInfo": {
-        "teamA": "Tractor FC",
-        "teamB": "Al Wasl",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "23/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_327d99a7a1d9"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ain Vs Esteghlal FC",
-      "eventInfo": {
-        "teamA": "Al-Ain",
-        "teamB": "Esteghlal FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "23/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bf19e7ca2506"
+      "id": "evt_e5b0b2e8d6fc"
     },
     {
       "status": "LIVE",
@@ -737,6 +784,57 @@
         }
       ],
       "id": "evt_f9bbea94be79",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al Shamal Vs Al Ahli Jeddah",
+      "eventInfo": {
+        "teamA": "Al Shamal",
+        "teamB": "Al Ahli Jeddah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Tapmad - (bd",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795439965-0-0-ef600c69825b3e4b39080c0d1ffc22c7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1795444749-0-0-697ad8a2cb1ba540d6917591d2daf1f9",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=3cc72fd51d337a75a755c933bdf08d1e&txTime=6b04965d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel6.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_bdab16c01964",
       "isHot": false
     },
     {
@@ -1211,13 +1309,7 @@
         "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAZLm4MEGcVg2M3e1d9NInswFDpDuffYBVGKPQbhlIw&s=10",
         "startTime": "28/11/2026 08:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_b658c4c69c21"
     },
@@ -1289,29 +1381,6 @@
       "streams": [],
       "isHot": false,
       "id": "evt_545d3f649312"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Başakşehir FK Vs Çorum FK",
-      "eventInfo": {
-        "teamA": "Başakşehir FK",
-        "teamB": "Çorum FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3086/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "23/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e5b0b2e8d6fc"
     },
     {
       "status": "UPCOMING",
@@ -3872,23 +3941,6 @@
       ],
       "isHot": false,
       "id": "evt_4cc4991e0eb2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Shamal Vs Al Ahli Jeddah",
-      "eventInfo": {
-        "teamA": "Al Shamal",
-        "teamB": "Al Ahli Jeddah",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "23/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_bdab16c01964",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -6514,6 +6566,30 @@
       ],
       "isHot": false,
       "id": "evt_b72f157c0ec6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Senegal U17 Vs Cuba U17",
+      "eventInfo": {
+        "teamA": "Senegal U17",
+        "teamB": "Cuba U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/323076/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190704/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "23/11/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_897959d00ffc"
     },
     {
       "status": "ENDED",
