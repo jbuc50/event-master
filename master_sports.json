@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:40:17 PM 23-11-2026",
+  "last_update_time": "12:50:16 PM 23-11-2026",
   "total_matches": 285,
   "live_match": 3,
   "upcoming_match": 226,
@@ -118,6 +118,11 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
+          "channel_name": "ten sports hd",
+          "stream_url": "https://live.msnetworks.net/ten-sports/720p.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "sonyliv - aq",
           "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795454934~acl=/*~id=76755225779277299177814812002485~hmac=01f44d32c7a132290a9fb1b19b65b7c4c9f0a76cff1c28f48fb9084734211cbd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
@@ -133,6 +138,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pyotzmjtwf/out/v1/2b816c787d7f4b22b821549ac3789814/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "3968540132a25dff11a7aa9d1d25b82c:df967625371e49195245672740e152d8"
+        },
+        {
+          "channel_name": "ten sports - aq",
+          "stream_url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_fc7b79779a5f",
