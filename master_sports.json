@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:40:28 PM 23-11-2026",
+  "last_update_time": "03:50:17 PM 23-11-2026",
   "total_matches": 238,
-  "live_match": 5,
-  "upcoming_match": 224,
+  "live_match": 6,
+  "upcoming_match": 223,
   "ended_match": 9,
   "matches": [
     {
@@ -270,6 +270,41 @@
         }
       ],
       "id": "evt_fc7b79779a5f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka A Vs Bangladesh A",
+      "eventInfo": {
+        "teamA": "Sri Lanka A",
+        "teamB": "Bangladesh A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "23/11/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795468884~acl=/*~id=86279924503218796704553197637627~hmac=d36f425cb9289b87393c274eca4572ea25d06883243219a1f8710f42f9882331",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34"
+        }
+      ],
+      "id": "evt_15743433e843",
       "isHot": false
     },
     {
@@ -2122,41 +2157,6 @@
       ],
       "isHot": false,
       "id": "evt_4cc4991e0eb2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Sri Lanka A Vs Bangladesh A",
-      "eventInfo": {
-        "teamA": "Sri Lanka A",
-        "teamB": "Bangladesh A",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "ACC Emerging Teams Asia Cup",
-        "event_logo": "",
-        "startTime": "23/11/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "sonyliv - aq",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795468884~acl=/*~id=86279924503218796704553197637627~hmac=d36f425cb9289b87393c274eca4572ea25d06883243219a1f8710f42f9882331",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6mhsahjkto/out/v1/29e8b344082d4ab6b7c0bb838956ea02/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "1f5fcb1ee0ebcdf807d4807767ee66a0:dac7ee8c999b9516a04f0c0bdd3aef34"
-        }
-      ],
-      "id": "evt_15743433e843",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
