@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:27 AM 24-11-2026",
-  "total_matches": 282,
-  "live_match": 24,
-  "upcoming_match": 238,
-  "ended_match": 20,
+  "last_update_time": "12:10:18 AM 24-11-2026",
+  "total_matches": 284,
+  "live_match": 25,
+  "upcoming_match": 237,
+  "ended_match": 22,
   "matches": [
     {
       "status": "LIVE",
@@ -136,137 +136,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Vietnam U17 Vs New Zealand U17",
-      "eventInfo": {
-        "teamA": "Vietnam U17",
-        "teamB": "New Zealand U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/468404/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22634/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "23/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-cE57yreTLfKG72wpwPY6kD%2FWlJvTgnrjPnb7kKhKFzansraeHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJlGUkUY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/qq4o4568nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_972335/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel1.flv",
-          "referer": "https://live200.kravonstreamdelivery.com/live/channel1.flv",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795440322-0-0-bbaa85e073c05ee361a25a618bd560a8",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795440323-0-0-ed3856f853cfce342ff63012ecaabdbc",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795429689-0-0-3d1487bb9c25ea9d555952c40ba7301e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795423689-0-0-b009daef7b69aab53320eadab3cba20e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel1.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 8",
-          "stream_url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795437309-0-0-48e286d4f11d532f7e6e5b6523d1abcc",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9d9a05dd9f2d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mali U17 Vs Belgium U17",
-      "eventInfo": {
-        "teamA": "Mali U17",
-        "teamB": "Belgium U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/203876/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "23/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-IE8qnrKULvKG7GErx%2FY6nGuKlMDb0S%2FjbCatk6RLQ2GjtOacHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJhPVUcY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/pq55099snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_968580/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795440142-0-0-8df18a261663dc50a2c334e6359a2584",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1795444809-0-0-cd0cd510cc60773cffdd2fe44a33229c",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2a534f3941ab6e9fd09b43bb58b550b2&txTime=6b047e39",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel19.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1f68e2396577"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Başakşehir FK Vs Çorum FK",
       "eventInfo": {
         "teamA": "Başakşehir FK",
@@ -291,6 +160,102 @@
       ],
       "isHot": false,
       "id": "evt_e5b0b2e8d6fc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hammarby IF Vs IFK Göteborg",
+      "eventInfo": {
+        "teamA": "Hammarby IF",
+        "teamB": "IFK Göteborg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1758/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1761/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "24/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/383a32e6-b291-4388-80ef-fa8207d9e9f2.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b1738c666439"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wieczysta Kraków Vs Motor Lublin",
+      "eventInfo": {
+        "teamA": "Wieczysta Kraków",
+        "teamB": "Motor Lublin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334956/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7915/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "24/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS3 -- FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "beIN ESPNAOL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/727fd1f1-7992-4638-b08a-e950e99a730a.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/KTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_38bb78e1b0d6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Örgryte IS Vs Kalmar FF",
+      "eventInfo": {
+        "teamA": "Örgryte IS",
+        "teamB": "Kalmar FF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1766/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1891/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "24/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/5a011c77-1dac-4fa4-bc66-7af97366191f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/KTTTAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3517af767dc8"
     },
     {
       "status": "LIVE",
@@ -561,116 +526,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hammarby IF Vs IFK Göteborg",
-      "eventInfo": {
-        "teamA": "Hammarby IF",
-        "teamB": "IFK Göteborg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1758/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1761/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "24/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_b1738c666439"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Wieczysta Kraków Vs Motor Lublin",
-      "eventInfo": {
-        "teamA": "Wieczysta Kraków",
-        "teamB": "Motor Lublin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334956/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7915/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "24/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS3 -- FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "beIN ESPNAOL FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_38bb78e1b0d6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Örgryte IS Vs Kalmar FF",
-      "eventInfo": {
-        "teamA": "Örgryte IS",
-        "teamB": "Kalmar FF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1766/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1891/image",
-        "eventName": "Allsvenskan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
-        "startTime": "24/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_3517af767dc8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Quwa Al-Jawiya Vs Al-Gharafa",
-      "eventInfo": {
-        "teamA": "Al-Quwa Al-Jawiya",
-        "teamB": "Al-Gharafa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "24/11/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3067e76565fa"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ittihad Vs Pakhtakor Tashkent",
-      "eventInfo": {
-        "teamA": "Al-Ittihad",
-        "teamB": "Pakhtakor Tashkent",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "24/11/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6cba2174e0e9"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Florida International Golden Panthers Vs Long Beach State 49ers",
       "eventInfo": {
@@ -713,6 +568,135 @@
       ],
       "isHot": false,
       "id": "evt_65cc803d9b98"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al Ahly FC Vs Pyramids FC",
+      "eventInfo": {
+        "teamA": "Al Ahly FC",
+        "teamB": "Pyramids FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6910/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/175002/image",
+        "eventName": "Egyptian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/808/image/dark",
+        "startTime": "24/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER LIVE+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_01deafd9b4af"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brøndby IF Vs FC Midtjylland",
+      "eventInfo": {
+        "teamA": "Brøndby IF",
+        "teamB": "FC Midtjylland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1281/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+        "eventName": "Danish Superliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/39/image/dark",
+        "startTime": "24/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER LIVE+ HD",
+          "stream_url": "https://www.rtmpcdn.com/live/815801de-4702-42b8-a717-d1418e534e0f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/KTTTA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3f382ce02c6b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs Valencia",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "Valencia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "24/11/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4e8a2e66f980"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Quwa Al-Jawiya Vs Al-Gharafa",
+      "eventInfo": {
+        "teamA": "Al-Quwa Al-Jawiya",
+        "teamB": "Al-Gharafa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "24/11/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/10be2c5a-d134-4e2c-a90a-85886362055f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KTTTAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3067e76565fa"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ittihad Vs Pakhtakor Tashkent",
+      "eventInfo": {
+        "teamA": "Al-Ittihad",
+        "teamB": "Pakhtakor Tashkent",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "24/11/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/afad44a4-2104-43aa-a43f-f8a734e4688f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KTTTAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6cba2174e0e9"
     },
     {
       "status": "LIVE",
@@ -1474,29 +1458,6 @@
       ],
       "isHot": false,
       "id": "evt_556a6a7aa3b2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "RCD Espanyol de Barcelona Vs Valencia",
-      "eventInfo": {
-        "teamA": "RCD Espanyol de Barcelona",
-        "teamB": "Valencia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "24/11/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4e8a2e66f980"
     },
     {
       "status": "UPCOMING",
@@ -6423,6 +6384,137 @@
       ],
       "isHot": false,
       "id": "evt_7adfacc2102f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Vietnam U17 Vs New Zealand U17",
+      "eventInfo": {
+        "teamA": "Vietnam U17",
+        "teamB": "New Zealand U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/468404/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22634/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "23/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-cE57yreTLfKG72wpwPY6kD%2FWlJvTgnrjPnb7kKhKFzansraeHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJlGUkUY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/qq4o4568nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_972335/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel1.flv",
+          "referer": "https://live200.kravonstreamdelivery.com/live/channel1.flv",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795440322-0-0-bbaa85e073c05ee361a25a618bd560a8",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-1.flv?auth_key=3000001795440323-0-0-ed3856f853cfce342ff63012ecaabdbc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795429689-0-0-3d1487bb9c25ea9d555952c40ba7301e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795423689-0-0-b009daef7b69aab53320eadab3cba20e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 8",
+          "stream_url": "https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1795437309-0-0-48e286d4f11d532f7e6e5b6523d1abcc",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9d9a05dd9f2d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Mali U17 Vs Belgium U17",
+      "eventInfo": {
+        "teamA": "Mali U17",
+        "teamB": "Belgium U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/203876/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "23/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://fhlsport955.cdx904gouh.xyz/token-IE8qnrKULvKG7GErx%2FY6nGuKlMDb0S%2FjbCatk6RLQ2GjtOacHUFbA5QtqRJWWkgGRn7Z3zVnmvp1eJhPVUcY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/pq55099snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_968580/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001795440142-0-0-8df18a261663dc50a2c334e6359a2584",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1795444809-0-0-cd0cd510cc60773cffdd2fe44a33229c",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=2a534f3941ab6e9fd09b43bb58b550b2&txTime=6b047e39",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1f68e2396577"
     },
     {
       "status": "ENDED",
