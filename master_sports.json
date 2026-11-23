@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:21 AM 23-11-2026",
-  "total_matches": 265,
+  "last_update_time": "08:40:16 AM 23-11-2026",
+  "total_matches": 268,
   "live_match": 15,
-  "upcoming_match": 206,
+  "upcoming_match": 209,
   "ended_match": 44,
   "matches": [
     {
@@ -1346,6 +1346,34 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Necaxa Vs Querétaro",
+      "eventInfo": {
+        "teamA": "Necaxa",
+        "teamB": "Querétaro",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274432/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274530/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "24/11/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/842f38d5-caed-4139-b288-fcddf234bc2d.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DADADA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_545d3f649312"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Tajikistan U17 Vs Croatia U17",
       "eventInfo": {
         "teamA": "Tajikistan U17",
@@ -1436,6 +1464,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
         }
       ],
       "isHot": false,
@@ -1525,9 +1559,10 @@
       },
       "streams": [
         {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
         }
       ],
       "isHot": false,
@@ -1607,8 +1642,8 @@
       "streams": [
         {
           "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ],
       "isHot": false,
@@ -1639,6 +1674,11 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
       "isHot": false,
@@ -1686,6 +1726,12 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "beIN ESPNAOL FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
         }
       ],
       "isHot": false,
@@ -1843,13 +1889,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "24/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_a8a1d54b76b2"
     },
@@ -1891,9 +1931,15 @@
       },
       "streams": [
         {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "channel_name": "PREMIERER3 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+          "drm_key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
         }
       ],
       "isHot": false,
@@ -1937,9 +1983,9 @@
       },
       "streams": [
         {
-          "channel_name": "SERVER + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
         }
       ],
       "isHot": false,
@@ -1964,6 +2010,16 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
         }
       ],
       "isHot": false,
@@ -2017,6 +2073,144 @@
       ],
       "isHot": false,
       "id": "evt_41c37aa9edfb"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Neftchi Fergana Vs Al-Hilal",
+      "eventInfo": {
+        "teamA": "Neftchi Fergana",
+        "teamB": "Al-Hilal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36256/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6544f902f4d0"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Quwa Al-Jawiya Vs Al-Gharafa",
+      "eventInfo": {
+        "teamA": "Al-Quwa Al-Jawiya",
+        "teamB": "Al-Gharafa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "24/11/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3067e76565fa"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Shamal SC Vs Al-Ahli",
+      "eventInfo": {
+        "teamA": "Al Shamal SC",
+        "teamB": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_750fc3bbdd50"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tractor FC Vs Al Wasl",
+      "eventInfo": {
+        "teamA": "Tractor FC",
+        "teamB": "Al Wasl",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_327d99a7a1d9"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Ittihad Vs Pakhtakor Tashkent",
+      "eventInfo": {
+        "teamA": "Al-Ittihad",
+        "teamB": "Pakhtakor Tashkent",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "24/11/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6cba2174e0e9"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Ain Vs Esteghlal FC",
+      "eventInfo": {
+        "teamA": "Al-Ain",
+        "teamB": "Esteghlal FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bf19e7ca2506"
     },
     {
       "status": "UPCOMING",
@@ -2113,40 +2307,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Al Ain Vs Esteghlal FC Tehran",
-      "eventInfo": {
-        "teamA": "Al Ain",
-        "teamB": "Esteghlal FC Tehran",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "23/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_e0e28e8fb5be",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Tractor FC Vs Al Wasl",
-      "eventInfo": {
-        "teamA": "Tractor FC",
-        "teamB": "Al Wasl",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47674/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "23/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_327d99a7a1d9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Al Shamal Vs Al Ahli Jeddah",
       "eventInfo": {
         "teamA": "Al Shamal",
@@ -2227,40 +2387,6 @@
       },
       "streams": [],
       "id": "evt_937b31f310f8",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Ittihad Vs Pakhtakor",
-      "eventInfo": {
-        "teamA": "Al Ittihad",
-        "teamB": "Pakhtakor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "24/11/2026 12:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_03c19776e7b6",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Quwa Al Jawiya Vs Al Gharafa",
-      "eventInfo": {
-        "teamA": "Quwa Al Jawiya",
-        "teamB": "Al Gharafa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v7/Competitions/light/623",
-        "startTime": "24/11/2026 12:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_4b9e4948068a",
       "isHot": false
     },
     {
@@ -5644,34 +5770,6 @@
     {
       "status": "ENDED",
       "Category": "Football",
-      "event_name": "CD Guadalajara Vs Cruz Azul",
-      "eventInfo": {
-        "teamA": "CD Guadalajara",
-        "teamB": "Cruz Azul",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "23/11/2026 05:07:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/842f38d5-caed-4139-b288-fcddf234bc2d.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DADADA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9a959c0d9deb"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
       "event_name": "Red Bull Bragantino Vs Vasco da Gama",
       "eventInfo": {
         "teamA": "Red Bull Bragantino",
@@ -6333,6 +6431,29 @@
       "streams": [],
       "isHot": false,
       "id": "evt_aafd7b107dd3"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Club Sportivo Norte (Laboulaye) Vs Huracan Laboulaye",
+      "eventInfo": {
+        "teamA": "Club Sportivo Norte (Laboulaye)",
+        "teamB": "Huracan Laboulaye",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1150888/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1134997/image",
+        "eventName": "Liga Regional de Fútbol de Laboulaye",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36552/image/dark",
+        "startTime": "23/11/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f635d7347fd4"
     }
   ]
 }
