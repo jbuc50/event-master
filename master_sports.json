@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:22 AM 23-11-2026",
+  "last_update_time": "09:40:21 AM 23-11-2026",
   "total_matches": 267,
-  "live_match": 9,
+  "live_match": 7,
   "upcoming_match": 209,
-  "ended_match": 49,
+  "ended_match": 51,
   "matches": [
     {
       "status": "LIVE",
@@ -313,30 +313,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Querétaro FC Vs Club Necaxa",
-      "eventInfo": {
-        "teamA": "Querétaro FC",
-        "teamB": "Club Necaxa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "23/11/2026 07:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9da4f218952d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Vancouver Whitecaps Vs Real Salt Lake",
       "eventInfo": {
         "teamA": "Vancouver Whitecaps",
@@ -372,30 +348,6 @@
       ],
       "isHot": false,
       "id": "evt_105e37ba114f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Instituto De Córdoba Vs Huracán",
-      "eventInfo": {
-        "teamA": "Instituto De Córdoba",
-        "teamB": "Huracán",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4937/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "23/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/KIKIKIAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bb861f1f3083"
     },
     {
       "status": "LIVE",
@@ -5567,6 +5519,30 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Querétaro FC Vs Club Necaxa",
+      "eventInfo": {
+        "teamA": "Querétaro FC",
+        "teamB": "Club Necaxa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "23/11/2026 07:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9da4f218952d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Red Bull Bragantino Vs Vasco da Gama",
       "eventInfo": {
         "teamA": "Red Bull Bragantino",
@@ -5880,6 +5856,30 @@
       ],
       "isHot": false,
       "id": "evt_de2e74072c04"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Instituto De Córdoba Vs Huracán",
+      "eventInfo": {
+        "teamA": "Instituto De Córdoba",
+        "teamB": "Huracán",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4937/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7629/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "23/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bb861f1f3083"
     },
     {
       "status": "ENDED",
