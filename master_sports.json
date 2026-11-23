@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:40:18 AM 24-11-2026",
+  "last_update_time": "05:50:16 AM 24-11-2026",
   "total_matches": 166,
-  "live_match": 8,
-  "upcoming_match": 158,
+  "live_match": 9,
+  "upcoming_match": 157,
   "ended_match": 0,
   "matches": [
     {
@@ -95,6 +95,36 @@
         }
       ],
       "id": "evt_8ee8468ff827",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Santos Vs Gremio",
+      "eventInfo": {
+        "teamA": "Santos",
+        "teamB": "Gremio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "24/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795465482-0-0-9c044ae2cdd04ae9104df10ea96bcb44",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7db251287e28",
       "isHot": false
     },
     {
@@ -391,36 +421,6 @@
         }
       ],
       "id": "evt_1c4f0f3f92b4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Santos Vs Gremio",
-      "eventInfo": {
-        "teamA": "Santos",
-        "teamB": "Gremio",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
-        "eventName": "Brasileirão Série A",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
-        "startTime": "24/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel21.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795465482-0-0-9c044ae2cdd04ae9104df10ea96bcb44",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7db251287e28",
       "isHot": false
     },
     {
