@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:27 AM 24-11-2026",
+  "last_update_time": "02:10:28 AM 24-11-2026",
   "total_matches": 169,
-  "live_match": 6,
-  "upcoming_match": 163,
+  "live_match": 7,
+  "upcoming_match": 162,
   "ended_match": 0,
   "matches": [
     {
@@ -239,6 +239,58 @@
         }
       ],
       "id": "evt_e8b2ada9d69f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Levante Vs Elche",
+      "eventInfo": {
+        "teamA": "Levante",
+        "teamB": "Elche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "24/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Tapmad - (bd)",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=12ddd3afa89a52e24fbe297fe087cdc2&wsABSTime=1795504934",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001795461741-0-0-7faf9f46e97b3c831d8ef8019d67176d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795444629-0-0-cf3ab05848a39e2248007991d38abaab",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl002.com/live/69cf6331585c5992182f4160.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d6a43d2ae58c",
       "isHot": false
     },
     {
@@ -591,23 +643,6 @@
       },
       "streams": [],
       "id": "evt_ab1add705188",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Levante Vs Elche",
-      "eventInfo": {
-        "teamA": "Levante",
-        "teamB": "Elche",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-        "eventName": "LaLiga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-        "startTime": "24/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d6a43d2ae58c",
       "isHot": false
     },
     {
