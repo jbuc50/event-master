@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:30 PM 23-11-2026",
+  "last_update_time": "07:10:16 PM 23-11-2026",
   "total_matches": 238,
-  "live_match": 10,
-  "upcoming_match": 218,
+  "live_match": 11,
+  "upcoming_match": 217,
   "ended_match": 10,
   "matches": [
     {
@@ -259,6 +259,53 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Uzbekistan U17 Vs Jamaica U17",
+      "eventInfo": {
+        "teamA": "Uzbekistan U17",
+        "teamB": "Jamaica U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22662/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "23/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795436743-0-0-f7b4863a28a92dab739df4845888bffb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b72f157c0ec6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Spain U17 Vs Fiji U17",
       "eventInfo": {
         "teamA": "Spain U17",
@@ -333,53 +380,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Uzbekistan U17 Vs Jamaica U17",
-      "eventInfo": {
-        "teamA": "Uzbekistan U17",
-        "teamB": "Jamaica U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22662/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22617/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "23/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795436743-0-0-f7b4863a28a92dab739df4845888bffb",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b72f157c0ec6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Senegal U17 Vs Cuba U17",
       "eventInfo": {
         "teamA": "Senegal U17",
@@ -406,6 +406,36 @@
       ],
       "isHot": false,
       "id": "evt_897959d00ffc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Neftchi Fergana Vs Al-Hilal",
+      "eventInfo": {
+        "teamA": "Neftchi Fergana",
+        "teamB": "Al-Hilal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36256/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "23/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + HD",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_6544f902f4d0"
     },
     {
       "status": "LIVE",
@@ -1594,36 +1624,6 @@
       ],
       "isHot": false,
       "id": "evt_41c37aa9edfb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Neftchi Fergana Vs Al-Hilal",
-      "eventInfo": {
-        "teamA": "Neftchi Fergana",
-        "teamB": "Al-Hilal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36256/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "23/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + HD",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BYYYAAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6544f902f4d0"
     },
     {
       "status": "UPCOMING",
