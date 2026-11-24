@@ -1,42 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:40:19 AM 24-11-2026",
-  "total_matches": 157,
-  "live_match": 1,
+  "last_update_time": "10:50:18 AM 24-11-2026",
+  "total_matches": 156,
+  "live_match": 0,
   "upcoming_match": 156,
   "ended_match": 0,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "St. Louis City Vs Los Angeles FC",
-      "eventInfo": {
-        "teamA": "St. Louis City",
-        "teamB": "Los Angeles FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-        "eventName": "MLS",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-        "startTime": "24/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001795465505-0-0-ed7dc727ec18b0e3ec20557c7e2428e7",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_6c3ae8a69ba6",
-      "isHot": false
-    },
     {
       "status": "UPCOMING",
       "Category": "Cricket",
