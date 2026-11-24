@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:20:19 AM 25-11-2026",
+  "last_update_time": "01:30:23 AM 25-11-2026",
   "total_matches": 224,
   "live_match": 1,
   "upcoming_match": 170,
@@ -738,7 +738,20 @@
         {
           "channel_name": "PREMIER SPORTS - AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-12.flv?auth_key=3000001795544419-0-0-c3ea4cafef627c2f4e51110bed1d3865",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2337,6 +2350,54 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Bromley Vs Wycombe",
+      "eventInfo": {
+        "teamA": "Bromley",
+        "teamB": "Wycombe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.41/hls/FUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_08949e551102",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Stevenage Vs Sheffield Wed",
+      "eventInfo": {
+        "teamA": "Stevenage",
+        "teamB": "Sheffield Wed",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.41/hls/FUUUA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d25d754d1565",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Nasaf Vs Al Khalidiyah",
       "eventInfo": {
         "teamA": "Nasaf",
@@ -2439,23 +2500,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Bromley Vs Wycombe",
-      "eventInfo": {
-        "teamA": "Bromley",
-        "teamB": "Wycombe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [],
-      "id": "evt_08949e551102",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Blackpool Vs Leicester City",
       "eventInfo": {
         "teamA": "Blackpool",
@@ -2468,23 +2512,6 @@
       },
       "streams": [],
       "id": "evt_b41a3527e395",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Stevenage Vs Sheffield Wed",
-      "eventInfo": {
-        "teamA": "Stevenage",
-        "teamB": "Sheffield Wed",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d25d754d1565",
       "isHot": false
     },
     {
