@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:30:23 AM 25-11-2026",
-  "total_matches": 224,
-  "live_match": 1,
-  "upcoming_match": 170,
+  "last_update_time": "01:40:16 AM 25-11-2026",
+  "total_matches": 225,
+  "live_match": 25,
+  "upcoming_match": 147,
   "ended_match": 53,
   "matches": [
     {
@@ -112,7 +112,7 @@
       "id": "evt_5b818de33230"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Charlton Athletic Vs Lincoln City",
       "eventInfo": {
@@ -126,15 +126,19 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=d82d1dbb4ab6f8447c0bf5ad2e0aa458&wsABSTime=1795589770"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/GTGTGTQQ.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_2ea55b93cf1b"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Portsmouth Vs West Ham United",
       "eventInfo": {
@@ -148,15 +152,23 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/west.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/2JJJ.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_3aeeb77636fb"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sheffield United Vs Southampton",
       "eventInfo": {
@@ -172,13 +184,21 @@
         {
           "channel_name": "HD STREAM",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel10.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/south.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/2JJJA.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_f3a927de73a2"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Cardiff City Vs Preston North End",
       "eventInfo": {
@@ -192,15 +212,19 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel28/playlist.m3u8?wsSecret=4771b72ffcfcb9ee7eceb0a0940143ee&wsABSTime=1795589781"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/GTGTGTQ.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_54981a86e9b1"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Norwich City Vs Queens Park Rangers",
       "eventInfo": {
@@ -214,15 +238,23 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel29/playlist.m3u8?wsSecret=bb81fb63bd0813590a3a6dd71784fed4&wsABSTime=1795589796"
+        },
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/norwich.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/GTGTGTQQQQ.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_dde47d0af7a7"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Middlesbrough Vs Swansea City",
       "eventInfo": {
@@ -236,15 +268,19 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD stream",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel27/playlist.m3u8?wsSecret=3bfdecc39bf8bcd705f075f94c138e8e&wsABSTime=1795589775"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/GTGTGTQQQ.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_e5ce9f1ca285"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Bristol City Vs Wrexham",
       "eventInfo": {
@@ -258,8 +294,12 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel25/playlist.m3u8?wsSecret=8d9de27ee906f7774c2c8284f74da08e&wsABSTime=1795589767"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/GTGTGT.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -272,7 +312,7 @@
       "id": "evt_1bb512ba6f24"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Como Vs AEK Athens",
       "eventInfo": {
@@ -289,6 +329,15 @@
           "channel_name": "TNT SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
           "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/60911/load-playlist"
+        },
+        {
+          "channel_name": "PRIME VIDEO - AQ",
+          "stream_url": "https://ABBIQEXAAAAAAAAME23GQLHXQ3BIZ.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGaLaBhprBdxaA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZWU0LWMxZjQtNzQwZC04ODA1LTc1YjFiYWZhYTA5ZBkBOKEFoQJ4My8yZGpkdndvMWhzL291dC92MS83MjVmNzZkMGQxMGM0OTEyOTZlYjBhMWE3MGQ3MWYyYVggMckeGcUVd6VFRsSsFHyQfRG8qES4LXHXuDEdslApTXk/PDX/57538b36cce64b85bac54e96083e981a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_2ff7c563-38c3-4972-86aa-3b400a83f92b_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/2djdvwo1hs/out/v1/725f76d0d10c491296eb0a1a70d71f2a/bfa33a17-2664-4651-b459-f94f3820c34d-cenc.mpd?aws.sessionId=2457d53e-8199-421b-b1a2-ae8e5c9142a3",
+          "drm_key": "84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e"
         },
         {
           "channel_name": "Server - 1",
@@ -322,7 +371,7 @@
       "id": "evt_f3e4469cef11"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Manchester City Vs SSC Napoli",
       "eventInfo": {
@@ -340,6 +389,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PRIME VIDEO - AQ",
+          "stream_url": "https://a130live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLhBhprBdxhA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZGNjMi03MzYzLWJkNDEtNGZjMzVlNDBhMTI1GQE4oQWhAngzL3V4c3Zmb2owdDUvb3V0L3YxL2U2YjZiMWMxY2NkZDRiOWNiMTk2YzZhYTljMjVlYTI2WCBZ9HjO0vMe-uxhFz9BfB2msYAUvonhOBprmUYa8ZjC4w/IAD/37a187a9955e48c1973470142c76297a/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_1c01eccd-1178-4557-ad38-1afa880866aa_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/uxsvfoj0t5/out/v1/e6b6b1c1ccdd4b9cb196c6aa9c25ea26/8a9948cd-b5a7-4cb8-8096-4cb461183847-cenc.mpd?aws.sessionId=2a792e7a-9c2e-417d-89b9-1e84954b5137",
+          "drm_key": "88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30"
         },
         {
           "channel_name": "Server - 1",
@@ -402,7 +456,7 @@
       "id": "evt_9f6ccb93f3cd"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Arsenal Vs Borussia Dortmund",
       "eventInfo": {
@@ -418,6 +472,11 @@
         {
           "channel_name": "SM IPTV HD",
           "stream_url": "https://admin2.formaturamaxi.com.br/colo.m3u8"
+        },
+        {
+          "channel_name": "PRIME VIDEO - AQ",
+          "stream_url": "https://a203live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLbBhprBdxbA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtYzZjNy03NDM4LTlmNzgtY2Q0NjliOTc4NDg2GQE4oQWhAngzL3o5a2J6M3Z1d2Evb3V0L3YxLzBmMTMxZGE4MzAxZjQwNzk5MjI0OTU3ZDNhYWI5M2IyWCAFLp2s39viRygfhVX3Etnjq8mhFuuPQUSucaj2zcqVbA/PDX/b5a5f62ec48046719eab38e943680aff/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_41786e76-1c73-4509-9e11-e54b8ed18174_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/z9kbz3vuwa/out/v1/0f131da8301f40799224957d3aab93b2/b0d5c963-6bea-4578-8a99-6655dc9382a1-cenc.mpd?aws.sessionId=17d13c4d-2088-484c-ab20-0a560a21864a",
+          "drm_key": "db2208392e1d6b734f5a7bf03fbaf76c:f93c84a1a679a01b4b3afafef416a637"
         },
         {
           "channel_name": "QAZSPORT - AQ",
@@ -485,7 +544,7 @@
       "id": "evt_480eac2bb75e"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Feyenoord Vs FC Porto",
       "eventInfo": {
@@ -548,7 +607,7 @@
       "id": "evt_f1a65b7d349a"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "RB Leipzig Vs RC Lens",
       "eventInfo": {
@@ -564,6 +623,11 @@
         {
           "channel_name": "HD STREAM",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8"
+        },
+        {
+          "channel_name": "PRIME VIDEO - AQ",
+          "stream_url": "https://a99live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLjBhprBdxjA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtZTJjOC03NmFkLThjYzQtMTgxNTBhNzBlZTIxGQE4oQWhAngzL3Yxcmx1cDVhdHkvb3V0L3YxL2IyMDkzNmIxN2ZiZTQ3N2Q5YTM1ZjBiZTI5NDYyYTRlWCBHxQcYUuYlNE9h4-Hu44QfBsmpkCl9yxwD0yyt49jSAQ/PDX/7ce5f93841e34d01a6597e3f0b29d0fb/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_73246978-b6b6-474c-bdaa-6aaa5f02b5f1_us-west-2_pdx_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-pdx-prod/enc/v1rlup5aty/out/v1/b20936b17fbe477d9a35f0be29462a4e/f4545582-136c-4979-94c6-eabff5585e21-cenc.mpd?aws.sessionId=91d99965-4cdd-4e40-9b2f-f4bfa19f9c90",
+          "drm_key": "af171bbe1d7a94dc2a0baba3ae0ae1ec:1f225f6c8e183813e4975ee8d44878ff"
         },
         {
           "channel_name": "Server - 1",
@@ -597,7 +661,7 @@
       "id": "evt_f9a5cfabeefb"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "ŠK Slovan Bratislava Vs Real Betis",
       "eventInfo": {
@@ -611,6 +675,11 @@
       },
       "streams": [
         {
+          "channel_name": "PRIME VIDEO - AQ",
+          "stream_url": "https://ABBIQEXAAAAAAAAMJF7UUP3DFNXKU.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprGaLgBhprBdxgA2pjbG91ZGZyb250AngoZmlkOjAxYTIwZWU0LWQ3YzEtNzM0MS04NTYxLTBmMzUzN2VjYTI1MRkBOKEFoQJ4My81YXZrdG16bDQyL291dC92MS81NjJlZTJlOTc4ZjI0YmRjOWE4Y2U1ZjhiZTQyMmRhZVggOEke4zXdkPECoGB0Sdj6T12MMvOLE74Wi7cn2k-StlY/IAD/da8a6885c3a04f208697487e16064ad4/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_d163b723-f6f6-4956-9d90-8ecd8e1e6c7a_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/5avktmzl42/out/v1/562ee2e978f24bdc9a8ce5f8be422dae/764bc46b-0105-4756-b35b-ce22d1d6e7db-cenc.mpd?aws.sessionId=7971dee0-dd35-4c37-be0b-e1f649f817bf",
+          "drm_key": "c4dbf5356b8e894e8a26a331a95471cc:4e22ee930b1895e79d4bbd5217ab423e"
+        },
+        {
           "channel_name": "SM IPTV Live",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8"
         }
@@ -619,7 +688,7 @@
       "id": "evt_055c78143f35"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Real Madrid Vs PSV Eindhoven",
       "eventInfo": {
@@ -642,6 +711,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PRIME VIDEO - AQ",
+          "stream_url": "https://a161live-emt-pv-ta-enf-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WIimAWpwcmltZXZpZGVvBBprGaLdBhprBdxdA2Zha2FtYWkCeChmaWQ6MDFhMjBlZTQtY2JiNS03MjM5LTk3YjctNTY4NjkyZWNlODY4GQE4oQWhAngzL29kNXM2MWk0ZWwvb3V0L3YxLzhkYWQyNjE4OWJkOTRiMjRiYzViZDYzMWViMmRhM2IwWCDSh0uUCnWRlR9vKbKJPRklvGqrEG_p3s4p_kp4WhWTcQ/IAD/943f54c3d4f14fcaba181d50f754f4cf/v1/dash/746463508834/paramount_aha_amzn1_dv_live_csid_f71a5dc2-0c36-4b7c-8ef4-7007816170db_us-east-1_iad_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/od5s61i4el/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/05e0d647-2f95-400a-9d49-807abbbc6ff4-cenc.mpd?aws.sessionId=8a939c4a-dd43-450f-ac50-e98dafe5fce7",
+          "drm_key": "5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b"
         },
         {
           "channel_name": "Server - 1",
@@ -699,7 +773,7 @@
       "id": "evt_4921262948df"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Wolverhampton Vs Derby County",
       "eventInfo": {
@@ -720,6 +794,238 @@
       ],
       "isHot": false,
       "id": "evt_e1f474aaae46"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Rangers Vs Aberdeen",
+      "eventInfo": {
+        "teamA": "Rangers",
+        "teamB": "Aberdeen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "25/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_87dbcdd28197"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sheff Utd Vs Southampton",
+      "eventInfo": {
+        "teamA": "Sheff Utd",
+        "teamB": "Southampton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795544686-0-0-63036c68b7f9eefd7d5bb77e23f5f202",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d2d63d08eec7",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Portsmouth Vs West Ham",
+      "eventInfo": {
+        "teamA": "Portsmouth",
+        "teamB": "West Ham",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795544651-0-0-601f37aa0c381bdef82c6cba6650fb90",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0b36709f4c3b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Norwich Vs QPR",
+      "eventInfo": {
+        "teamA": "Norwich",
+        "teamB": "QPR",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=c06b5c828f890313f4c380165f95b271&wsABSTime=1795587772",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_250a5c1a6328",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Middlesbrough Vs Swansea",
+      "eventInfo": {
+        "teamA": "Middlesbrough",
+        "teamB": "Swansea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=d380711629e55a6e4ba07f1d51151fcd&wsABSTime=1795587747",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_597a8bc77d90",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Charlton Vs Lincoln",
+      "eventInfo": {
+        "teamA": "Charlton",
+        "teamB": "Lincoln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=cd2e9b8ddd0f2e3ad36916639e529ea3&wsABSTime=1795587618",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_48ec8d6b551f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cardiff Vs Preston",
+      "eventInfo": {
+        "teamA": "Cardiff",
+        "teamB": "Preston",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+        "eventName": "England Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=ff25806cf249f2716409f65f03d4338c&wsABSTime=1795587607",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8fb53b29b598",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bromley Vs Wycombe",
+      "eventInfo": {
+        "teamA": "Bromley",
+        "teamB": "Wycombe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.41/hls/FUUU.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_08949e551102",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Stevenage Vs Sheffield Wed",
+      "eventInfo": {
+        "teamA": "Stevenage",
+        "teamB": "Sheffield Wed",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "25/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.41/hls/FUUUA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d25d754d1565",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -2158,162 +2464,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Sheff Utd Vs Southampton",
-      "eventInfo": {
-        "teamA": "Sheff Utd",
-        "teamB": "Southampton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-        "eventName": "England Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-10.flv?auth_key=3000001795544686-0-0-63036c68b7f9eefd7d5bb77e23f5f202",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_d2d63d08eec7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Portsmouth Vs West Ham",
-      "eventInfo": {
-        "teamA": "Portsmouth",
-        "teamB": "West Ham",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-        "eventName": "England Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel13.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001795544651-0-0-601f37aa0c381bdef82c6cba6650fb90",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_0b36709f4c3b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Norwich Vs QPR",
-      "eventInfo": {
-        "teamA": "Norwich",
-        "teamB": "QPR",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
-        "eventName": "England Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=c06b5c828f890313f4c380165f95b271&wsABSTime=1795587772",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_250a5c1a6328",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Middlesbrough Vs Swansea",
-      "eventInfo": {
-        "teamA": "Middlesbrough",
-        "teamB": "Swansea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
-        "eventName": "England Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel27.flv?wsSecret=d380711629e55a6e4ba07f1d51151fcd&wsABSTime=1795587747",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel27/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_597a8bc77d90",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Charlton Vs Lincoln",
-      "eventInfo": {
-        "teamA": "Charlton",
-        "teamB": "Lincoln",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
-        "eventName": "England Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel26.flv?wsSecret=cd2e9b8ddd0f2e3ad36916639e529ea3&wsABSTime=1795587618",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel26/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_48ec8d6b551f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cardiff Vs Preston",
-      "eventInfo": {
-        "teamA": "Cardiff",
-        "teamB": "Preston",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
-        "eventName": "England Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel28.flv?wsSecret=ff25806cf249f2716409f65f03d4338c&wsABSTime=1795587607",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel28/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_8fb53b29b598",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Wolves Vs Derby",
       "eventInfo": {
         "teamA": "Wolves",
@@ -2345,54 +2495,6 @@
         }
       ],
       "id": "evt_fe034b4a1207",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bromley Vs Wycombe",
-      "eventInfo": {
-        "teamA": "Bromley",
-        "teamB": "Wycombe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/62/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "http://193.47.62.41/hls/FUUU.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_08949e551102",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Stevenage Vs Sheffield Wed",
-      "eventInfo": {
-        "teamA": "Stevenage",
-        "teamB": "Sheffield Wed",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "25/11/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "http://193.47.62.41/hls/FUUUA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_d25d754d1565",
       "isHot": false
     },
     {
@@ -5986,9 +6088,17 @@
           "stream_url": "https://2cdn.syria-player.info/hls1/bein3.m3u8"
         },
         {
+          "channel_name": "beIN ARABIC HD",
+          "stream_url": "https://ylp.akhbarnewscdn.store/cdn/master.m3u8"
+        },
+        {
           "channel_name": "SONY SPORTS TEN 2 HD",
           "stream_url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/13.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "beIN ARABIC SD",
+          "stream_url": "https://mov.kooraciity.net/erona2.m3u8"
         },
         {
           "channel_name": "DAZN SPORTS - AQ",
