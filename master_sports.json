@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:20:17 AM 25-11-2026",
+  "last_update_time": "02:30:22 AM 25-11-2026",
   "total_matches": 223,
   "live_match": 29,
   "upcoming_match": 143,
@@ -346,7 +346,8 @@
         },
         {
           "channel_name": "BeIN Arabic HD",
-          "stream_url": "https://ec.koooracity.press/venta1.m3u8"
+          "stream_url": "https://ec.koooracity.press/venta1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "SONY SPORTS TEN 5 HD",
@@ -356,7 +357,8 @@
         {
           "channel_name": "PARAMOUNT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/utnlozpa8j/out/v1/8dad26189bd94b24bc5bd631eb2da3b0/cenc.mpd",
-          "drm_key": "5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b"
+          "drm_key": "5884bb5909efeb5f5d1a6021da2f2be3:cfbd0eb6bd9a9328b965df81e867e12b",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "TNT SPORTS - AQ",
@@ -456,7 +458,8 @@
         {
           "channel_name": "PARAMOUNT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/koswrmkzbq/out/v1/f164a09f30cc44b4bea0e9e51506f45c/cenc.mpd",
-          "drm_key": "88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30"
+          "drm_key": "88eb38fc38be5f92955c7195d5bb0ab5:2189687d7f66850b233990473c063a30",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "TNT SPORTS - AQ",
@@ -575,7 +578,8 @@
         {
           "channel_name": "PARAMOUNT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/satfzppioj/out/v1/0f131da8301f40799224957d3aab93b2/cenc.mpd",
-          "drm_key": "db2208392e1d6b734f5a7bf03fbaf76c:f93c84a1a679a01b4b3afafef416a637"
+          "drm_key": "db2208392e1d6b734f5a7bf03fbaf76c:f93c84a1a679a01b4b3afafef416a637",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "SM IPTV Live",
@@ -685,7 +689,8 @@
         {
           "channel_name": "TNT SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "HD SERVER",
@@ -694,7 +699,8 @@
         {
           "channel_name": "PARAMOUNT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ty6ry0onwc/out/v1/a4e1ad05b56a4fc2b2f69e62f2c3c06e/cenc.mpd",
-          "drm_key": "84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e"
+          "drm_key": "84cfc1188b3ba3247df327fb024796c4:41044aac3dd59d23be9b809fef1dd88e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "TAPMAD - AQ",
@@ -755,7 +761,8 @@
         {
           "channel_name": "PARAMOUNT+ - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/omtptcnmuz/out/v1/c640c5ac25734f0587054dc78b57d6e0/cenc.mpd",
-          "drm_key": "280d2297c7592d3ecf06489887c76473:9421e1e2941ef1a4afd940dd0e98fc22"
+          "drm_key": "280d2297c7592d3ecf06489887c76473:9421e1e2941ef1a4afd940dd0e98fc22",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "CBS SPORTS - AQ",
@@ -837,12 +844,14 @@
       "streams": [
         {
           "channel_name": "HD STREAM",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8"
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "PARAMOUNT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r0o5qdrime/out/v1/eebefcb8ea104058a81977aeac28f648/cenc.mpd",
-          "drm_key": "af171bbe1d7a94dc2a0baba3ae0ae1ec:1f225f6c8e183813e4975ee8d44878ff"
+          "drm_key": "af171bbe1d7a94dc2a0baba3ae0ae1ec:1f225f6c8e183813e4975ee8d44878ff",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "SM IPTV Live",
@@ -1028,7 +1037,7 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
-          "channel_name": "Server - 6",
+          "channel_name": "Server - 8",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
@@ -1047,6 +1056,12 @@
           "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
           "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PARAMOUNT - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hojjlmvlou/out/v1/6540c7701ea94286b4045a7417a32775/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "c4dbf5356b8e894e8a26a331a95471cc:4e22ee930b1895e79d4bbd5217ab423e"
         }
       ],
       "id": "evt_76ee6644c10b",
