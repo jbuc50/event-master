@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:30:24 PM 24-11-2026",
+  "last_update_time": "06:40:18 PM 24-11-2026",
   "total_matches": 234,
-  "live_match": 8,
-  "upcoming_match": 185,
+  "live_match": 9,
+  "upcoming_match": 184,
   "ended_match": 41,
   "matches": [
     {
@@ -161,6 +161,14 @@
       },
       "streams": [
         {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIA.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8"
+        },
+        {
           "channel_name": "SM IPTV Live",
           "stream_url": "Ok"
         },
@@ -204,6 +212,14 @@
         "startTime": "24/11/2026 06:15:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAA.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+        },
         {
           "channel_name": "SM IPTV Live",
           "stream_url": "Ok"
@@ -259,8 +275,12 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKI.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -320,12 +340,39 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM ",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel23.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAA.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_970dcb36c547"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Japan U17 Vs Serbia U17",
+      "eventInfo": {
+        "teamA": "Japan U17",
+        "teamB": "Serbia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22618/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "24/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "VIX TN",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2ae63ac12590"
     },
     {
       "status": "LIVE",
@@ -372,29 +419,6 @@
       ],
       "id": "evt_bc77cc854868",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Japan U17 Vs Serbia U17",
-      "eventInfo": {
-        "teamA": "Japan U17",
-        "teamB": "Serbia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22618/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "24/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "VIX TN",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2ae63ac12590"
     },
     {
       "status": "UPCOMING",
