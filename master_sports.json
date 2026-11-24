@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:20 AM 25-11-2026",
+  "last_update_time": "05:40:17 AM 25-11-2026",
   "total_matches": 185,
-  "live_match": 2,
-  "upcoming_match": 146,
+  "live_match": 4,
+  "upcoming_match": 144,
   "ended_match": 37,
   "matches": [
     {
@@ -78,7 +78,7 @@
       "id": "evt_5d3499ab67b6"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "WWE",
       "event_name": "WWE NXT Vs WWE NXT",
       "eventInfo": {
@@ -96,12 +96,12 @@
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
         },
         {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?"
-        },
-        {
           "channel_name": "NXT HD",
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
         },
         {
           "channel_name": "WWE SD",
@@ -116,7 +116,7 @@
       "id": "evt_a5179b3944d0"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Orlando Magic Vs Detroit Pistons",
       "eventInfo": {
