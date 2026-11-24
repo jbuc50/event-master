@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:34 PM 24-11-2026",
+  "last_update_time": "09:40:19 PM 24-11-2026",
   "total_matches": 234,
-  "live_match": 18,
-  "upcoming_match": 172,
+  "live_match": 20,
+  "upcoming_match": 170,
   "ended_match": 44,
   "matches": [
     {
@@ -519,8 +519,13 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAA.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -543,11 +548,6 @@
           "channel_name": "Server - 4",
           "stream_url": "https://pull.niur.live/live/stream-459401_lhd.m3u8?txSecret=ad8ca892d4dce37c0b3a7facb03d9abf&txTime=6b05e459",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -567,6 +567,14 @@
         "startTime": "24/11/2026 09:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SERVER HD",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel24.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8"
+        },
         {
           "channel_name": "FOX - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
@@ -603,6 +611,50 @@
       ],
       "isHot": false,
       "id": "evt_804e49ddfe16"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al Seeb SC Vs Al-Shorta",
+      "eventInfo": {
+        "teamA": "Al Seeb SC",
+        "teamB": "Al-Shorta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "24/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_53b1152642fc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Shabab Al-Ahli Dubai Vs Al-Qadsiah",
+      "eventInfo": {
+        "teamA": "Shabab Al-Ahli Dubai",
+        "teamB": "Al-Qadsiah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "24/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0cc613cf1906"
     },
     {
       "status": "LIVE",
@@ -691,50 +743,6 @@
       ],
       "id": "evt_b0fdb07fe5ec",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Seeb SC Vs Al-Shorta",
-      "eventInfo": {
-        "teamA": "Al Seeb SC",
-        "teamB": "Al-Shorta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "24/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_53b1152642fc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Shabab Al-Ahli Dubai Vs Al-Qadsiah",
-      "eventInfo": {
-        "teamA": "Shabab Al-Ahli Dubai",
-        "teamB": "Al-Qadsiah",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "24/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0cc613cf1906"
     },
     {
       "status": "UPCOMING",
@@ -885,8 +893,8 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel10.m3u8"
         }
       ],
       "isHot": false,
@@ -1086,8 +1094,8 @@
       },
       "streams": [
         {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8"
         }
       ],
       "isHot": false,
@@ -1109,7 +1117,7 @@
       "streams": [
         {
           "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel18.m3u8"
         }
       ],
       "isHot": false,
@@ -1129,6 +1137,10 @@
         "startTime": "25/11/2026 02:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8"
+        },
         {
           "channel_name": "TNT SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
