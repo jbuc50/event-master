@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:40:19 PM 24-11-2026",
+  "last_update_time": "03:50:18 PM 24-11-2026",
   "total_matches": 234,
   "live_match": 7,
   "upcoming_match": 188,
@@ -421,6 +421,11 @@
         {
           "channel_name": "TAMASHA AQ",
           "stream_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795555554~acl=/*~id=76403202165520569836578998371927~hmac=17acd14f3505e58b7359fb6fb8b258a8bbe5517eba4abdb627980f1f6b8032ee",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
