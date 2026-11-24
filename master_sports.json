@@ -1,74 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:00:29 PM 24-11-2026",
-  "total_matches": 226,
-  "live_match": 13,
-  "upcoming_match": 170,
-  "ended_match": 43,
+  "last_update_time": "11:10:19 PM 24-11-2026",
+  "total_matches": 227,
+  "live_match": 11,
+  "upcoming_match": 171,
+  "ended_match": 45,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Japan U17 Vs Serbia U17",
-      "eventInfo": {
-        "teamA": "Japan U17",
-        "teamB": "Serbia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22618/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "24/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2ae63ac12590"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Arsenal U19 Vs Borussia Dortmund U19",
-      "eventInfo": {
-        "teamA": "Arsenal U19",
-        "teamB": "Borussia Dortmund U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90120/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/43719/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "24/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQ.m3u8"
-        },
-        {
-          "channel_name": "TNT SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c90b2491749a"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -3865,6 +3803,23 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Pakistan A Vs Bangladesh A",
+      "eventInfo": {
+        "teamA": "Pakistan A",
+        "teamB": "Bangladesh A",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "eventName": "Men's Asia Cup Rising Stars",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
+        "startTime": "27/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_d862969977ee",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Ecuador U17 Vs South Korea U17",
       "eventInfo": {
@@ -5743,6 +5698,68 @@
       ],
       "isHot": false,
       "id": "evt_970dcb36c547"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Japan U17 Vs Serbia U17",
+      "eventInfo": {
+        "teamA": "Japan U17",
+        "teamB": "Serbia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22618/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "24/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel22.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQQQ.m3u8"
+        },
+        {
+          "channel_name": "TSN SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2ae63ac12590"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Arsenal U19 Vs Borussia Dortmund U19",
+      "eventInfo": {
+        "teamA": "Arsenal U19",
+        "teamB": "Borussia Dortmund U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90120/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/43719/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "24/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/KIKIKIAAAAQ.m3u8"
+        },
+        {
+          "channel_name": "TNT SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c90b2491749a"
     }
   ]
 }
