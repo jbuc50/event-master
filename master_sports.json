@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:22 PM 24-11-2026",
+  "last_update_time": "03:40:19 PM 24-11-2026",
   "total_matches": 234,
-  "live_match": 4,
-  "upcoming_match": 191,
+  "live_match": 7,
+  "upcoming_match": 188,
   "ended_match": 39,
   "matches": [
     {
@@ -386,7 +386,7 @@
       "id": "evt_71cff774ddc9"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Pakistan A Vs Nepal",
       "eventInfo": {
@@ -427,7 +427,7 @@
       "id": "evt_bc91fe234864"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Daejeon Hana Citizen Vs Beijing Guoan",
       "eventInfo": {
@@ -449,7 +449,7 @@
       "id": "evt_5d4cfd50152f"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Kyoto Sanga FC Vs Pohang Steelers",
       "eventInfo": {
