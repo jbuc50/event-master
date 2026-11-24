@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:30:21 PM 24-11-2026",
+  "last_update_time": "01:40:17 PM 24-11-2026",
   "total_matches": 234,
-  "live_match": 1,
-  "upcoming_match": 191,
+  "live_match": 2,
+  "upcoming_match": 190,
   "ended_match": 42,
   "matches": [
     {
@@ -23,7 +23,8 @@
       "streams": [
         {
           "channel_name": "PTV SPORTS HD",
-          "stream_url": "https://live.msnetworks.net/ptv-sports/master.m3u8"
+          "stream_url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "TEN CRICKET hd",
@@ -107,7 +108,7 @@
       "id": "evt_8da5a6b774b0"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Newcastle Jets Vs Kashiwa Reysol",
       "eventInfo": {
