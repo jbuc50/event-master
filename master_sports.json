@@ -1,43 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:29 PM 24-11-2026",
+  "last_update_time": "09:10:17 PM 24-11-2026",
   "total_matches": 234,
-  "live_match": 17,
-  "upcoming_match": 174,
-  "ended_match": 43,
+  "live_match": 18,
+  "upcoming_match": 172,
+  "ended_match": 44,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Italia T10 Vs Italia T10",
-      "eventInfo": {
-        "teamA": "Italia T10",
-        "teamB": "Italia T10",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "eventName": "Italia T10 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "startTime": "24/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "UNBEATEN FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
-          "channel_name": "SM IPTV LIVE",
-          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA PRO AQ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_22ba2b225076"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -339,12 +308,12 @@
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8?"
         },
         {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/S666A.m3u8"
         },
         {
-          "channel_name": "LOW SERVER",
-          "stream_url": "http://193.47.62.41/hls/S666A.m3u8"
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
         }
       ],
       "isHot": false,
@@ -525,6 +494,10 @@
       },
       "streams": [
         {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/E444AAAA.m3u8"
+        },
+        {
           "channel_name": "SPORTV BR - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
           "drm_key": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
@@ -560,6 +533,51 @@
       ],
       "isHot": false,
       "id": "evt_735127a566a7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Algeria U17 Vs Montenegro U17",
+      "eventInfo": {
+        "teamA": "Algeria U17",
+        "teamB": "Montenegro U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37321/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22631/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "24/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_de326e22e72c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Honduras U17 Vs Colombia U17",
+      "eventInfo": {
+        "teamA": "Honduras U17",
+        "teamB": "Colombia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7764/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22592/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "24/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_804e49ddfe16"
     },
     {
       "status": "LIVE",
@@ -648,51 +666,6 @@
       ],
       "id": "evt_b0fdb07fe5ec",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Algeria U17 Vs Montenegro U17",
-      "eventInfo": {
-        "teamA": "Algeria U17",
-        "teamB": "Montenegro U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37321/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22631/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "24/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_de326e22e72c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Honduras U17 Vs Colombia U17",
-      "eventInfo": {
-        "teamA": "Honduras U17",
-        "teamB": "Colombia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7764/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22592/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "24/11/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_804e49ddfe16"
     },
     {
       "status": "UPCOMING",
@@ -5889,6 +5862,37 @@
       ],
       "isHot": false,
       "id": "evt_5c0bfabf2dee"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Italia T10 Vs Italia T10",
+      "eventInfo": {
+        "teamA": "Italia T10",
+        "teamB": "Italia T10",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "eventName": "Italia T10 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "startTime": "24/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "UNBEATEN FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+        },
+        {
+          "channel_name": "SM IPTV LIVE",
+          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_22ba2b225076"
     }
   ]
 }
