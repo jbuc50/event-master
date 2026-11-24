@@ -1,12 +1,70 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:50:16 AM 24-11-2026",
+  "last_update_time": "12:00:26 PM 24-11-2026",
   "total_matches": 156,
-  "live_match": 0,
-  "upcoming_match": 156,
+  "live_match": 1,
+  "upcoming_match": 155,
   "ended_match": 0,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "India A Vs United Arab Emirates",
+      "eventInfo": {
+        "teamA": "India A",
+        "teamB": "United Arab Emirates",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
+        "eventName": "ACC Emerging Teams Asia Cup",
+        "event_logo": "",
+        "startTime": "24/11/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TEN CRICKET hd",
+          "stream_url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONY SPORTS TEN 1 HD",
+          "stream_url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/12.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONY SPORTS TEN 3 HD",
+          "stream_url": "http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/14.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (eng)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (hin)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tam)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (tel)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - (kan)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795541541~acl=/*~id=91001549328675400593821637656827~hmac=c14d54582673e50a056f34623907d61251f24c4364b91e28f47e5eb675f492e0",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_30b028a036b3",
+      "isHot": false
+    },
     {
       "status": "UPCOMING",
       "Category": "Cricket",
@@ -2186,23 +2244,6 @@
       },
       "streams": [],
       "id": "evt_ef7176feebd9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "India A Vs United Arab Emirates",
-      "eventInfo": {
-        "teamA": "India A",
-        "teamB": "United Arab Emirates",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-        "eventName": "ACC Emerging Teams Asia Cup",
-        "event_logo": "",
-        "startTime": "24/11/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_30b028a036b3",
       "isHot": false
     },
     {
