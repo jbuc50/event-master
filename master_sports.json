@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:30:23 PM 24-11-2026",
+  "last_update_time": "07:40:22 PM 24-11-2026",
   "total_matches": 234,
-  "live_match": 11,
-  "upcoming_match": 182,
+  "live_match": 14,
+  "upcoming_match": 179,
   "ended_match": 41,
   "matches": [
     {
@@ -120,7 +120,7 @@
         },
         {
           "channel_name": "TAMASHA PRO AQ ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
         }
       ],
       "isHot": false,
@@ -386,7 +386,8 @@
         {
           "channel_name": "D SPORTS ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -450,7 +451,8 @@
         {
           "channel_name": "TSN SPORTS AQ ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "VIX TN",
@@ -530,13 +532,17 @@
       },
       "streams": [
         {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/S666.m3u8"
+        },
+        {
           "channel_name": "FOX - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
-          "channel_name": "VIX",
+          "channel_name": "VIX Mexico ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
@@ -563,7 +569,7 @@
       "id": "evt_bf7fb48448db"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "East Bengal FC Vs Al-Hussein Irbid",
       "eventInfo": {
@@ -585,7 +591,7 @@
       "id": "evt_c3b99ba712cf"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "NorthEast United FC Vs Sporting Delhi",
       "eventInfo": {
@@ -605,6 +611,41 @@
       ],
       "isHot": false,
       "id": "evt_f5a5e99ca15c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "East Bengal Vs Al Hussein",
+      "eventInfo": {
+        "teamA": "East Bengal",
+        "teamB": "Al Hussein",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
+        "startTime": "24/11/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001795522888-0-0-ef6d8c9db9117560d23ac37d43b576f4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel16.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_4b3258eefc14",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -1577,12 +1618,7 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
         "startTime": "25/11/2026 06:15:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_1858f7c4e3a9"
     },
@@ -2104,21 +2140,7 @@
         "event_logo": "https://cat-logo.pages.dev/boxing-gloves-1-1.png",
         "startTime": "29/11/2026 04:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "DAZN SPORTS HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59448/load-playlist-multi?"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/HLLLAAA.m3u8"
-        },
-        {
-          "channel_name": "DAZN AQ ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w8w8dsk18o/out/v1/5b80a7c32b38459d9042d06347c07706/cenc.mpd?",
-          "drm_key": "d2acec7255df9907e1578e94183ed352:4391cf6824b5a556a7571cee7f238649"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_02b05a637e1c"
     },
@@ -2312,23 +2334,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "East Bengal Vs Al Hussein",
-      "eventInfo": {
-        "teamA": "East Bengal",
-        "teamB": "Al Hussein",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:171.png/v6/Competitions/light/568",
-        "startTime": "24/11/2026 07:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_4b3258eefc14",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -5867,7 +5872,7 @@
         },
         {
           "channel_name": "TAMASHA PRO AQ ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8090/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/BANvsSAF-SVOD-abr/playlist.m3u8"
         },
         {
           "channel_name": "EURO SPORTS - AQ",
