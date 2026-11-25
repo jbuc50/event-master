@@ -1,39 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:00:28 PM 25-11-2026",
+  "last_update_time": "11:10:19 PM 25-11-2026",
   "total_matches": 194,
-  "live_match": 14,
+  "live_match": 13,
   "upcoming_match": 137,
-  "ended_match": 43,
+  "ended_match": 44,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sporting U19 Vs Manchester United U19",
-      "eventInfo": {
-        "teamA": "Sporting U19",
-        "teamB": "Manchester United U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/78151/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/120848/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "25/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "SONYLIV ENG - AQ",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_576d70f43ee2"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -5126,6 +5099,33 @@
       ],
       "isHot": false,
       "id": "evt_f8e7d867b2a4"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sporting U19 Vs Manchester United U19",
+      "eventInfo": {
+        "teamA": "Sporting U19",
+        "teamB": "Manchester United U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/78151/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/120848/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "25/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SONYLIV ENG - AQ",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795656830~acl=/*~id=54580525332449956328218595756401~hmac=d35e2db7dbd01e3da0c733f4fca78c1f7c414b4d273da1b6dcecce5dd3173393"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_576d70f43ee2"
     }
   ]
 }
