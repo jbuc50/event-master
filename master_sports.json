@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:20 PM 25-11-2026",
+  "last_update_time": "03:40:16 PM 25-11-2026",
   "total_matches": 212,
-  "live_match": 3,
-  "upcoming_match": 168,
+  "live_match": 5,
+  "upcoming_match": 166,
   "ended_match": 41,
   "matches": [
     {
@@ -279,7 +279,7 @@
       "id": "evt_9e0430529e6c"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Kashima Antlers Vs Jeonbuk Hyundai Motors",
       "eventInfo": {
@@ -318,7 +318,7 @@
       "id": "evt_48262b6210ca"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Gamba Osaka Vs Port FC",
       "eventInfo": {
