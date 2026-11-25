@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:30 AM 26-11-2026",
+  "last_update_time": "03:40:17 AM 26-11-2026",
   "total_matches": 245,
-  "live_match": 18,
-  "upcoming_match": 186,
+  "live_match": 19,
+  "upcoming_match": 185,
   "ended_match": 41,
   "matches": [
     {
@@ -695,6 +695,32 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Philadelphia 76ers Vs Miami Heat",
+      "eventInfo": {
+        "teamA": "Philadelphia 76ers",
+        "teamB": "Miami Heat",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.55/hls/NTTT.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61019\\/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b1e53f3c6175"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sporting Vs Man Utd",
       "eventInfo": {
@@ -1181,28 +1207,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Philadelphia 76ers Vs Miami Heat",
-      "eventInfo": {
-        "teamA": "Philadelphia 76ers",
-        "teamB": "Miami Heat",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/11/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b1e53f3c6175"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Atlético Mineiro Vs Corinthians",
       "eventInfo": {
@@ -1351,6 +1355,11 @@
       },
       "streams": [
         {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
@@ -1415,7 +1424,12 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "26/11/2026 06:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
       "isHot": false,
       "id": "evt_a326590f0105"
     },
@@ -1432,7 +1446,12 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
         "startTime": "26/11/2026 06:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
       "isHot": false,
       "id": "evt_efdc239c0d83"
     },
@@ -1450,6 +1469,11 @@
         "startTime": "26/11/2026 06:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
@@ -1715,6 +1739,11 @@
       },
       "streams": [
         {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
@@ -1736,6 +1765,11 @@
         "startTime": "26/11/2026 08:40:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "PREMIER SPORTS - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
