@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:40:17 AM 26-11-2026",
+  "last_update_time": "02:50:16 AM 26-11-2026",
   "total_matches": 245,
   "live_match": 18,
   "upcoming_match": 186,
@@ -2529,6 +2529,36 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Boca Juniors Vs Independiente Rivadavia",
+      "eventInfo": {
+        "teamA": "Boca Juniors",
+        "teamB": "Independiente Rivadavia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+        "eventName": "Liga Profesional",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "26/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795638007-0-0-4d0d1540ba98248c7e7a6297aa2acd50",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_2d0746a6927d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Atlético-MG Vs Corinthians",
       "eventInfo": {
         "teamA": "Atlético-MG",
@@ -2783,23 +2813,6 @@
       },
       "streams": [],
       "id": "evt_bfd124925eda",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Boca Juniors Vs Independiente Rivadavia",
-      "eventInfo": {
-        "teamA": "Boca Juniors",
-        "teamB": "Independiente Rivadavia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
-        "eventName": "Liga Profesional",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-        "startTime": "26/11/2026 06:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2d0746a6927d",
       "isHot": false
     },
     {
