@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:40:18 PM 25-11-2026",
+  "last_update_time": "08:50:18 PM 25-11-2026",
   "total_matches": 211,
   "live_match": 14,
   "upcoming_match": 151,
@@ -54,31 +54,12 @@
       "streams": [
         {
           "channel_name": "HD STREAM",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8"
         },
         {
           "channel_name": "D SPORTS - AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001795602030-0-0-c2396a96a9700eddfe936ad5f6a5f6a1",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel11.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
         }
       ],
       "isHot": false,
@@ -100,25 +81,7 @@
       "streams": [
         {
           "channel_name": "HD STREAM",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795605930-0-0-55f99a196104e5f17d04d4a83ea3d04d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel28.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8"
         }
       ],
       "isHot": false,
@@ -602,6 +565,18 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce"
         }
       ],
       "id": "evt_f25dd799cd9f",
@@ -646,12 +621,14 @@
         {
           "channel_name": "FOX SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "D SPORTS+ FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
