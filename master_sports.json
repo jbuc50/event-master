@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:30:22 PM 25-11-2026",
+  "last_update_time": "01:40:18 PM 25-11-2026",
   "total_matches": 185,
-  "live_match": 1,
-  "upcoming_match": 138,
+  "live_match": 3,
+  "upcoming_match": 136,
   "ended_match": 46,
   "matches": [
     {
@@ -47,7 +47,7 @@
       "id": "evt_a874b78aa86e"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Melbourne Victory Vs Thể Công - Viettel",
       "eventInfo": {
@@ -69,7 +69,7 @@
       "id": "evt_d574445663db"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "South Africa Vs Bangladesh",
       "eventInfo": {
