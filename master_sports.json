@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:50:17 PM 25-11-2026",
+  "last_update_time": "02:00:26 PM 25-11-2026",
   "total_matches": 185,
-  "live_match": 3,
-  "upcoming_match": 136,
+  "live_match": 4,
+  "upcoming_match": 135,
   "ended_match": 46,
   "matches": [
     {
@@ -184,7 +184,7 @@
       "id": "evt_3dab98028949"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Melbourne Renegades Women Vs Brisbane Heat Women",
       "eventInfo": {
