@@ -1,70 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:00:25 PM 25-11-2026",
-  "total_matches": 186,
-  "live_match": 3,
-  "upcoming_match": 139,
-  "ended_match": 44,
+  "last_update_time": "01:10:16 PM 25-11-2026",
+  "total_matches": 185,
+  "live_match": 1,
+  "upcoming_match": 138,
+  "ended_match": 46,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/nba3.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORTS MIX",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "channel_name": "SKY SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_25f56d6cddb8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "San Jose Earthquakes Vs Houston Dynamo",
-      "eventInfo": {
-        "teamA": "San Jose Earthquakes",
-        "teamB": "Houston Dynamo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-        "eventName": "MLS",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_51453e300ba1"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -1202,12 +1144,12 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "Bangladesh A Vs India A",
+      "event_name": "Bangladesh A Vs Pakistan A",
       "eventInfo": {
         "teamA": "Bangladesh A",
-        "teamB": "India A",
+        "teamB": "Pakistan A",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213104/image",
         "eventName": "Asia Cup Rising Stars",
         "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
         "startTime": "27/11/2026 04:00:00 PM"
@@ -1241,7 +1183,7 @@
         }
       ],
       "isHot": false,
-      "id": "evt_59dbf76eb2dc"
+      "id": "evt_4134cd516863"
     },
     {
       "status": "UPCOMING",
@@ -2910,23 +2852,6 @@
       },
       "streams": [],
       "id": "evt_ef7176feebd9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Pakistan A Vs Bangladesh A",
-      "eventInfo": {
-        "teamA": "Pakistan A",
-        "teamB": "Bangladesh A",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-        "eventName": "Men's Asia Cup Rising Stars",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2rCtrI68Agu71aIWID9YxzlqXN-3c88k4cwPQQhwEA&s=10",
-        "startTime": "27/11/2026 04:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d862969977ee",
       "isHot": false
     },
     {
@@ -4718,6 +4643,64 @@
       ],
       "isHot": false,
       "id": "evt_1b848a5eddb2"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Denver Nuggets Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Denver Nuggets",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "25/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/nba3.m3u8"
+        },
+        {
+          "channel_name": "SKY SPORTS MIX",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "SKY SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_25f56d6cddb8"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "San Jose Earthquakes Vs Houston Dynamo",
+      "eventInfo": {
+        "teamA": "San Jose Earthquakes",
+        "teamB": "Houston Dynamo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
+        "eventName": "MLS",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_51453e300ba1"
     }
   ]
 }
