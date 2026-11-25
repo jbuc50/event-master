@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:22 AM 25-11-2026",
+  "last_update_time": "08:40:16 AM 25-11-2026",
   "total_matches": 185,
-  "live_match": 4,
-  "upcoming_match": 142,
+  "live_match": 6,
+  "upcoming_match": 140,
   "ended_match": 39,
   "matches": [
     {
@@ -140,7 +140,7 @@
       "id": "evt_0565c9be1a71"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Denver Nuggets Vs Dallas Mavericks",
       "eventInfo": {
@@ -176,7 +176,7 @@
       "id": "evt_25f56d6cddb8"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "San Jose Earthquakes Vs Houston Dynamo",
       "eventInfo": {
