@@ -1,5 +1,5 @@
 {
-  "source_name": "SM","SM IPTV",
+  "source_name": ["SM IPTV", "PlayZTV", "CriczTV", "SM"],
   "remove_events": [],
   
   "merge_events": [
