@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:26 PM 25-11-2026",
+  "last_update_time": "02:10:19 PM 25-11-2026",
   "total_matches": 185,
   "live_match": 4,
-  "upcoming_match": 135,
-  "ended_match": 46,
+  "upcoming_match": 139,
+  "ended_match": 42,
   "matches": [
     {
       "status": "LIVE",
@@ -21,10 +21,6 @@
         "startTime": "25/11/2026 11:00:00 AM"
       },
       "streams": [
-        {
-          "channel_name": "SKY SPORTS AQ",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https"
-        },
         {
           "channel_name": "SM IPTV LIVE",
           "stream_url": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76",
@@ -61,8 +57,49 @@
       },
       "streams": [
         {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/FRFRFR.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "SM IPTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795591379-0-0-36d4662b0ee56c22c4ba117d953a40e8",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795588389-0-0-1f657717e8d1e6a7eb9e58d54629a961",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795585449-0-0-aa6126cf79377297c33971e5d7d1c911",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -178,6 +215,18 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/faxkswwplm/out/v1/6360aca9a29e49108a0d7c44fce32af7/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "2c0a5ca2bcc67426156a65d85d53f5ae:02b0a91443f3b8682dd08912875eeb61"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df"
         }
       ],
       "isHot": false,
@@ -213,7 +262,9 @@
         },
         {
           "channel_name": "TAPMAD HD",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8"
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "WILLOW AQ",
@@ -233,6 +284,18 @@
         {
           "channel_name": "willow - alt",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8s0mwls1j6/out/v1/3af3f6a860de4f43b2867101e5a26cce/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
         }
@@ -1353,6 +1416,82 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "WWE",
+      "event_name": "WWE RAW Vs WWE RAW",
+      "eventInfo": {
+        "teamA": "WWE RAW",
+        "teamB": "WWE RAW",
+        "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg",
+        "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg",
+        "eventName": "WWE Monday Night RAW",
+        "event_logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+        "startTime": "01/12/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "ok"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "okOkja"
+        },
+        {
+          "channel_name": "SD STREAM BK",
+          "stream_url": "okOkja"
+        },
+        {
+          "channel_name": "SM IPTV",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b0a01cb99bbc"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "WWE",
+      "event_name": "WWE NXT Vs WWE NXT",
+      "eventInfo": {
+        "teamA": "WWE NXT",
+        "teamB": "WWE NXT",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10",
+        "eventName": "NXT",
+        "event_logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+        "startTime": "02/12/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "NXT HD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+        },
+        {
+          "channel_name": "WWE SD",
+          "stream_url": "ok"
+        },
+        {
+          "channel_name": "NXT SD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a5179b3944d0"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "GROMDA Vs GROMDA",
       "eventInfo": {
@@ -1372,6 +1511,33 @@
       ],
       "isHot": false,
       "id": "evt_9384a6bbabb4"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Mixed Martial Arts",
+      "event_name": "ONE Vs ONE",
+      "eventInfo": {
+        "teamA": "ONE",
+        "teamB": "ONE",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "eventName": "ONE FRIDAY FIGHTS 179",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/20269/image/dark",
+        "startTime": "04/12/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "ONE PPV - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+        },
+        {
+          "channel_name": "ONE FIGHT - AQ",
+          "stream_url": "https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0450b71f57fd"
     },
     {
       "status": "UPCOMING",
@@ -1402,6 +1568,64 @@
       ],
       "isHot": false,
       "id": "evt_af17061b7bd4"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "WWE",
+      "event_name": "SmackDown Vs SmackDown",
+      "eventInfo": {
+        "teamA": "SmackDown",
+        "teamB": "SmackDown",
+        "teamAFlag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg",
+        "teamBFlag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg",
+        "eventName": "Friday Night SmackDown",
+        "event_logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
+        "startTime": "05/12/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WWE LIVE FHD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "NETFLIX FHD",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "channel_name": "SMACKDOWN HD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "NETFLIX HD",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV HD",
+          "stream_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
+        },
+        {
+          "channel_name": "SMACKDOWN SD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        },
+        {
+          "channel_name": "NETFLIX SD",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV WWE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8"
+        },
+        {
+          "channel_name": "SM IPTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/58881\\/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1ff37acdb8e2"
     },
     {
       "status": "UPCOMING",
@@ -3629,33 +3853,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Mixed Martial Arts",
-      "event_name": "ONE Vs ONE",
-      "eventInfo": {
-        "teamA": "ONE",
-        "teamB": "ONE",
-        "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "eventName": "ONE SAMURAI 4",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/20269/image/dark",
-        "startTime": "17/10/2026 01:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "ONE FIGHT - AQ",
-          "stream_url": "https://fastly.live.brightcove.com/1870589077269940904/ap-northeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoidTBzYTJxLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NzA1ODkwNzcyNjk5NDA5MDQifQ.lXj1GmSg6qP5Vr089nM3lEvwAspkJUicfhIX0htOsRk/playlist-hls.m3u8"
-        },
-        {
-          "channel_name": "ONE PPV - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
-          "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_866044613bba"
-    },
-    {
-      "status": "ENDED",
       "Category": "Cycling",
       "event_name": "UCI Cycling Vs UCI Cycling",
       "eventInfo": {
@@ -4052,64 +4249,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "WWE",
-      "event_name": "SmackDown Vs SmackDown",
-      "eventInfo": {
-        "teamA": "SmackDown",
-        "teamB": "SmackDown",
-        "teamAFlag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg",
-        "teamBFlag": "https://d2thvodm3xyo6j.cloudfront.net/media/2021/05/485dcbc111ecb0b1-600x338.jpg",
-        "eventName": "Friday Night SmackDown",
-        "event_logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
-        "startTime": "21/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WWE LIVE FHD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "NETFLIX FHD",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "channel_name": "SMACKDOWN HD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "NETFLIX HD",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
-        },
-        {
-          "channel_name": "SM IPTV HD",
-          "stream_url": "https://pz.ekkktb.workers.dev/?q=WWE vs wwe"
-        },
-        {
-          "channel_name": "SMACKDOWN SD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        },
-        {
-          "channel_name": "NETFLIX SD",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/A555AAAAQQQ.m3u8"
-        },
-        {
-          "channel_name": "SM IPTV WWE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/54963/load-playlist.m3u8"
-        },
-        {
-          "channel_name": "SM IPTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/58881\\/load-playlist"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1ff37acdb8e2"
-    },
-    {
-      "status": "ENDED",
       "Category": "Mixed Martial Arts",
       "event_name": "BKFC Vs BKFC",
       "eventInfo": {
@@ -4380,44 +4519,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "WWE",
-      "event_name": "WWE RAW Vs WWE RAW",
-      "eventInfo": {
-        "teamA": "WWE RAW",
-        "teamB": "WWE RAW",
-        "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg",
-        "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/wrestling_on_fannation/01j7cr769n5sz41833rh.jpg",
-        "eventName": "WWE Monday Night RAW",
-        "event_logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
-        "startTime": "24/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV HD",
-          "stream_url": "ok"
-        },
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "okOkja"
-        },
-        {
-          "channel_name": "SD STREAM BK",
-          "stream_url": "okOkja"
-        },
-        {
-          "channel_name": "SM IPTV",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b0a01cb99bbc"
-    },
-    {
-      "status": "ENDED",
       "Category": "Tennis",
       "event_name": "Czechia Vs Canada",
       "eventInfo": {
@@ -4494,44 +4595,6 @@
       ],
       "isHot": false,
       "id": "evt_5d3499ab67b6"
-    },
-    {
-      "status": "ENDED",
-      "Category": "WWE",
-      "event_name": "WWE NXT Vs WWE NXT",
-      "eventInfo": {
-        "teamA": "WWE NXT",
-        "teamB": "WWE NXT",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_ocMoLmX6ct3RO9vXjOxUOLp0rVKTMaUBojv_hvt7ar9Z2lG2jZkTpI&s=10",
-        "eventName": "NXT",
-        "event_logo": "https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg",
-        "startTime": "25/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "NXT HD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "SM IPTV HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
-        },
-        {
-          "channel_name": "WWE SD",
-          "stream_url": "ok"
-        },
-        {
-          "channel_name": "NXT SD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a5179b3944d0"
     },
     {
       "status": "ENDED",
