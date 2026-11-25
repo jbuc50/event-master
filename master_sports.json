@@ -1,35 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:25 AM 25-11-2026",
+  "last_update_time": "06:10:22 AM 25-11-2026",
   "total_matches": 185,
-  "live_match": 4,
+  "live_match": 3,
   "upcoming_match": 144,
-  "ended_match": 37,
+  "ended_match": 38,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Golazo Show Vs Golazo Show",
-      "eventInfo": {
-        "teamA": "Golazo Show",
-        "teamB": "Golazo Show",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
-        "eventName": "The - Golazo Show",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
-        "startTime": "25/11/2026 01:55:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PARAMOUNT+",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd",
-          "drm_key": "acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_192e7710fc3d"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -4698,6 +4675,29 @@
       ],
       "isHot": false,
       "id": "evt_e5dc68d75209"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Golazo Show Vs Golazo Show",
+      "eventInfo": {
+        "teamA": "Golazo Show",
+        "teamB": "Golazo Show",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
+        "eventName": "The - Golazo Show",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0OgZU9w1HJQZAizR01jaXii00guX9UNv-QR5cveBhQ&s=10",
+        "startTime": "25/11/2026 01:55:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PARAMOUNT+",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk97erm4yh/out/v1/e60d5427e5f34cae8c7e347db9fd5b05/cenc.mpd",
+          "drm_key": "acf65afa1e6e1c2fb808dc3e9e737659:ae35255a282fa1645f25e8e9e92d2ae2"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_192e7710fc3d"
     }
   ]
 }
