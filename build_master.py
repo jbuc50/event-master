@@ -266,7 +266,44 @@ def get_event_name(match):
 
 def get_source_status(match):
     return str(match.get("status", match.get("match_status", ""))).strip().upper()
+    # ============================================================
+# CHANNEL RENAME: manual_control.json-er source_name -> LiveZoneTV
+# ============================================================
 
+def build_source_pattern(source_name):
+    """source_name-ke case-insensitive, word-boundary diye regex banaay."""
+    if not source_name:
+        return None
+    escaped = re.escape(str(source_name).strip())
+    return re.compile(rf"\b{escaped}\b", re.IGNORECASE)
+
+
+def apply_channel_rename(matches, manual):
+    """
+    manual_control.json-er 'source_name' (e.g. 'SM' or 'SM IPTV')
+    ke 'LiveZoneTV' diye replace kore. Suffix (LIVE/HD/FHD/AQ...) thake.
+    """
+    source_name = str(manual.get("source_name", "")).strip()
+    if not source_name:
+        print("[RENAME] source_name not set -> skipped")
+        return 0
+
+    pattern = build_source_pattern(source_name)
+    if pattern is None:
+        return 0
+
+    changed = 0
+    for m in matches:
+        for s in m.get("streams", []):
+            if not isinstance(s, dict):
+                continue
+            old = str(s.get("channel_name", "")).strip()
+            new = pattern.sub(TARGET_APP_NAME, old)
+            if new != old:
+                s["channel_name"] = new
+                changed += 1
+    print(f"[RENAME] '{source_name}' -> '{TARGET_APP_NAME}': {changed} streams updated")
+    return changed
 
 # ============================================================
 # API1  ->  MASTER FORMAT
@@ -816,6 +853,9 @@ def main():
         # 4. Manual control
         manual = load_manual_control()
         merged = apply_manual_events_and_streams(merged, manual)
+        
+        # ✅ 4.5 Rename: source_name -> LiveZoneTV
+        apply_channel_rename(merged, manual)
 
         # 5. Remove empty URLs
         removed_empty = remove_empty_stream_urls(merged)
