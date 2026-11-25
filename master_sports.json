@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:00:27 AM 26-11-2026",
+  "last_update_time": "05:10:17 AM 26-11-2026",
   "total_matches": 245,
   "live_match": 21,
   "upcoming_match": 183,
@@ -85,141 +85,6 @@
       ],
       "isHot": false,
       "id": "evt_67fe2d536a9d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Paris Saint-Germain Vs AS Roma",
-      "eventInfo": {
-        "teamA": "Paris Saint-Germain",
-        "teamB": "AS Roma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-        "eventName": "UEFA Champions League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
-        "startTime": "26/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "BEIN ARABIC HD",
-          "stream_url": "https://ylp.akhbarnewscdn.store/cdn/live2/master.m3u8"
-        },
-        {
-          "channel_name": "DAZN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k3gfvt9dts/out/v1/3e27275afe8e4197857206e72e2c037c/cenc.mpd",
-          "drm_key": "c22553e1fada7a1f7e04dd812c1d63ce:09aa651b7390082f0a45dc2647bc3270"
-        },
-        {
-          "channel_name": "PARAMOUNT+ - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd",
-          "drm_key": "21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "DAZN DE - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu9pioqq5r/out/v1/6183feaf6ab1475fa4f978692b6dc6e3/cenc.mpd",
-          "drm_key": "6cdd9c1b206a5c805fada903b1480850:159b8bb5afe8d4410b472009a25043d0",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TNT BRASIL - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
-          "drm_key": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "VIX SPANISH - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sf4cksmfsp/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
-          "drm_key": "fe2e494b16910abc8e120170e200ae8a:3dd29ac12d2ce2fd0b3e1c855b4d813c"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61007\\/load-playlist-multi"
-        },
-        {
-          "channel_name": "SONYLIV ENG - AQ",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795679320~acl=/*~id=64535104626460595731998038990133~hmac=c0ea0c5b9b189b3d852d169f88d15b51a96bbe1d3c02eb610c8a8210a2439435"
-        },
-        {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW SERVER",
-          "stream_url": "http://193.47.62.50/hls/PMMMAAA.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795631073-0-0-befca68f99170f2d538ac05e59cc0288",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=1b2ab595ed33f9bec5e34954ba829342&wsABSTime=1795674274",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795631074-0-0-c54f925b79af7516f95f0ae60b58bba5",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795631076-0-0-750e282a7f600c1ab09ce572a2e54654",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=61fb0ec2f3c502772448e7265ad35a18&txTime=6b074899",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 8",
-          "stream_url": "https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=b280eaa4ba79a6011e73599f2f38a66e&txTime=6b074899",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 9",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 10",
-          "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "sonyliv - aq",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_93f45581c7d9"
     },
     {
       "status": "LIVE",
@@ -1157,6 +1022,115 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "PSG Vs AS Roma",
+      "eventInfo": {
+        "teamA": "PSG",
+        "teamB": "AS Roma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+        "eventName": "UEFA Champions League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/7/image",
+        "startTime": "26/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795631073-0-0-befca68f99170f2d538ac05e59cc0288",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel13.flv?wsSecret=1b2ab595ed33f9bec5e34954ba829342&wsABSTime=1795674274",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795631074-0-0-c54f925b79af7516f95f0ae60b58bba5",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795631076-0-0-750e282a7f600c1ab09ce572a2e54654",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://pull.niur.live/live/stream-582342_lhd.m3u8?txSecret=61fb0ec2f3c502772448e7265ad35a18&txTime=6b074899",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 8",
+          "stream_url": "https://pull.niur.live/live/stream-9912143_lhd.m3u8?txSecret=b280eaa4ba79a6011e73599f2f38a66e&txTime=6b074899",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 9",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 10",
+          "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795678100~acl=/*~id=52616742814523162763668479338238~hmac=20492d49a30cb56005596f82cf24fb1e49302538dcfe8f97f49e1d46889d46a4",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PARAMOUNT+ - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jt8139h35n/out/v1/fa8bec2a768c4c7786095b7face05932/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "21c0e2ace56362f19b65b3b0e6e5b66f:ea52a1be65a13ddd7c358028a0854866"
+        },
+        {
+          "channel_name": "DAZN DE - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vu9pioqq5r/out/v1/6183feaf6ab1475fa4f978692b6dc6e3/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "6cdd9c1b206a5c805fada903b1480850:159b8bb5afe8d4410b472009a25043d0"
+        },
+        {
+          "channel_name": "TNT BRASIL - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1"
+        }
+      ],
+      "id": "evt_91da78157097",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Atlético-MG Vs Corinthians",
       "eventInfo": {
         "teamA": "Atlético-MG",
@@ -1696,6 +1670,10 @@
         "startTime": "26/11/2026 07:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61028\\/load-playlist"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
