@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:40:19 PM 25-11-2026",
-  "total_matches": 201,
+  "last_update_time": "10:50:19 PM 25-11-2026",
+  "total_matches": 194,
   "live_match": 14,
-  "upcoming_match": 144,
+  "upcoming_match": 137,
   "ended_match": 43,
   "matches": [
     {
@@ -110,38 +110,6 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel13.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel13.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795612904-0-0-c6f0f3013be2c222fb772ddf5e0bda82",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795614249-0-0-395c4bc0b42089fce0392e83e6340f95",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1795598889-0-0-95dae14c40404cf5afd3607afd6239e4",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel13.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://live2.zktsva.app/live/796315.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -168,33 +136,6 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel20.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-20.flv?auth_key=3000001795613030-0-0-e2b960a56093dfe35c79bc1fd66190f5",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-20/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795618989-0-0-90107bdaa1171354f9165ca62a3c8c52",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=dfcc6ff923f2d59493c743f6a191829e&txTime=6b073ec1",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel20.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2325,125 +2266,6 @@
         }
       ],
       "id": "evt_ef7176feebd9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Barcelona SC Vs Independiente del Valle",
-      "eventInfo": {
-        "teamA": "Barcelona SC",
-        "teamB": "Independiente del Valle",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5250/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/39723/image",
-        "eventName": "Liga Pro",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/38352/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_7b426f147e3c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cerro Porteño Vs Club Guarani",
-      "eventInfo": {
-        "teamA": "Cerro Porteño",
-        "teamB": "Club Guarani",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/1294",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/7739",
-        "eventName": "Primera Division, Clausura",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_d0dbec935d5d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sportivo Luqueño Vs Olimpia",
-      "eventInfo": {
-        "teamA": "Sportivo Luqueño",
-        "teamB": "Olimpia",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8778",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8548",
-        "eventName": "Primera Division, Clausura",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_4de6dbef1d4a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sportivo Trinidense Vs Recoleta FC",
-      "eventInfo": {
-        "teamA": "Sportivo Trinidense",
-        "teamB": "Recoleta FC",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14640",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/53209",
-        "eventName": "Primera Division, Clausura",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_57c0041ad2ba",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CS San Lorenzo Vs Sportivo Ameliano",
-      "eventInfo": {
-        "teamA": "CS San Lorenzo",
-        "teamB": "Sportivo Ameliano",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/14634",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/56588",
-        "eventName": "Primera Division, Clausura",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_e008343ad609",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Libertad Vs 2 de Mayo",
-      "eventInfo": {
-        "teamA": "Libertad",
-        "teamB": "2 de Mayo",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1286",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/14642",
-        "eventName": "Primera Division, Clausura",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_8dca1e9249eb",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Club Nacional Vs Rubio Ñu",
-      "eventInfo": {
-        "teamA": "Club Nacional",
-        "teamB": "Rubio Ñu",
-        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1280",
-        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8774",
-        "eventName": "Primera Division, Clausura",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/35020/image",
-        "startTime": "25/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_f1712b85617c",
       "isHot": false
     },
     {
