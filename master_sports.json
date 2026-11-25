@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:26 AM 25-11-2026",
-  "total_matches": 185,
+  "last_update_time": "11:40:18 AM 25-11-2026",
+  "total_matches": 184,
   "live_match": 3,
   "upcoming_match": 139,
-  "ended_match": 43,
+  "ended_match": 42,
   "matches": [
     {
       "status": "LIVE",
@@ -4671,33 +4671,6 @@
       ],
       "isHot": false,
       "id": "evt_399054dd1174"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Edmonton Oilers Vs Vegas Golden Knights",
-      "eventInfo": {
-        "teamA": "Edmonton Oilers",
-        "teamB": "Vegas Golden Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "25/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/nhl.m3u8"
-        },
-        {
-          "channel_name": "PREMIER SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0565c9be1a71"
     }
   ]
 }
