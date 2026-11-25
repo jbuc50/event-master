@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:28 PM 25-11-2026",
+  "last_update_time": "07:10:18 PM 25-11-2026",
   "total_matches": 212,
-  "live_match": 7,
-  "upcoming_match": 161,
+  "live_match": 9,
+  "upcoming_match": 159,
   "ended_match": 44,
   "matches": [
     {
@@ -127,6 +127,10 @@
         {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.50/hls/ZTTTAAA.m3u8"
+        },
+        {
+          "channel_name": "SPORTDIGITAL FUSSBALL AQ",
+          "stream_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8"
         },
         {
           "channel_name": "TAPMAD - AQ",
@@ -274,7 +278,7 @@
       "id": "evt_576d70f43ee2"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Haiti U17 Vs Saudi Arabia U17",
       "eventInfo": {
@@ -296,7 +300,7 @@
       "id": "evt_824322d010ca"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Uruguay U17 Vs France U17",
       "eventInfo": {
@@ -310,8 +314,14 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "TSN SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "FOX - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         }
       ],
       "isHot": false,
@@ -660,6 +670,11 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "SPORTV BR - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+          "drm_key": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc"
         }
       ],
       "isHot": false,
@@ -900,8 +915,9 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
         }
       ],
       "isHot": false,
