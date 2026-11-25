@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:40:17 PM 25-11-2026",
-  "total_matches": 187,
-  "live_match": 4,
+  "last_update_time": "12:50:16 PM 25-11-2026",
+  "total_matches": 186,
+  "live_match": 3,
   "upcoming_match": 139,
   "ended_match": 44,
   "matches": [
@@ -103,42 +103,6 @@
       ],
       "isHot": false,
       "id": "evt_a874b78aa86e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "San Jose Vs Houston Dynamo FC",
-      "eventInfo": {
-        "teamA": "San Jose",
-        "teamB": "Houston Dynamo FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-        "eventName": "MLS",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-        "startTime": "25/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel21.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001795555512-0-0-b1f872dfd6f760a48b59c3cc785a6903",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.55/hls/TCCCAAAq.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e713c889b603",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
