@@ -274,40 +274,72 @@ def get_source_status(match):
 # CHANNEL RENAME: manual_control.json-er source_name -> LiveZoneTV
 # ============================================================
 
-def build_source_pattern(source_name):
-    """source_name-ke case-insensitive, word-boundary diye regex banaay."""
-    if not source_name:
-        return None
-    escaped = re.escape(str(source_name).strip())
-    return re.compile(rf"\b{escaped}\b", re.IGNORECASE)
-
-
 def apply_channel_rename(matches, manual):
     """
-    manual_control.json-er 'source_name' (e.g. 'SM' or 'SM IPTV')
-    ke 'LiveZoneTV' diye replace kore. Suffix (LIVE/HD/FHD/AQ...) thake.
+    manual_control.json-er 'source_name' (string OR list of strings)
+    ke TARGET_APP_NAME ('LiveZoneTV') diye replace kore.
+
+    - suffix (LIVE / HD / FHD / AQ / [IND] ...) as-is thake
+    - case-insensitive
+    - list-e joto name-i dei na keno, sob replace hobe
+    - lomba name age rakhle valo (e.g. "SM IPTV" age, "SM" pore)
+
+    Example manual_control.json:
+        "source_name": ["SM IPTV", "PlayZTV", "CriczTV", "SM"]
     """
-    source_name = str(manual.get("source_name", "")).strip()
-    if not source_name:
+
+    # ---- 1. source_name ke list-e normalize ----
+    raw = manual.get("source_name", "")
+
+    if isinstance(raw, str):
+        source_names = [raw.strip()] if raw.strip() else []
+    elif isinstance(raw, list):
+        source_names = [str(x).strip() for x in raw if str(x).strip()]
+    else:
+        source_names = []
+
+    if not source_names:
         print("[RENAME] source_name not set -> skipped")
         return 0
 
-    pattern = build_source_pattern(source_name)
-    if pattern is None:
-        return 0
+    # ---- 2. proti source_name er jonno regex pattern banao ----
+    #     (build_source_pattern er kaj ekhanei inline kora holo)
+    patterns = []
+    for name in source_names:
+        escaped = re.escape(name)
+        pattern = re.compile(rf"\b{escaped}\b", re.IGNORECASE)
+        patterns.append((name, pattern))
 
+    # ---- 3. protita stream er channel_name e apply koro ----
     changed = 0
     for m in matches:
-        for s in m.get("streams", []):
+        streams = m.get("streams", [])
+        if not isinstance(streams, list):
+            continue
+
+        for s in streams:
             if not isinstance(s, dict):
                 continue
+
             old = str(s.get("channel_name", "")).strip()
-            new = pattern.sub(TARGET_APP_NAME, old)
+            if not old:
+                continue
+
+            new = old
+            for _, pattern in patterns:
+                new = pattern.sub(TARGET_APP_NAME, new)
+
             if new != old:
                 s["channel_name"] = new
                 changed += 1
-    print(f"[RENAME] '{source_name}' -> '{TARGET_APP_NAME}': {changed} streams updated")
-    return changed
+
+    # ---- 4. summary print ----
+    print(
+        f"[RENAME] {source_names} -> '{TARGET_APP_NAME}': "
+        f"{changed} streams updated"
+    )
+    return changed 
+
 
 # ============================================================
 # API1  ->  MASTER FORMAT
