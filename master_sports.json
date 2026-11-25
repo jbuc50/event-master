@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:30:29 PM 25-11-2026",
-  "total_matches": 207,
-  "live_match": 17,
-  "upcoming_match": 143,
-  "ended_match": 47,
+  "last_update_time": "10:40:19 PM 25-11-2026",
+  "total_matches": 201,
+  "live_match": 14,
+  "upcoming_match": 144,
+  "ended_match": 43,
   "matches": [
     {
       "status": "LIVE",
@@ -33,103 +33,6 @@
       ],
       "isHot": false,
       "id": "evt_576d70f43ee2"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Haiti U17 Vs Saudi Arabia U17",
-      "eventInfo": {
-        "teamA": "Haiti U17",
-        "teamB": "Saudi Arabia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/190706/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/468403/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "25/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/WAWAWA.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_824322d010ca"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Uruguay U17 Vs France U17",
-      "eventInfo": {
-        "teamA": "Uruguay U17",
-        "teamB": "France U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37322/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22474/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "25/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/WAWAWAA.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "FOX - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "D SPORTS ES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ea94627df819"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Nasaf Qarshi Vs Al Khaldiya",
-      "eventInfo": {
-        "teamA": "Nasaf Qarshi",
-        "teamB": "Al Khaldiya",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "25/11/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/WAWAWAAA.m3u8"
-        },
-        {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        },
-        {
-          "channel_name": "FANCODE [IND]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249017_english_hls_842772da4880049_1ta-di_h264/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_963bf2fbc520"
     },
     {
       "status": "LIVE",
@@ -456,8 +359,8 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.55/hls/ZLLLAAAA.m3u8"
         }
       ],
       "isHot": false,
@@ -478,8 +381,8 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.55/hls/ZLLLA.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -763,11 +666,6 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
-        },
-        {
-          "channel_name": "SPORTV BR - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
-          "drm_key": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc"
         }
       ],
       "isHot": false,
@@ -965,8 +863,9 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         }
       ],
       "isHot": false,
@@ -1032,7 +931,7 @@
       },
       "streams": [
         {
-          "channel_name": "beIN ENGLISH FHD",
+          "channel_name": "beIN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
@@ -1666,6 +1565,37 @@
       ],
       "isHot": false,
       "id": "evt_36f1e7e23a18"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Italia T10 Vs Italia T10",
+      "eventInfo": {
+        "teamA": "Italia T10",
+        "teamB": "Italia T10",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "eventName": "Italia T10 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "startTime": "26/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "UNBEATEN FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+        },
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/JoLpoIfXtZdMMVVJ791008995728.m3u8"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_22ba2b225076"
     },
     {
       "status": "UPCOMING",
@@ -5051,32 +4981,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Orlando Magic Vs Detroit Pistons",
-      "eventInfo": {
-        "teamA": "Orlando Magic",
-        "teamB": "Detroit Pistons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/nba.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_6c3810ad79e8"
-    },
-    {
-      "status": "ENDED",
       "Category": "Cricket",
       "event_name": "South Australia Vs Victoria",
       "eventInfo": {
@@ -5099,47 +5003,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Washington Wizards Vs Boston Celtics",
-      "eventInfo": {
-        "teamA": "Washington Wizards",
-        "teamB": "Boston Celtics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV HD",
-          "stream_url": "https://tedesco.formaturamaxi.com.br/nba2.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "NBC SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_399054dd1174"
-    },
-    {
-      "status": "ENDED",
       "Category": "Cricket",
       "event_name": "Western Australia Vs Tasmania",
       "eventInfo": {
@@ -5159,42 +5022,6 @@
       ],
       "isHot": false,
       "id": "evt_1b848a5eddb2"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "25/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/nba3.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORTS MIX",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "channel_name": "SKY SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_25f56d6cddb8"
     },
     {
       "status": "ENDED",
@@ -5477,37 +5304,6 @@
       ],
       "isHot": false,
       "id": "evt_f8e7d867b2a4"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "Italia T10 Vs Italia T10",
-      "eventInfo": {
-        "teamA": "Italia T10",
-        "teamB": "Italia T10",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "eventName": "Italia T10 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "startTime": "25/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "UNBEATEN FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/JoLpoIfXtZdMMVVJ791008995728.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA PRO AQ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_22ba2b225076"
     }
   ]
 }
