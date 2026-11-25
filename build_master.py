@@ -37,6 +37,8 @@ API2_URL = (
 )
 
 MANUAL_CONTROL_FILE = "manual_control.json"
+# ✅ target name (fixed) — manual_control.json-er source_name eita hobe
+TARGET_APP_NAME = "LiveZoneTV"
 
 BD_TIMEZONE = ZoneInfo("Asia/Dhaka")
 
