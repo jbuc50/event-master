@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:00:25 AM 26-11-2026",
+  "last_update_time": "04:10:16 AM 26-11-2026",
   "total_matches": 245,
   "live_match": 19,
   "upcoming_match": 185,
@@ -710,6 +710,16 @@
         {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.55/hls/NTTT.m3u8"
+        },
+        {
+          "channel_name": "SKY SPORTS MIX",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        },
+        {
+          "channel_name": "SKY TOP EVENT",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -1948,6 +1958,28 @@
       ],
       "isHot": false,
       "id": "evt_22ba2b225076"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Uzbekistan U17 Vs Italy U17",
+      "eventInfo": {
+        "teamA": "Uzbekistan U17",
+        "teamB": "Italy U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22662/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22616/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "26/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3888682f7bfe"
     },
     {
       "status": "UPCOMING",
@@ -3743,23 +3775,6 @@
       },
       "streams": [],
       "id": "evt_edd05d2fe8ad",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Uzbekistan U17 Vs Italy U17",
-      "eventInfo": {
-        "teamA": "Uzbekistan U17",
-        "teamB": "Italy U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
-        "startTime": "26/11/2026 08:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_3888682f7bfe",
       "isHot": false
     },
     {
