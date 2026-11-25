@@ -1,47 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:27 PM 25-11-2026",
+  "last_update_time": "03:10:17 PM 25-11-2026",
   "total_matches": 212,
-  "live_match": 4,
-  "upcoming_match": 167,
+  "live_match": 3,
+  "upcoming_match": 168,
   "ended_match": 41,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Sri Lanka Women Vs Ireland Women",
-      "eventInfo": {
-        "teamA": "Sri Lanka Women",
-        "teamB": "Ireland Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-        "eventName": "Womens Emerging Nations Trophy",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "startTime": "25/11/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SM IPTV LIVE",
-          "stream_url": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76",
-          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "channel_name": "MYCO - AQ [PK]",
-          "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA - AQ [PK]",
-          "stream_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
-        },
-        {
-          "channel_name": "FANCODE AQ [ind]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a874b78aa86e"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -329,6 +294,23 @@
         {
           "channel_name": "SM IPTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-2.flv?auth_key=3000001795594928-0-0-01dc058a870ef92ad4d3e8a027e733fc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -351,6 +333,33 @@
         {
           "channel_name": "SM IPTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001795594864-0-0-5babd749ccddbb8982a281e8d6d08b4e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=be7c825a856de466239d7af12b895d73&txTime=6b06ecb9",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795594089-0-0-c54a52912931af33972fe5f8b32ac2ef",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -658,6 +667,34 @@
       ],
       "isHot": false,
       "id": "evt_ce2e400f6aea"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Tennis",
+      "event_name": "Italy Vs South Korea",
+      "eventInfo": {
+        "teamA": "Italy",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+        "eventName": "Davis Cup",
+        "event_logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+        "startTime": "25/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "TSN SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_89f8f9da8219"
     },
     {
       "status": "UPCOMING",
@@ -5144,34 +5181,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Tennis",
-      "event_name": "Czechia Vs Canada",
-      "eventInfo": {
-        "teamA": "Czechia",
-        "teamB": "Canada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-        "eventName": "Davis Cup",
-        "event_logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-        "startTime": "24/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "TSN SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e5dc68d75209"
-    },
-    {
-      "status": "ENDED",
       "Category": "Football",
       "event_name": "Golazo Show Vs Golazo Show",
       "eventInfo": {
@@ -5361,6 +5370,41 @@
       ],
       "isHot": false,
       "id": "evt_51453e300ba1"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Sri Lanka Women Vs Ireland Women",
+      "eventInfo": {
+        "teamA": "Sri Lanka Women",
+        "teamB": "Ireland Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
+        "eventName": "Womens Emerging Nations Trophy",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
+        "startTime": "25/11/2026 11:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SM IPTV LIVE",
+          "stream_url": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76",
+          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
+        },
+        {
+          "channel_name": "MYCO - AQ [PK]",
+          "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8"
+        },
+        {
+          "channel_name": "TAMASHA - AQ [PK]",
+          "stream_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
+        },
+        {
+          "channel_name": "FANCODE AQ [ind]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a874b78aa86e"
     }
   ]
 }
