@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:31:45 PM 25-11-2026",
+  "last_update_time": "04:40:16 PM 25-11-2026",
   "total_matches": 212,
-  "live_match": 5,
-  "upcoming_match": 166,
+  "live_match": 6,
+  "upcoming_match": 165,
   "ended_match": 41,
   "matches": [
     {
@@ -272,6 +272,12 @@
           "stream_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8"
         },
         {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         },
@@ -295,12 +301,6 @@
           "channel_name": "Server - 3",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - Aq",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -323,6 +323,12 @@
         {
           "channel_name": "SD STREAM",
           "stream_url": "http://193.47.62.50/hls/ZTTT.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -358,19 +364,13 @@
           "channel_name": "Server - 5",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - Aq",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
       "id": "evt_f8e7d867b2a4"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Italia T10 Vs Italia T10",
       "eventInfo": {
