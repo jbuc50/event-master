@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:40:19 AM 25-11-2026",
+  "last_update_time": "10:50:18 AM 25-11-2026",
   "total_matches": 185,
   "live_match": 5,
   "upcoming_match": 139,
@@ -346,6 +346,18 @@
         {
           "channel_name": "CRICKET AU AQ",
           "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2HZf1c4uBg6Tcge46xGoTKmLKvC7RQ5KC9L96kuLbF3cwhm5vYSp6TYtQ2LGJ13UsJm2jAV3qQks/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc2qBiLSsNzyssA23pyejpKFDTjB4g33F8Rqu9L5V2DaCZzchisiRB4daZXrKjudPUvyiupPRQX94daqqMJskJspCfMUg7BGCSdoxBnZdNDeBbh4cnWWeS1Y1vLbsHBCYQ1PzcdWhEFRmCtduUG8ZQYjSsg4Lrp3xtHKrGpR4e3WLaPRWVtW5a6XKSYofidm6sWaGt1aUggBbMEiUfuNzxUB3pgbZ5SN7Pmob4J3uhyR87HtHSJC9LwWAF3M29KgtVqoJhdHqL1qFuuMEhbHLrgxocXjREFt4NQ96hndJqoT5EZM8oeYsHBcgEc2ybZQq1qE7fthkKqNdPFss3cGbcN5pWXbghE7uQPJddUwwArxGTAa7dbqHMXuRZaAmqb7eGjwN7EYUAkUyxVC2xR551bkJNPc8YWkERsJLqC9mZRjTkKBDGBh8Ko63nv6ez5okKYZ9V21ez2vs6D3fkpj1gh6Jn95ZegMTbhGdmidFk7dWcDXWS9bCaimgUcTKJQnz7MVgMZmGLdqKSs419iGrp1zRaBXykqPue9quU28audCPfsF2FwWc96ih5r41WN8yXr256QKcLpsj4X3j75UFmdvo3imTJzAPdQswnANdYnX1UALd2S2"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ioxreblomi/out/v1/329ac4fd4e8a41b88926b48b4b887e36/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "26c4fabdcc5a260a6e451538cfb05b78:92f785e2cf78b827cc1505bce8326fac"
         }
       ],
       "isHot": false,
