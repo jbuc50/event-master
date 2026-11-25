@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:10:16 PM 25-11-2026",
+  "last_update_time": "04:17:42 PM 25-11-2026",
   "total_matches": 212,
   "live_match": 5,
   "upcoming_match": 166,
@@ -27,9 +27,7 @@
         },
         {
           "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
         },
         {
           "channel_name": "SM IPTV LIVE",
@@ -38,33 +36,6 @@
         {
           "channel_name": "FANCODE [IND]",
           "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249025_english_hls_1a5ecea1e44694_1ta-di_h264/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel5.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001795591379-0-0-36d4662b0ee56c22c4ba117d953a40e8",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1795588389-0-0-1f657717e8d1e6a7eb9e58d54629a961",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1795585449-0-0-aa6126cf79377297c33971e5d7d1c911",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live200.kravonstreamdelivery.com/live/channel5.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -324,6 +295,12 @@
           "channel_name": "Server - 3",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel2.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -380,6 +357,12 @@
         {
           "channel_name": "Server - 5",
           "stream_url": "https://live200.kravonstreamdelivery.com/live/channel15.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
