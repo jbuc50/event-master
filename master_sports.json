@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:34 AM 26-11-2026",
+  "last_update_time": "07:10:21 AM 26-11-2026",
   "total_matches": 261,
-  "live_match": 31,
-  "upcoming_match": 180,
+  "live_match": 32,
+  "upcoming_match": 179,
   "ended_match": 50,
   "matches": [
     {
@@ -714,6 +714,28 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Houston Rockets Vs Phoenix Suns",
+      "eventInfo": {
+        "teamA": "Houston Rockets",
+        "teamB": "Phoenix Suns",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/11/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_856b30c0f8bc"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sporting Vs Man Utd",
       "eventInfo": {
@@ -1342,28 +1364,6 @@
       ],
       "id": "evt_aa4b5d19844b",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Houston Rockets Vs Phoenix Suns",
-      "eventInfo": {
-        "teamA": "Houston Rockets",
-        "teamB": "Phoenix Suns",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/11/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_856b30c0f8bc"
     },
     {
       "status": "UPCOMING",
