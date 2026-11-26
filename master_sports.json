@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:30:21 AM 27-11-2026",
-  "total_matches": 209,
-  "live_match": 8,
-  "upcoming_match": 129,
-  "ended_match": 72,
+  "last_update_time": "01:40:18 AM 27-11-2026",
+  "total_matches": 259,
+  "live_match": 28,
+  "upcoming_match": 168,
+  "ended_match": 63,
   "matches": [
     {
       "status": "LIVE",
@@ -52,6 +52,625 @@
       ],
       "isHot": false,
       "id": "evt_0a989f05d36e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "OFI Crete Vs RSC Anderlecht",
+      "eventInfo": {
+        "teamA": "OFI Crete",
+        "teamB": "RSC Anderlecht",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3241/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=6118b2ac2406d6fb419410df06138a22&wsABSTime=1795757019",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795713825-0-0-cb1d97fe5c621e79cd618f7a9ba3992c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a423b7224899"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Juventus Vs Omonia Nicosia",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "Omonia Nicosia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795713717-0-0-43098e92e78b501c982e864d6e8032d6",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a94408d2755064188105886009baaa5f&txTime=6b089479",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795706469-0-0-2ceee4e840c6c4a0e97ed25151635e00",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_755132a10c76"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FK Borac Banja Luka Vs Atalanta",
+      "eventInfo": {
+        "teamA": "FK Borac Banja Luka",
+        "teamB": "Atalanta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5235/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795713593-0-0-25c47a1c176833863f76fad866c9c6a4",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d771ac6605369e0c8fab98afa799a28d&txTime=6b089479",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_84ce9239d762"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ferencváros TC Vs NK Celje",
+      "eventInfo": {
+        "teamA": "Ferencváros TC",
+        "teamB": "NK Celje",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2413/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=fe7dd2ba07a29a8a1c048e39c6c63500&wsABSTime=1795756854",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_422c24826625"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Torreense Vs Celtic",
+      "eventInfo": {
+        "teamA": "Torreense",
+        "teamB": "Celtic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25787/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795713882-0-0-32a5f4d6b99c9963ca0f6767eb8db329",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_84e5f55aa90c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "HNK Hajduk Split Vs Sint-Truidense VV",
+      "eventInfo": {
+        "teamA": "HNK Hajduk Split",
+        "teamB": "Sint-Truidense VV",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2036/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2895/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7d71d93d44ec"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Nordsjælland Vs Panathinaikos FC",
+      "eventInfo": {
+        "teamA": "FC Nordsjælland",
+        "teamB": "Panathinaikos FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1292/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d6bb2e174ba4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "KAA Gent Vs FK Crvena zvezda",
+      "eventInfo": {
+        "teamA": "KAA Gent",
+        "teamB": "FK Crvena zvezda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5149/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a9443dbeceb2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Crystal Palace Vs Real Sociedad",
+      "eventInfo": {
+        "teamA": "Crystal Palace",
+        "teamB": "Real Sociedad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795713631-0-0-7b3abee7abf52afe21d12778e1758d69",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1795706469-0-0-8a3f2c4d434399c0671388e436a260f8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ed408ee8876c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sporting Braga Vs Kuopion Palloseura",
+      "eventInfo": {
+        "teamA": "Sporting Braga",
+        "teamB": "Kuopion Palloseura",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_250ccaa796cf"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CSKA Sofia Vs Trabzonspor",
+      "eventInfo": {
+        "teamA": "CSKA Sofia",
+        "teamB": "Trabzonspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3275/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795713633-0-0-3465f951c4bc54bd518624e1c4ea67f7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0ee405d8e50c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Olympique Lyonnais Vs Lillestrøm SK",
+      "eventInfo": {
+        "teamA": "Olympique Lyonnais",
+        "teamB": "Lillestrøm SK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/664/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_38f8f34ae950"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "AC Sparta Praha Vs AZ Alkmaar",
+      "eventInfo": {
+        "teamA": "AC Sparta Praha",
+        "teamB": "AZ Alkmaar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2218/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795713557-0-0-ff83976b8dde10fb133a350198c6dcbc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_00270d93b2ef"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "SC Freiburg Vs FC Twente",
+      "eventInfo": {
+        "teamA": "SC Freiburg",
+        "teamB": "FC Twente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795713879-0-0-6e72425671fbb008908242ca66e21b5b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a1ee2d60e16a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Inter Club d'Escaldes Vs FC København",
+      "eventInfo": {
+        "teamA": "Inter Club d'Escaldes",
+        "teamB": "FC København",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37946/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1284/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_dce8dabecd03"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sunderland Vs Jagiellonia Białystok",
+      "eventInfo": {
+        "teamA": "Sunderland",
+        "teamB": "Jagiellonia Białystok",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795713899-0-0-95d5e9bdb610eedf3092d01dc2c975ad",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1795706354-0-0-1551bdca7a117c6e23a7d63c0b8a689e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5a6a18d2cbf7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Doncaster Rovers Vs Huddersfield Town",
+      "eventInfo": {
+        "teamA": "Doncaster Rovers",
+        "teamB": "Huddersfield Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/84/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/59/image",
+        "eventName": "League One",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_e40347171936"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "TSG Hoffenheim Vs SK Sturm Graz",
+      "eventInfo": {
+        "teamA": "TSG Hoffenheim",
+        "teamB": "SK Sturm Graz",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795713925-0-0-3326c5f75881b08112734a88c7cfae5c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795706469-0-0-ba82e03a3747b3e4fd4968776b3dd141",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_51472ce510dc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "NEC Nijmegen Vs Stade Rennais",
+      "eventInfo": {
+        "teamA": "NEC Nijmegen",
+        "teamB": "Stade Rennais",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_fd29aef98606"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Alabama State Hornets Vs Tuskegee Golden Tigers",
+      "eventInfo": {
+        "teamA": "Alabama State Hornets",
+        "teamB": "Tuskegee Golden Tigers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296545/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/454023/image",
+        "eventName": "NCAA, Regular Season",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/19510/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_30a061e8bd41"
     },
     {
       "status": "LIVE",
@@ -374,625 +993,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "OFI Crete Vs RSC Anderlecht",
-      "eventInfo": {
-        "teamA": "OFI Crete",
-        "teamB": "RSC Anderlecht",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=6118b2ac2406d6fb419410df06138a22&wsABSTime=1795757019",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795713825-0-0-cb1d97fe5c621e79cd618f7a9ba3992c",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a423b7224899"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Juventus Vs Omonia Nicosia",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "Omonia Nicosia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795713717-0-0-43098e92e78b501c982e864d6e8032d6",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=a94408d2755064188105886009baaa5f&txTime=6b089479",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795706469-0-0-2ceee4e840c6c4a0e97ed25151635e00",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_755132a10c76"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FK Borac Banja Luka Vs Atalanta",
-      "eventInfo": {
-        "teamA": "FK Borac Banja Luka",
-        "teamB": "Atalanta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5235/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795713593-0-0-25c47a1c176833863f76fad866c9c6a4",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=d771ac6605369e0c8fab98afa799a28d&txTime=6b089479",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_84ce9239d762"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ferencváros TC Vs NK Celje",
-      "eventInfo": {
-        "teamA": "Ferencváros TC",
-        "teamB": "NK Celje",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2413/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=fe7dd2ba07a29a8a1c048e39c6c63500&wsABSTime=1795756854",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_422c24826625"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Torreense Vs Celtic",
-      "eventInfo": {
-        "teamA": "Torreense",
-        "teamB": "Celtic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25787/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795713882-0-0-32a5f4d6b99c9963ca0f6767eb8db329",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_84e5f55aa90c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "HNK Hajduk Split Vs Sint-Truidense VV",
-      "eventInfo": {
-        "teamA": "HNK Hajduk Split",
-        "teamB": "Sint-Truidense VV",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2036/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2895/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7d71d93d44ec"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Nordsjælland Vs Panathinaikos FC",
-      "eventInfo": {
-        "teamA": "FC Nordsjælland",
-        "teamB": "Panathinaikos FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1292/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3248/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d6bb2e174ba4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "KAA Gent Vs FK Crvena zvezda",
-      "eventInfo": {
-        "teamA": "KAA Gent",
-        "teamB": "FK Crvena zvezda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2903/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5149/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a9443dbeceb2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Crystal Palace Vs Real Sociedad",
-      "eventInfo": {
-        "teamA": "Crystal Palace",
-        "teamB": "Real Sociedad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Sport CZ - AQ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795713631-0-0-7b3abee7abf52afe21d12778e1758d69",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912116_lhd.m3u8?auth_key=1795706469-0-0-8a3f2c4d434399c0671388e436a260f8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl004.com/live/6a9776215126529dede9bf51.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ed408ee8876c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sporting Braga Vs Kuopion Palloseura",
-      "eventInfo": {
-        "teamA": "Sporting Braga",
-        "teamB": "Kuopion Palloseura",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2244/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_250ccaa796cf"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "CSKA Sofia Vs Trabzonspor",
-      "eventInfo": {
-        "teamA": "CSKA Sofia",
-        "teamB": "Trabzonspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3275/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795713633-0-0-3465f951c4bc54bd518624e1c4ea67f7",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0ee405d8e50c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Olympique Lyonnais Vs Lillestrøm SK",
-      "eventInfo": {
-        "teamA": "Olympique Lyonnais",
-        "teamB": "Lillestrøm SK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/664/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_38f8f34ae950"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "AC Sparta Praha Vs AZ Alkmaar",
-      "eventInfo": {
-        "teamA": "AC Sparta Praha",
-        "teamB": "AZ Alkmaar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2218/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport CZ - AQ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795713557-0-0-ff83976b8dde10fb133a350198c6dcbc",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_00270d93b2ef"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "SC Freiburg Vs FC Twente",
-      "eventInfo": {
-        "teamA": "SC Freiburg",
-        "teamB": "FC Twente",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Top Event- AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795713879-0-0-6e72425671fbb008908242ca66e21b5b",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a1ee2d60e16a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Inter Club d'Escaldes Vs FC København",
-      "eventInfo": {
-        "teamA": "Inter Club d'Escaldes",
-        "teamB": "FC København",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37946/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1284/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_dce8dabecd03"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sunderland Vs Jagiellonia Białystok",
-      "eventInfo": {
-        "teamA": "Sunderland",
-        "teamB": "Jagiellonia Białystok",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795713899-0-0-95d5e9bdb610eedf3092d01dc2c975ad",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1795706354-0-0-1551bdca7a117c6e23a7d63c0b8a689e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5a6a18d2cbf7"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Doncaster Rovers Vs Huddersfield Town",
-      "eventInfo": {
-        "teamA": "Doncaster Rovers",
-        "teamB": "Huddersfield Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/84/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/59/image",
-        "eventName": "League One",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_e40347171936"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "TSG Hoffenheim Vs SK Sturm Graz",
-      "eventInfo": {
-        "teamA": "TSG Hoffenheim",
-        "teamB": "SK Sturm Graz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2051/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795713925-0-0-3326c5f75881b08112734a88c7cfae5c",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795706469-0-0-ba82e03a3747b3e4fd4968776b3dd141",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_51472ce510dc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "NEC Nijmegen Vs Stade Rennais",
-      "eventInfo": {
-        "teamA": "NEC Nijmegen",
-        "teamB": "Stade Rennais",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_fd29aef98606"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Alabama State Hornets Vs Tuskegee Golden Tigers",
-      "eventInfo": {
-        "teamA": "Alabama State Hornets",
-        "teamB": "Tuskegee Golden Tigers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296545/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/454023/image",
-        "eventName": "NCAA, Regular Season",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/19510/image/dark",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_30a061e8bd41"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Dallas Cowboys Vs Philadelphia Eagles",
       "eventInfo": {
@@ -1100,6 +1100,11 @@
         "startTime": "27/11/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
@@ -1412,6 +1417,61 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "ILT T20 Vs ILT T20",
+      "eventInfo": {
+        "teamA": "ILT T20",
+        "teamB": "ILT T20",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
+        "eventName": "International League T20",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
+        "startTime": "27/11/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "UNITE8 HIN HD",
+          "stream_url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8"
+        },
+        {
+          "channel_name": "WILLOW - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd",
+          "drm_key": "d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744"
+        },
+        {
+          "channel_name": "FANCODE - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8"
+        },
+        {
+          "channel_name": "ZEE ZEST IN",
+          "stream_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
+          "drm_key": "ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735"
+        },
+        {
+          "channel_name": "UNITE8 SPORTS IN",
+          "stream_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
+          "drm_key": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_60143c17cc46"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "Ozcan Vs Afakir",
       "eventInfo": {
@@ -1577,6 +1637,52 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "WWE",
+      "event_name": "DYNAMITE Vs DYNAMITE",
+      "eventInfo": {
+        "teamA": "DYNAMITE",
+        "teamB": "DYNAMITE",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "eventName": "AEW Dynamite",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "startTime": "03/12/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WWE LIVE FHD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "TSN SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "FOX SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+          "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+        },
+        {
+          "channel_name": "EUROSPORT - AQ",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "AEW TV AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd",
+          "drm_key": "90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d"
+        },
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8ad6a8072866"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "GROMDA Vs GROMDA",
       "eventInfo": {
@@ -1715,6 +1821,42 @@
     {
       "status": "UPCOMING",
       "Category": "Mixed Martial Arts",
+      "event_name": "BKFC Vs BKFC",
+      "eventInfo": {
+        "teamA": "BKFC",
+        "teamB": "BKFC",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
+        "eventName": "BKFC FIGHT NIGHT",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
+        "startTime": "05/12/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/loooo.m3u8"
+        },
+        {
+          "channel_name": "FUBO SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
+          "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
+        },
+        {
+          "channel_name": "LiveZoneTV - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+          "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59476/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_642bd8c629e5"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Mixed Martial Arts",
       "event_name": "Israel Adesanya Vs Shara Magomedov",
       "eventInfo": {
         "teamA": "Israel Adesanya",
@@ -1733,6 +1875,32 @@
       ],
       "isHot": false,
       "id": "evt_ef53857ff9f2"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Boxing",
+      "event_name": "Conah Walker Vs Alexis Rocha",
+      "eventInfo": {
+        "teamA": "Conah Walker",
+        "teamB": "Alexis Rocha",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
+        "eventName": "MatchRoom Boxing",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
+        "startTime": "05/12/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/NGGG.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60107\\/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_26ea753f3b44"
     },
     {
       "status": "UPCOMING",
@@ -1773,6 +1941,40 @@
       ],
       "isHot": false,
       "id": "evt_84c9232f2b18"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Mixed Martial Arts",
+      "event_name": "ARAS Vs FLORES",
+      "eventInfo": {
+        "teamA": "ARAS",
+        "teamB": "FLORES",
+        "teamAFlag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
+        "teamBFlag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
+        "eventName": "OKTAGON 99",
+        "event_logo": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
+        "startTime": "15/12/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_649aa3b25523"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Boxing",
+      "event_name": "MISFITS Vs MISFITS",
+      "eventInfo": {
+        "teamA": "MISFITS",
+        "teamB": "MISFITS",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1524910562164998162/aPSdO8zt_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1524910562164998162/aPSdO8zt_400x400.jpg",
+        "eventName": "MISFITS",
+        "event_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Misfits_Boxing_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "startTime": "19/12/2026 06:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_c3986d1838f4"
     },
     {
       "status": "UPCOMING",
@@ -3405,6 +3607,907 @@
       "isHot": false
     },
     {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Velez Sarsfield Vs Independiente",
+      "eventInfo": {
+        "teamA": "Velez Sarsfield",
+        "teamB": "Independiente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3209/image",
+        "eventName": "Liga Profesional (Argentina)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "29/11/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_08af63509080",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Instituto Cordoba Vs River Plate",
+      "eventInfo": {
+        "teamA": "Instituto Cordoba",
+        "teamB": "River Plate",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4937/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+        "eventName": "Liga Profesional (Argentina)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "29/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_094a53c6796f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Botafogo Vs Bahia",
+      "eventInfo": {
+        "teamA": "Botafogo",
+        "teamB": "Bahia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "29/11/2026 06:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ed7c854033ba",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Everton Vs Liverpool",
+      "eventInfo": {
+        "teamA": "Everton",
+        "teamB": "Liverpool",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "29/11/2026 06:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4d4d79594cf7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sunderland Vs Tottenham",
+      "eventInfo": {
+        "teamA": "Sunderland",
+        "teamB": "Tottenham",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "29/11/2026 08:05:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7f42b05bb48e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Fulham Vs Bournemouth",
+      "eventInfo": {
+        "teamA": "Fulham",
+        "teamB": "Bournemouth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "29/11/2026 08:05:00 PM"
+      },
+      "streams": [],
+      "id": "evt_31ba60b14525",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Palace Vs Hull City",
+      "eventInfo": {
+        "teamA": "Palace",
+        "teamB": "Hull City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "29/11/2026 08:05:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a2eddc4e534b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Brighton Vs Newcastle Utd",
+      "eventInfo": {
+        "teamA": "Brighton",
+        "teamB": "Newcastle Utd",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "29/11/2026 08:05:00 PM"
+      },
+      "streams": [],
+      "id": "evt_219467866942",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Arsenal Vs Man City",
+      "eventInfo": {
+        "teamA": "Arsenal",
+        "teamB": "Man City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "29/11/2026 10:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b0785dd3b173",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Swansea Vs Cardiff",
+      "eventInfo": {
+        "teamA": "Swansea",
+        "teamB": "Cardiff",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
+        "eventName": "Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "29/11/2026 06:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_06c3062f62a6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "PSG Vs Lorient",
+      "eventInfo": {
+        "teamA": "PSG",
+        "teamB": "Lorient",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "29/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c9ec81c58c39",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "OGC Nice Vs Troyes",
+      "eventInfo": {
+        "teamA": "OGC Nice",
+        "teamB": "Troyes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1652/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "29/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_793e12ebd2a2",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Le Mans Vs Lille",
+      "eventInfo": {
+        "teamA": "Le Mans",
+        "teamB": "Lille",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "29/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e215f8e33eb7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Le Havre Vs Strasbourg",
+      "eventInfo": {
+        "teamA": "Le Havre",
+        "teamB": "Strasbourg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "29/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d57cfbf96d96",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Auxerre Vs Marseille",
+      "eventInfo": {
+        "teamA": "Auxerre",
+        "teamB": "Marseille",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1646/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "29/11/2026 08:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_14a50b3bdf6b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Toulouse Vs Rennes",
+      "eventInfo": {
+        "teamA": "Toulouse",
+        "teamB": "Rennes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "29/11/2026 10:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6d81c841455e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Freiburg Vs RB Leipzig",
+      "eventInfo": {
+        "teamA": "Freiburg",
+        "teamB": "RB Leipzig",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "29/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a5bef395bf0e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Hoffenheim Vs Augsburg",
+      "eventInfo": {
+        "teamA": "Hoffenheim",
+        "teamB": "Augsburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "29/11/2026 10:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_965e650a22ee",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Osnabrück Vs Hannover Regents",
+      "eventInfo": {
+        "teamA": "Osnabrück",
+        "teamB": "Hannover Regents",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "29/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_396ae9ab648b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Furth Vs Arminia",
+      "eventInfo": {
+        "teamA": "Furth",
+        "teamB": "Arminia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2551/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "29/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4d2b00dc2325",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Braunschweig Vs Wolfsburg",
+      "eventInfo": {
+        "teamA": "Braunschweig",
+        "teamB": "Wolfsburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "29/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_424f08e926e8",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Magdeburg Vs Energie Cottbus",
+      "eventInfo": {
+        "teamA": "Magdeburg",
+        "teamB": "Energie Cottbus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "29/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_35ab52ab732e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Inter Vs Genoa",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "Genoa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "29/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_62fa0f4fb982",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Udinese Vs Fiorentina",
+      "eventInfo": {
+        "teamA": "Udinese",
+        "teamB": "Fiorentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "29/11/2026 05:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_c9c22395c43a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sassuolo Vs Napoli",
+      "eventInfo": {
+        "teamA": "Sassuolo",
+        "teamB": "Napoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "29/11/2026 08:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_cab5377a74b2",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "AS Roma Vs Monza",
+      "eventInfo": {
+        "teamA": "AS Roma",
+        "teamB": "Monza",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "29/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b36a70272a45",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cambuur Vs Sparta Rotterdam",
+      "eventInfo": {
+        "teamA": "Cambuur",
+        "teamB": "Sparta Rotterdam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "29/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ab30c04aed4b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "ADO Den Haag Vs Utrecht",
+      "eventInfo": {
+        "teamA": "ADO Den Haag",
+        "teamB": "Utrecht",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2966/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "29/11/2026 05:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a71150032163",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sittard Vs Heerenveen",
+      "eventInfo": {
+        "teamA": "Sittard",
+        "teamB": "Heerenveen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "29/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_061a89f336da",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Feyenoord Vs Ajax",
+      "eventInfo": {
+        "teamA": "Feyenoord",
+        "teamB": "Ajax",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "29/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f14bae2a08e0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "PEC Zwolle Vs AZ Alkmaar",
+      "eventInfo": {
+        "teamA": "PEC Zwolle",
+        "teamB": "AZ Alkmaar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "29/11/2026 09:45:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4dab2fba5d10",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Viseu Vs Alverca",
+      "eventInfo": {
+        "teamA": "Viseu",
+        "teamB": "Alverca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+        "eventName": "Liga Portugal",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+        "startTime": "29/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c40842530a08",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Guimarães Vs Amadora",
+      "eventInfo": {
+        "teamA": "Guimarães",
+        "teamB": "Amadora",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3009/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
+        "eventName": "Liga Portugal",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+        "startTime": "29/11/2026 02:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_7ac44e267f3a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Real Madrid Vs Alaves",
+      "eventInfo": {
+        "teamA": "Real Madrid",
+        "teamB": "Alaves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "29/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_88968af74488",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Valencia Vs Osasuna",
+      "eventInfo": {
+        "teamA": "Valencia",
+        "teamB": "Osasuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "29/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6127d3425bb0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Deportivo Vs Barcelona",
+      "eventInfo": {
+        "teamA": "Deportivo",
+        "teamB": "Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2832/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "29/11/2026 09:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1b9ac7c17309",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "RC Celta Vs Villarreal",
+      "eventInfo": {
+        "teamA": "RC Celta",
+        "teamB": "Villarreal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "29/11/2026 11:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ef990f472072",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Valladolid Vs Real Sociedad B",
+      "eventInfo": {
+        "teamA": "Valladolid",
+        "teamB": "Real Sociedad B",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+        "startTime": "29/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e7a3d9bf9cdd",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Granada Vs AD Ceuta",
+      "eventInfo": {
+        "teamA": "Granada",
+        "teamB": "AD Ceuta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+        "startTime": "29/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_749769709f9f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mallorca Vs Castellon",
+      "eventInfo": {
+        "teamA": "Mallorca",
+        "teamB": "Castellon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+        "startTime": "29/11/2026 09:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e05cd4f7348a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cadiz Vs Cordoba",
+      "eventInfo": {
+        "teamA": "Cadiz",
+        "teamB": "Cordoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
+        "startTime": "29/11/2026 11:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_cae4fce45122",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Corum FK Vs Kocaelispor",
+      "eventInfo": {
+        "teamA": "Corum FK",
+        "teamB": "Kocaelispor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "29/11/2026 04:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_dc7fc8224240",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Eyupspor Vs Başakşehir",
+      "eventInfo": {
+        "teamA": "Eyupspor",
+        "teamB": "Başakşehir",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "29/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_8f71d0406a09",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Fenerbahçe Vs Erzurumspor FK",
+      "eventInfo": {
+        "teamA": "Fenerbahçe",
+        "teamB": "Erzurumspor FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55603/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "29/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a73f70c6b2cf",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Houston Dynamo Vs San Jose",
+      "eventInfo": {
+        "teamA": "Houston Dynamo",
+        "teamB": "San Jose",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2508/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "29/11/2026 01:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_0cf3b06f0dd1",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Philadelphia Union Vs Revolution",
+      "eventInfo": {
+        "teamA": "Philadelphia Union",
+        "teamB": "Revolution",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/39833/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2511/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "29/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_52bf2312d476",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cincinnati Vs Nashville SC",
+      "eventInfo": {
+        "teamA": "Cincinnati",
+        "teamB": "Nashville SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "29/11/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_26a10ca0e34f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Los Angeles FC Vs St. Louis City",
+      "eventInfo": {
+        "teamA": "Los Angeles FC",
+        "teamB": "St. Louis City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "29/11/2026 07:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c6081e1419a1",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Portland Vs FC Dallas",
+      "eventInfo": {
+        "teamA": "Portland",
+        "teamB": "FC Dallas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+        "eventName": "MLS",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
+        "startTime": "29/11/2026 09:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_34393c83768c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Brisbane Heat Women Vs Perth Scorchers Women",
+      "eventInfo": {
+        "teamA": "Brisbane Heat Women",
+        "teamB": "Perth Scorchers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "29/11/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d5a4c896ae91",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Adelaide Strikers Women Vs Hobart Hurricanes Women",
+      "eventInfo": {
+        "teamA": "Adelaide Strikers Women",
+        "teamB": "Hobart Hurricanes Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "29/11/2026 10:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_5c41f458a64a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Abu Dhabi Knight Riders Vs Sharjah Warriorz",
+      "eventInfo": {
+        "teamA": "Abu Dhabi Knight Riders",
+        "teamB": "Sharjah Warriorz",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M3.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M7.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "29/11/2026 04:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4187fc45e51f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Desert Vipers Vs Gulf Giants",
+      "eventInfo": {
+        "teamA": "Desert Vipers",
+        "teamB": "Gulf Giants",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M5.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "29/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_6b2f0f93da23",
+      "isHot": false
+    },
+    {
       "status": "ENDED",
       "Category": "Mixed Martial Arts",
       "event_name": "ROAD TO UFC Vs ROAD TO UFC",
@@ -4157,23 +5260,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Boxing",
-      "event_name": "MISFITS Vs MISFITS",
-      "eventInfo": {
-        "teamA": "MISFITS",
-        "teamB": "MISFITS",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1524910562164998162/aPSdO8zt_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1524910562164998162/aPSdO8zt_400x400.jpg",
-        "eventName": "MISFITS",
-        "event_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Misfits_Boxing_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-        "startTime": "15/11/2026 01:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_c3986d1838f4"
-    },
-    {
-      "status": "ENDED",
       "Category": "Tennis",
       "event_name": "WTA Vs WTA",
       "eventInfo": {
@@ -4218,94 +5304,6 @@
       ],
       "isHot": false,
       "id": "evt_952a7b352c8e"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "Bangladesh Women Vs Thailand Women",
-      "eventInfo": {
-        "teamA": "Bangladesh Women",
-        "teamB": "Thailand Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
-        "eventName": "Womens Emerging Nations Trophy",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "startTime": "18/11/2026 03:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV FHD",
-          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1795021544~acl=*%2fchannel(vcg-01-ch-hd-07)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=5bb93f39e3f5d1d1097cc13df511c119ded4c5b1b5ea5ae79b17baf370c3894e/manifest.mpd?vcfilter=f0290586-3e56-4fd8-bc61-4a8278513418",
-          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "channel_name": "MYCO PK",
-          "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Feed2/hls/index.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA - AQ [PK]",
-          "stream_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-B-abr/playlist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_45b41ad9e097"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "Netherlands Women Vs Zimbabwe Women",
-      "eventInfo": {
-        "teamA": "Netherlands Women",
-        "teamB": "Zimbabwe Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/417753/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-        "eventName": "Womens Emerging Nations Trophy",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "startTime": "18/11/2026 03:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795021612~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=df636eee-0529-4299-91da-e8ce8c8790f0~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3d%3d~hmac=f35348c7fbb05d1aad3da10e0fd7a946e123b0a4ad8a992c4fdb2c38506d5d5d/manifest.mpd?vcfilter=6fcd44d2-69c5-43bd-880b-4e7bda3b8711",
-          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "channel_name": "MYCO - AQ [PK]",
-          "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA - AQ [PK]",
-          "stream_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_22daae340d11"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Boxing",
-      "event_name": "TEREMOANA Vs HEMI AHIO",
-      "eventInfo": {
-        "teamA": "TEREMOANA",
-        "teamB": "HEMI AHIO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
-        "eventName": "MatchRoom Boxing",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHmypeO5XWuJbdw7uCVQWyBncqGn5jiSO7opbwt6myqoBrO7FDPQe_Rw&s=10",
-        "startTime": "18/11/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/NGGG.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/60107\\/load-playlist"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8cfa70adc49f"
     },
     {
       "status": "ENDED",
@@ -4368,42 +5366,6 @@
       ],
       "isHot": false,
       "id": "evt_271dcf22f008"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Mixed Martial Arts",
-      "event_name": "BKFC Vs BKFC",
-      "eventInfo": {
-        "teamA": "BKFC",
-        "teamB": "BKFC",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
-        "eventName": "BKFC 97",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSrCV3GrmHUXSGDmU8Tr8RxNOSDnAYcHW6L7rHDYYNbScc9A7xDP-qEvG&s=10",
-        "startTime": "21/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/loooo.m3u8"
-        },
-        {
-          "channel_name": "FUBO SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd",
-          "drm_key": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681"
-        },
-        {
-          "channel_name": "LiveZoneTV - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
-          "drm_key": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59476/load-playlist"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0f67d91e4dd3"
     },
     {
       "status": "ENDED",
@@ -4516,23 +5478,6 @@
     },
     {
       "status": "ENDED",
-      "Category": "Mixed Martial Arts",
-      "event_name": "Mateusz Legierski Vs Ivan Buchinger",
-      "eventInfo": {
-        "teamA": "Mateusz Legierski",
-        "teamB": "Ivan Buchinger",
-        "teamAFlag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
-        "teamBFlag": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
-        "eventName": "OKTAGON 98",
-        "event_logo": "https://s3.eu-central-1.amazonaws.com/rausgegangen/StdikrrxRqCvjj0YFms5_oktoktagon-symbolfullcolorbila.png",
-        "startTime": "21/11/2026 10:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_b69723571563"
-    },
-    {
-      "status": "ENDED",
       "Category": "Tennis",
       "event_name": "ATP Vs ATP",
       "eventInfo": {
@@ -4638,41 +5583,6 @@
       ],
       "isHot": false,
       "id": "evt_f9e8aa041ac5"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "Sri Lanka Women Vs Ireland Women",
-      "eventInfo": {
-        "teamA": "Sri Lanka Women",
-        "teamB": "Ireland Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-        "eventName": "Womens Emerging Nations Trophy",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/30714/image/dark",
-        "startTime": "25/11/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://prb2.prbw.workers.dev/proxy/https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1795610969~acl=*%2fchannel(vcg-01-ch-hd-06)%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixHQixJRSxNTA%3d%3d~hmac=477a7a43f563dd728866718e7c98b423ad723952af71b2fb46b3ed2295dcb766/manifest.mpd?vcfilter=f4fc6796-0bc7-4b43-b9a6-db875faeaa76",
-          "drm_key": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c"
-        },
-        {
-          "channel_name": "MYCO - AQ [PK]",
-          "stream_url": "https://ml-pull-rtmp-pk1.myco.io/Feed1/hls/index.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA - AQ [PK]",
-          "stream_url": "https://cdn01lhr-n.tamashaweb.com:8087/appcast/ICC-women-NT2026-svod-abr/playlist.m3u8"
-        },
-        {
-          "channel_name": "FANCODE AQ [ind]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250688_english_hls_6c02a53fb925699_1ta-di_h264/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a874b78aa86e"
     },
     {
       "status": "ENDED",
@@ -4792,52 +5702,6 @@
       ],
       "isHot": false,
       "id": "evt_9e0430529e6c"
-    },
-    {
-      "status": "ENDED",
-      "Category": "WWE",
-      "event_name": "DYNAMITE Vs DYNAMITE",
-      "eventInfo": {
-        "teamA": "DYNAMITE",
-        "teamB": "DYNAMITE",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
-        "eventName": "AEW Dynamite",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WWE LIVE FHD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "FOX SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-          "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
-        },
-        {
-          "channel_name": "EUROSPORT - AQ",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "AEW TV AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd",
-          "drm_key": "90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8ad6a8072866"
     },
     {
       "status": "ENDED",
@@ -5264,61 +6128,6 @@
       ],
       "isHot": false,
       "id": "evt_2c5e97b74e7a"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "ILT T20 Vs ILT T20",
-      "eventInfo": {
-        "teamA": "ILT T20",
-        "teamB": "ILT T20",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
-        "eventName": "International League T20",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPb2DPj3zNmfruRqU6BXsmrMIYosxxZA0efvdkBZ_4Q&s=10",
-        "startTime": "26/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "UNITE8 HIN HD",
-          "stream_url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8"
-        },
-        {
-          "channel_name": "WILLOW - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkhxmu8uyd/out/v1/55d2a00aa7234f7aa9910b17ff528780/cenc.mpd",
-          "drm_key": "d36396587a3e395dd49822bfb8876a30:85bfdc16276e3c741b94203dc14cf744"
-        },
-        {
-          "channel_name": "FANCODE - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "TAMASHA PRO AQ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8"
-        },
-        {
-          "channel_name": "ZEE ZEST IN",
-          "stream_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
-          "drm_key": "ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735"
-        },
-        {
-          "channel_name": "UNITE8 SPORTS IN",
-          "stream_url": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
-          "drm_key": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f"
-        },
-        {
-          "channel_name": "FANCODE [IND]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4251055_english_hls_b4b255f9cb46377_1ta-di_h264/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_60143c17cc46"
     },
     {
       "status": "ENDED",
