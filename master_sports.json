@@ -1,50 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:21 AM 26-11-2026",
+  "last_update_time": "11:40:16 AM 26-11-2026",
   "total_matches": 252,
-  "live_match": 8,
+  "live_match": 7,
   "upcoming_match": 172,
-  "ended_match": 72,
+  "ended_match": 73,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Houston Rockets Vs Phoenix Suns",
-      "eventInfo": {
-        "teamA": "Houston Rockets",
-        "teamB": "Phoenix Suns",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/11/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://pl.playlist6.space/playlist/61055/simplefuturetower92/caxi"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.59/hls/ECCCAA.m3u8"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "https://www.rtmpcdn.com/live/7bf52dc3-99f9-4af4-b94b-273e9bfe87f6.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61055\\/load-playlist"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_856b30c0f8bc"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -6468,6 +6430,44 @@
       ],
       "isHot": false,
       "id": "evt_a0e53eb47608"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Houston Rockets Vs Phoenix Suns",
+      "eventInfo": {
+        "teamA": "Houston Rockets",
+        "teamB": "Phoenix Suns",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/11/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61055/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.59/hls/ECCCAA.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://www.rtmpcdn.com/live/7bf52dc3-99f9-4af4-b94b-273e9bfe87f6.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61055\\/load-playlist"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_856b30c0f8bc"
     }
   ]
 }
