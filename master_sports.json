@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:28 PM 26-11-2026",
+  "last_update_time": "10:10:24 PM 26-11-2026",
   "total_matches": 215,
   "live_match": 17,
   "upcoming_match": 153,
@@ -978,7 +978,13 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "startTime": "26/11/2026 11:45:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
       "isHot": false,
       "id": "evt_0d03cc583c7c"
     },
@@ -1264,6 +1270,11 @@
           "channel_name": "TNT SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         }
       ],
       "isHot": false,
@@ -1333,7 +1344,13 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "startTime": "27/11/2026 02:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
       "isHot": false,
       "id": "evt_00270d93b2ef"
     },
