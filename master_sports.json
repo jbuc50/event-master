@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:30:22 AM 26-11-2026",
+  "last_update_time": "06:40:17 AM 26-11-2026",
   "total_matches": 261,
-  "live_match": 26,
-  "upcoming_match": 185,
+  "live_match": 31,
+  "upcoming_match": 180,
   "ended_match": 50,
   "matches": [
     {
@@ -65,52 +65,6 @@
       ],
       "isHot": false,
       "id": "evt_187bc3304e4c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "WWE",
-      "event_name": "DYNAMITE Vs DYNAMITE",
-      "eventInfo": {
-        "teamA": "DYNAMITE",
-        "teamB": "DYNAMITE",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
-        "eventName": "AEW Dynamite",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
-        "startTime": "26/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WWE LIVE FHD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
-          "drm_key": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
-        },
-        {
-          "channel_name": "FOX SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-          "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
-        },
-        {
-          "channel_name": "EUROSPORT - AQ",
-          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-        },
-        {
-          "channel_name": "AEW TV AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd",
-          "drm_key": "90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8ad6a8072866"
     },
     {
       "status": "LIVE",
@@ -217,9 +171,21 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61040/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/15908099-1d03-4ac3-b689-f22a8a69c50a/master.m3u8"
+        },
+        {
           "channel_name": "TSN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
           "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61040\\/load-playlist"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -244,6 +210,18 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61044/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5ed5b456-7b72-4d99-b06f-ca27bf7fb164/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61044\\/load-playlist"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
@@ -266,6 +244,18 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61036/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7e14110f-1d42-40ae-b2cf-d87998c35edf/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61036\\/load-playlist"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
@@ -287,6 +277,18 @@
         "startTime": "26/11/2026 06:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61045/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5ed5b456-7b72-4d99-b06f-ca27bf7fb164/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61045\\/load-playlist"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
@@ -332,9 +334,21 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61031/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/02ed768b-a9ea-483f-a11a-919d0e43d2fe/master.m3u8"
+        },
+        {
           "channel_name": "TSN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61031\\/load-playlist"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -359,12 +373,77 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61042/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/fd35825b-3d0e-41fd-b49f-ad671f98774d/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61042\\/load-playlist"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
       ],
       "isHot": false,
       "id": "evt_6eb0cd157ade"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Boca Juniors Vs Independiente Rivadavia",
+      "eventInfo": {
+        "teamA": "Boca Juniors",
+        "teamB": "Independiente Rivadavia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "26/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/QAQAQAC.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://www.rtmpcdn.com/live/2653a6db-0dc0-4829-bd13-377e0dea9a8c.m3u8"
+        },
+        {
+          "channel_name": "PREMIER SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "FOX DEPORTES AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "SPORTDIGITAL FUSSBALL AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795638007-0-0-4d0d1540ba98248c7e7a6297aa2acd50",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_955db63dd6ee"
     },
     {
       "status": "LIVE",
@@ -380,6 +459,18 @@
         "startTime": "26/11/2026 06:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61048/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.59/hls/ECCC.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61048\\/load-playlist"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
@@ -403,6 +494,18 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61046/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.44/hls/HCCCA.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61046\\/load-playlist"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
@@ -425,12 +528,189 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61047/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3b1ebb0c-8027-409f-b1c6-6ada57556cf5/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61047\\/load-playlist"
+        },
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
       ],
       "isHot": false,
       "id": "evt_5610d4816201"
+    },
+    {
+      "status": "LIVE",
+      "Category": "WWE",
+      "event_name": "DYNAMITE Vs DYNAMITE",
+      "eventInfo": {
+        "teamA": "DYNAMITE",
+        "teamB": "DYNAMITE",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "eventName": "AEW Dynamite",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10",
+        "startTime": "26/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WWE LIVE FHD",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "TSN SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd",
+          "drm_key": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62"
+        },
+        {
+          "channel_name": "FOX SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+          "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+        },
+        {
+          "channel_name": "EUROSPORT - AQ",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "AEW TV AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/m8slb42wwl/out/v1/2670a89c18a64dba9a38e6985df2ce85/cenc.mpd",
+          "drm_key": "90ea3ce17c88e287c41edc55f5d08073:99542fa51629e7ece3f934388c0e954d"
+        },
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8ad6a8072866"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Milwaukee Bucks Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "Milwaukee Bucks",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5bba71652cce"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Memphis Grizzlies Vs Los Angeles Clippers",
+      "eventInfo": {
+        "teamA": "Memphis Grizzlies",
+        "teamB": "Los Angeles Clippers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b338a8243d42"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Dallas Stars Vs Nashville Predators",
+      "eventInfo": {
+        "teamA": "Dallas Stars",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "26/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_dae4e68d16ca"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Los Angeles Rams Vs Green Bay Packers",
+      "eventInfo": {
+        "teamA": "Los Angeles Rams",
+        "teamB": "Green Bay Packers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "26/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV HD",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61028\\/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2c7b16cde9c9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Minnesota Wild Vs Utah Mammoth",
+      "eventInfo": {
+        "teamA": "Minnesota Wild",
+        "teamB": "Utah Mammoth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "eventName": "NHL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "26/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a0e53eb47608"
     },
     {
       "status": "LIVE",
@@ -946,36 +1226,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Boca Juniors Vs Independiente Rivadavia",
-      "eventInfo": {
-        "teamA": "Boca Juniors",
-        "teamB": "Independiente Rivadavia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
-        "eventName": "Liga Profesional",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
-        "startTime": "26/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795638007-0-0-4d0d1540ba98248c7e7a6297aa2acd50",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_2d0746a6927d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Atlético-MG Vs Corinthians",
       "eventInfo": {
         "teamA": "Atlético-MG",
@@ -1092,125 +1342,6 @@
       ],
       "id": "evt_aa4b5d19844b",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Milwaukee Bucks Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "Milwaukee Bucks",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5bba71652cce"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Memphis Grizzlies Vs Los Angeles Clippers",
-      "eventInfo": {
-        "teamA": "Memphis Grizzlies",
-        "teamB": "Los Angeles Clippers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b338a8243d42"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Dallas Stars Vs Nashville Predators",
-      "eventInfo": {
-        "teamA": "Dallas Stars",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_dae4e68d16ca"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Green Bay Packers",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Green Bay Packers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-        "eventName": "NFL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV HD",
-          "stream_url": "Ok"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61028\\/load-playlist"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2c7b16cde9c9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Minnesota Wild Vs Utah Mammoth",
-      "eventInfo": {
-        "teamA": "Minnesota Wild",
-        "teamB": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a0e53eb47608"
     },
     {
       "status": "UPCOMING",
