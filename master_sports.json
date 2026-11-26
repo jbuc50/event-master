@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:25 PM 26-11-2026",
-  "total_matches": 252,
-  "live_match": 7,
+  "last_update_time": "12:10:16 PM 26-11-2026",
+  "total_matches": 248,
+  "live_match": 4,
   "upcoming_match": 172,
-  "ended_match": 73,
+  "ended_match": 72,
   "matches": [
     {
       "status": "LIVE",
@@ -32,84 +32,6 @@
       ],
       "isHot": false,
       "id": "evt_1b848a5eddb2"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Colorado Avalanche Vs Montréal Canadiens",
-      "eventInfo": {
-        "teamA": "Colorado Avalanche",
-        "teamB": "Montréal Canadiens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/11/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61058/load-playlist"
-        },
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://pl.playlist6.space/playlist/61058/simplefuturetower92/caxi"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82e41e41-d7fc-471b-80de-ed4ddf4ea9ba/master.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_658640f03f65"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Chicago Blackhawks",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Chicago Blackhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/11/2026 08:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://pl.playlist6.space/playlist/61059/simplefuturetower92/caxi"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7098182d-7c68-4332-b430-ab53c64a18d9/master.m3u8"
-        },
-        {
-          "channel_name": "PREMIER SPORTS - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61059\\/load-playlist"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0c3823abe369"
     },
     {
       "status": "LIVE",
@@ -147,32 +69,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Golden State Warriors Vs Sacramento Kings",
-      "eventInfo": {
-        "teamA": "Golden State Warriors",
-        "teamB": "Sacramento Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "eventName": "NBA",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.44/hls/HCCCAAA.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_df9da28b7b8a"
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Anaheim Ducks Vs San Jose Sharks",
       "eventInfo": {
@@ -186,20 +82,12 @@
       },
       "streams": [
         {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://pl.playlist6.space/playlist/61063/simplefuturetower92/caxi"
-        },
-        {
-          "channel_name": "SD STREAM",
+          "channel_name": "HD Stream",
           "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34222ca4-1163-4c17-bb64-05df52466631/master.m3u8"
         },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61063\\/load-playlist"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
         }
       ],
       "isHot": false,
@@ -6408,28 +6296,6 @@
       ],
       "isHot": false,
       "id": "evt_2c7b16cde9c9"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Hockey",
-      "event_name": "Minnesota Wild Vs Utah Mammoth",
-      "eventInfo": {
-        "teamA": "Minnesota Wild",
-        "teamB": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a0e53eb47608"
     },
     {
       "status": "ENDED",
