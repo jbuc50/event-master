@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:31 PM 26-11-2026",
+  "last_update_time": "06:10:17 PM 26-11-2026",
   "total_matches": 215,
-  "live_match": 7,
-  "upcoming_match": 170,
+  "live_match": 10,
+  "upcoming_match": 167,
   "ended_match": 38,
   "matches": [
     {
@@ -395,7 +395,7 @@
       "id": "evt_22ba2b225076"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "BG Pathum United Vs Lion City Sailors",
       "eventInfo": {
@@ -417,7 +417,7 @@
       "id": "evt_680048a49a07"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Tai Po Vs Adelaide United",
       "eventInfo": {
@@ -444,7 +444,7 @@
       "id": "evt_01db61d9408e"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Preah Khan Reach Svay Rieng FC Vs Machida Zelvia",
       "eventInfo": {
