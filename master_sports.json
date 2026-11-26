@@ -1,35 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:26 AM 26-11-2026",
+  "last_update_time": "09:10:17 AM 26-11-2026",
   "total_matches": 261,
-  "live_match": 37,
+  "live_match": 36,
   "upcoming_match": 173,
-  "ended_match": 51,
+  "ended_match": 52,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlético Mineiro Vs Corinthians",
-      "eventInfo": {
-        "teamA": "Atlético Mineiro",
-        "teamB": "Corinthians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "26/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_187bc3304e4c"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -7205,6 +7182,29 @@
       ],
       "isHot": false,
       "id": "evt_b1e53f3c6175"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlético Mineiro Vs Corinthians",
+      "eventInfo": {
+        "teamA": "Atlético Mineiro",
+        "teamB": "Corinthians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "26/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_187bc3304e4c"
     }
   ]
 }
