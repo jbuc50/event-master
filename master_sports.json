@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:10:18 PM 26-11-2026",
+  "last_update_time": "09:20:23 PM 26-11-2026",
   "total_matches": 215,
   "live_match": 15,
   "upcoming_match": 155,
@@ -516,7 +516,20 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
         "startTime": "26/11/2026 09:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795699282-0-0-3545e56957d58afaeddcbc72f596d684",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_02a8219628d4"
     },
