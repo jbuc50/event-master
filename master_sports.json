@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:22 AM 27-11-2026",
-  "total_matches": 211,
+  "last_update_time": "12:40:17 AM 27-11-2026",
+  "total_matches": 209,
   "live_match": 8,
   "upcoming_match": 129,
-  "ended_match": 74,
+  "ended_match": 72,
   "matches": [
     {
       "status": "LIVE",
@@ -31,10 +31,6 @@
           "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
         },
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist"
-        },
-        {
           "channel_name": "TSN SPORTS 3 - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
           "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
@@ -48,6 +44,10 @@
           "channel_name": "TSN SPORTS 5 - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist"
         }
       ],
       "isHot": false,
@@ -700,7 +700,35 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "startTime": "27/11/2026 02:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795713899-0-0-95d5e9bdb610eedf3092d01dc2c975ad",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1795706354-0-0-1551bdca7a117c6e23a7d63c0b8a689e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/69be75e0a0a45974afb67776.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_5a6a18d2cbf7"
     },
@@ -1593,6 +1621,51 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Lyon Vs Lillestrom",
+      "eventInfo": {
+        "teamA": "Lyon",
+        "teamB": "Lillestrom",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/664/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=e375b13b873a6ba4b4d0b68444ca339a&wsABSTime=1795756931",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795713737-0-0-6d03bb700a080a2950c45c1d873344d0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795706409-0-0-f07d2f985aa5fce64ecd38ae02df9d35",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=09aec7def72642f40f9ba0145fd74172&wsABSTime=1795711379",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_effe4524b61d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Perth Scorchers Women Vs Hobart Hurricanes Women",
       "eventInfo": {
@@ -1618,23 +1691,6 @@
         }
       ],
       "id": "evt_ef7176feebd9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Lyon Vs Lillestrom",
-      "eventInfo": {
-        "teamA": "Lyon",
-        "teamB": "Lillestrom",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/664/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-        "startTime": "27/11/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_effe4524b61d",
       "isHot": false
     },
     {
@@ -5032,58 +5088,6 @@
     {
       "status": "ENDED",
       "Category": "Football",
-      "event_name": "Tajikistan U17 Vs Senegal U17",
-      "eventInfo": {
-        "teamA": "Tajikistan U17",
-        "teamB": "Senegal U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/229664/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/323076/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "26/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.50/hls/GTGTGTAA.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2f083e61be0b"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Croatia U17 Vs Cuba U17",
-      "eventInfo": {
-        "teamA": "Croatia U17",
-        "teamB": "Cuba U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22594/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190704/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "26/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.50/hls/GTGTGTA.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_dd35d9980291"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
       "event_name": "Al Faisaly Vs Diriyah",
       "eventInfo": {
         "teamA": "Al Faisaly",
@@ -5715,6 +5719,22 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61077/load-playlist"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61077/simplefuturetower92/caxi"
+        },
+        {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://www.rtmpcdn.com/live/64b1c4b1-3b86-4584-9b22-e353322a186e.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.55/hls/KFFFAAA.m3u8"
+        },
+        {
           "channel_name": "DAZN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ey3gbdcbkm/out/v1/af69013f1318441ba995f620e39bfddb/cenc.mpd",
           "drm_key": "48eb36d8c4dcd2595c373c1898c7ec00:cf34598c5ff9fcf365100bdcad50dc75",
@@ -5735,6 +5755,16 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61077\\/load-playlist-multi"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61077\\/load-playlist-multi"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -5766,12 +5796,6 @@
         {
           "channel_name": "Server - 6",
           "stream_url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - Aq",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
-          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -5896,6 +5920,14 @@
       },
       "streams": [
         {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://www.rtmpcdn.com/live/b3fcac28-7f9f-4301-a07b-d414d1cfac0d.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.59/hls/AAAAQQ.m3u8"
+        },
+        {
           "channel_name": "PARAMOUNT+ - AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yiwzmgrzda/out/v1/d3d853014ac141c089619db5cf273760/cenc.mpd",
           "drm_key": "28520e80027415f8ecd362d277c610cc:7f1fd3cc8ea5e77b69fc1bc36bdfb862",
@@ -5911,6 +5943,12 @@
           "channel_name": "VIX SPANISH - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jknhbwks4q/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
           "drm_key": "8202c517fe7618979c1c85605cc50c0b:8aa9fd9c3fc239df4f89b8791b7471bf",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
@@ -5943,12 +5981,6 @@
         {
           "channel_name": "Server - 6",
           "stream_url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - Aq",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
