@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:20:18 AM 27-11-2026",
+  "last_update_time": "02:30:23 AM 27-11-2026",
   "total_matches": 234,
   "live_match": 28,
   "upcoming_match": 161,
@@ -722,6 +722,17 @@
           "channel_name": "Server - 5",
           "stream_url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795772630~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8841b586ede106b04e79ef10de301858cfcf230e5c7af05d8ad710dc87a43f83",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -794,6 +805,17 @@
           "channel_name": "Server - 5",
           "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795772629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b21715f37055b46fdce3799c05facffccd0c3fed6ab14419938e8b151e6e55eb",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_effe4524b61d",
@@ -843,6 +865,17 @@
         {
           "channel_name": "Server - 6",
           "stream_url": "https://playback.livetl004.com/live/6a7c0d8f65997681f18cacc4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795772629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b21715f37055b46fdce3799c05facffccd0c3fed6ab14419938e8b151e6e55eb",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8",
+          "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
