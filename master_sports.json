@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:26 PM 26-11-2026",
-  "total_matches": 247,
+  "last_update_time": "03:10:16 PM 26-11-2026",
+  "total_matches": 251,
   "live_match": 2,
-  "upcoming_match": 170,
-  "ended_match": 75,
+  "upcoming_match": 175,
+  "ended_match": 74,
   "matches": [
     {
       "status": "LIVE",
@@ -873,6 +873,28 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Detroit Lions Vs Chicago Bears",
+      "eventInfo": {
+        "teamA": "Detroit Lions",
+        "teamB": "Chicago Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0a989f05d36e"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "OFI Crete Vs RSC Anderlecht",
       "eventInfo": {
@@ -1241,6 +1263,50 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Alabama State Hornets Vs Tuskegee Golden Tigers",
+      "eventInfo": {
+        "teamA": "Alabama State Hornets",
+        "teamB": "Tuskegee Golden Tigers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296545/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/454023/image",
+        "eventName": "NCAA, Regular Season",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/19510/image/dark",
+        "startTime": "27/11/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_30a061e8bd41"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Dallas Cowboys Vs Philadelphia Eagles",
+      "eventInfo": {
+        "teamA": "Dallas Cowboys",
+        "teamB": "Philadelphia Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5ccfbbf7d59e"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "New Zealand Vs India",
       "eventInfo": {
@@ -1320,6 +1386,50 @@
       "streams": [],
       "isHot": false,
       "id": "evt_0d18edfd4d6f"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Texas Tech Red Raiders Vs TCU Horned Frogs",
+      "eventInfo": {
+        "teamA": "Texas Tech Red Raiders",
+        "teamB": "TCU Horned Frogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4357/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4303/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7935e1712096"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Buffalo Bills Vs Kansas City Chiefs",
+      "eventInfo": {
+        "teamA": "Buffalo Bills",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 07:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b1d557b099bc"
     },
     {
       "status": "UPCOMING",
@@ -6165,37 +6275,6 @@
       ],
       "isHot": false,
       "id": "evt_dae4e68d16ca"
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Green Bay Packers",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Green Bay Packers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-        "eventName": "NFL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "26/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV HD",
-          "stream_url": "Ok"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61028\\/load-playlist"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2c7b16cde9c9"
     },
     {
       "status": "ENDED",
