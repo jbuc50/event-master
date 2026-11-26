@@ -1,43 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:30 PM 26-11-2026",
+  "last_update_time": "09:10:18 PM 26-11-2026",
   "total_matches": 215,
   "live_match": 15,
-  "upcoming_match": 156,
-  "ended_match": 44,
+  "upcoming_match": 155,
+  "ended_match": 45,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Italia T10 Vs Italia T10",
-      "eventInfo": {
-        "teamA": "Italia T10",
-        "teamB": "Italia T10",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "eventName": "Italia T10 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "startTime": "26/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "UNBEATEN FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA PRO AQ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_22ba2b225076"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -442,6 +411,11 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
+          "channel_name": "FOX SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
@@ -532,6 +506,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "FC Kairat Almaty Vs Mjällby AIF",
+      "eventInfo": {
+        "teamA": "FC Kairat Almaty",
+        "teamB": "Mjällby AIF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1783/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_02a8219628d4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Abha Club Vs Al Shabab",
       "eventInfo": {
         "teamA": "Abha Club",
@@ -605,23 +596,6 @@
       ],
       "id": "evt_bea4014d760c",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Kairat Almaty Vs Mjällby AIF",
-      "eventInfo": {
-        "teamA": "FC Kairat Almaty",
-        "teamB": "Mjällby AIF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1783/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 09:30:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_02a8219628d4"
     },
     {
       "status": "UPCOMING",
@@ -5517,6 +5491,37 @@
       ],
       "isHot": false,
       "id": "evt_72227bde45b7"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Italia T10 Vs Italia T10",
+      "eventInfo": {
+        "teamA": "Italia T10",
+        "teamB": "Italia T10",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "eventName": "Italia T10 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "startTime": "26/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "UNBEATEN FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+        },
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_22ba2b225076"
     }
   ]
 }
