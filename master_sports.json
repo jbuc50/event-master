@@ -1,98 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:30:23 PM 26-11-2026",
+  "last_update_time": "10:40:18 PM 26-11-2026",
   "total_matches": 215,
-  "live_match": 17,
+  "live_match": 14,
   "upcoming_match": 153,
-  "ended_match": 45,
+  "ended_match": 48,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "BG Pathum United Vs Lion City Sailors",
-      "eventInfo": {
-        "teamA": "BG Pathum United",
-        "teamB": "Lion City Sailors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35607/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3041/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "26/11/2026 06:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/WAWAWAAAA.m3u8"
-        },
-        {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
-        },
-        {
-          "channel_name": "FANCODE [IND]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_680048a49a07"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Tai Po Vs Adelaide United",
-      "eventInfo": {
-        "teamA": "Tai Po",
-        "teamB": "Adelaide United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/40662/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "26/11/2026 06:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8"
-        },
-        {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
-        },
-        {
-          "channel_name": "FANCODE [IND]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_01db61d9408e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Preah Khan Reach Svay Rieng FC Vs Machida Zelvia",
-      "eventInfo": {
-        "teamA": "Preah Khan Reach Svay Rieng FC",
-        "teamB": "Machida Zelvia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/153474/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44409/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "26/11/2026 06:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE [IND]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8"
-        },
-        {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0786fc9534f9"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -518,8 +432,8 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.50/hls/GTGTGTAA.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -566,6 +480,10 @@
         "startTime": "26/11/2026 10:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.50/hls/GTGTGTA.m3u8"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel20.flv",
@@ -5612,6 +5530,92 @@
       ],
       "isHot": false,
       "id": "evt_22ba2b225076"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "BG Pathum United Vs Lion City Sailors",
+      "eventInfo": {
+        "teamA": "BG Pathum United",
+        "teamB": "Lion City Sailors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35607/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3041/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "26/11/2026 06:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/WAWAWAAAA.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249027_english_hls_18036fa1e376406_1ta-di_h264/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_680048a49a07"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Tai Po Vs Adelaide United",
+      "eventInfo": {
+        "teamA": "Tai Po",
+        "teamB": "Adelaide United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/40662/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "26/11/2026 06:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/WAWAWAAAAQQ.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249028_english_hls_0cb4703b5963817_1ta-di_h264/index.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_01db61d9408e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Preah Khan Reach Svay Rieng FC Vs Machida Zelvia",
+      "eventInfo": {
+        "teamA": "Preah Khan Reach Svay Rieng FC",
+        "teamB": "Machida Zelvia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/153474/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/44409/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "26/11/2026 06:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249030_english_hls_21a64821f080481_1ta-di_h264/index.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0786fc9534f9"
     }
   ]
 }
