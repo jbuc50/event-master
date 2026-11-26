@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:50:18 PM 26-11-2026",
+  "last_update_time": "09:00:30 PM 26-11-2026",
   "total_matches": 215,
-  "live_match": 13,
-  "upcoming_match": 158,
+  "live_match": 15,
+  "upcoming_match": 156,
   "ended_match": 44,
   "matches": [
     {
@@ -509,6 +509,58 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Abha Vs Al-Shabab",
+      "eventInfo": {
+        "teamA": "Abha",
+        "teamB": "Al-Shabab",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "26/11/2026 09:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_92a305f772fe"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Abha Club Vs Al Shabab",
+      "eventInfo": {
+        "teamA": "Abha Club",
+        "teamB": "Al Shabab",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+        "eventName": "Saudi League",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
+        "startTime": "26/11/2026 09:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel8.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795699158-0-0-6c67d79158b4fe4d80dfa8db0f3daacc",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_facbc235afc5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Abu Dhabi Knight Riders Vs MI Emirates",
       "eventInfo": {
@@ -553,28 +605,6 @@
       ],
       "id": "evt_bea4014d760c",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Abha Vs Al-Shabab",
-      "eventInfo": {
-        "teamA": "Abha",
-        "teamB": "Al-Shabab",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "26/11/2026 09:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_92a305f772fe"
     },
     {
       "status": "UPCOMING",
@@ -2172,36 +2202,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Abha Club Vs Al Shabab",
-      "eventInfo": {
-        "teamA": "Abha Club",
-        "teamB": "Al Shabab",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "eventName": "Saudi League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v9/Competitions/light/649",
-        "startTime": "26/11/2026 09:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel8.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel8/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-8.flv?auth_key=3000001795699158-0-0-6c67d79158b4fe4d80dfa8db0f3daacc",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-8/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_facbc235afc5",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
