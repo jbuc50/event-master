@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:20:22 AM 26-11-2026",
+  "last_update_time": "08:30:21 AM 26-11-2026",
   "total_matches": 261,
-  "live_match": 33,
-  "upcoming_match": 177,
+  "live_match": 34,
+  "upcoming_match": 176,
   "ended_match": 51,
   "matches": [
     {
@@ -749,6 +749,33 @@
     },
     {
       "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Seattle Kraken Vs Chicago Blackhawks",
+      "eventInfo": {
+        "teamA": "Seattle Kraken",
+        "teamB": "Chicago Blackhawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "eventName": "NHL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "26/11/2026 08:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER SPORTS - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0c3823abe369"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sporting Vs Man Utd",
       "eventInfo": {
@@ -1377,33 +1404,6 @@
       ],
       "id": "evt_aa4b5d19844b",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Chicago Blackhawks",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Chicago Blackhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/11/2026 08:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER SPORTS - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0c3823abe369"
     },
     {
       "status": "UPCOMING",
