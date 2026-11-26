@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:21 PM 26-11-2026",
-  "total_matches": 215,
-  "live_match": 14,
-  "upcoming_match": 151,
-  "ended_match": 50,
+  "last_update_time": "11:40:16 PM 26-11-2026",
+  "total_matches": 214,
+  "live_match": 35,
+  "upcoming_match": 130,
+  "ended_match": 49,
   "matches": [
     {
       "status": "LIVE",
@@ -136,137 +136,6 @@
       ],
       "isHot": false,
       "id": "evt_60143c17cc46"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Morocco U17 Vs Spain U17",
-      "eventInfo": {
-        "teamA": "Morocco U17",
-        "teamB": "Spain U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48862/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22479/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "26/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/QYYYQ.m3u8"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "D Sports ES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "FOX SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795699383-0-0-93cd4010ebefe5566f8fd47c3286536d",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795689789-0-0-513470fa8fd32c8d184ab222000637c3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795689729-0-0-0d7f571fc2bd75e9903691de56d42b99",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_24f88ca09e2d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "China U17 Vs Fiji U17",
-      "eventInfo": {
-        "teamA": "China U17",
-        "teamB": "Fiji U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/468402/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1096685/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "26/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/QYYY.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795699603-0-0-80225df27bcbea98c560c762bab68e05",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_154d2bc5a91b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Abha Vs Al-Shabab",
-      "eventInfo": {
-        "teamA": "Abha",
-        "teamB": "Al-Shabab",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "26/11/2026 09:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel8.m3u8"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/QYYYQQ.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_92a305f772fe"
     },
     {
       "status": "LIVE",
@@ -433,12 +302,784 @@
       },
       "streams": [
         {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel25.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.50/hls/HJJJAAAA.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f06b7b0a83a0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Beşiktaş JK Vs Hapoel Be'er Sheva",
+      "eventInfo": {
+        "teamA": "Beşiktaş JK",
+        "teamB": "Hapoel Be'er Sheva",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
       ],
       "isHot": false,
-      "id": "evt_f06b7b0a83a0"
+      "id": "evt_72a082a5bf19"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pafos FC Vs FC Midtjylland",
+      "eventInfo": {
+        "teamA": "Pafos FC",
+        "teamB": "FC Midtjylland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel9.flv?wsSecret=302aa4bfe4815c12fcf0d4a3bf6bb690&wsABSTime=1795753148",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795709954-0-0-bab5c3bcd71d4b5b5409108e6e52faa0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_1ad765e70aab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FK Kauno Žalgiris Vs Riga FC",
+      "eventInfo": {
+        "teamA": "FK Kauno Žalgiris",
+        "teamB": "Riga FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/80741/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ee89755b591b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "KF Egnatia Vs Lincoln Red Imps",
+      "eventInfo": {
+        "teamA": "KF Egnatia",
+        "teamB": "Lincoln Red Imps",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/264619/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/126304/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795710058-0-0-947dc2958fdd697bd2df6c33133cf9b2",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cc7de7b4e5f6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Olympiacos FC Vs AC Milan",
+      "eventInfo": {
+        "teamA": "Olympiacos FC",
+        "teamB": "AC Milan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3245/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "SONYLIV ENG - AQ",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795756470~acl=/*~id=50236481453523645919997976854260~hmac=ec26bf2778036912b1862271a24a730e1e62125e8c77d283be676b4030b59feb"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61080\\/load-playlist-multi"
+        },
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795710227-0-0-db66aa546a0c9c70ab264a3fad0d2ab1",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795706529-0-0-76074e0ae4ebbf94c97c90b5f11aa711",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a7f3b4ffd9c3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "GNK Dinamo Zagreb Vs Bayer 04 Leverkusen",
+      "eventInfo": {
+        "teamA": "GNK Dinamo Zagreb",
+        "teamB": "Bayer 04 Leverkusen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61079\\/load-playlist-multi"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2a2ba6cd2d58"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "SK Brann Vs AGF",
+      "eventInfo": {
+        "teamA": "SK Brann",
+        "teamB": "AGF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_824fa46cd0eb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "AFC Ajax Vs FC Thun",
+      "eventInfo": {
+        "teamA": "AFC Ajax",
+        "teamB": "FC Thun",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_b7a81b2ff96b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Red Bull Salzburg Vs FC Ararat-Armenia",
+      "eventInfo": {
+        "teamA": "Red Bull Salzburg",
+        "teamB": "FC Ararat-Armenia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262229/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795710256-0-0-b98d240c01519f0fa69362802ab98b0b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3d3d03918126"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brighton & Hove Albion Vs Universitatea Craiova",
+      "eventInfo": {
+        "teamA": "Brighton & Hove Albion",
+        "teamB": "Universitatea Craiova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61078\\/load-playlist-multi"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_57306997baa9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Royale Union Saint-Gilloise Vs Lech Poznań",
+      "eventInfo": {
+        "teamA": "Royale Union Saint-Gilloise",
+        "teamB": "Lech Poznań",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4860/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795710332-0-0-44dc9f4809aa226240049f577e5333d0",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_9f00dfffd96d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Viktoria Plzeň Vs Benfica",
+      "eventInfo": {
+        "teamA": "FC Viktoria Plzeň",
+        "teamB": "Benfica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61077\\/load-playlist-multi"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795710345-0-0-db08aba92777419c2d1cd2341a03ba90",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=fbda01028f0bba418580aa28c3944e57&txTime=6b0894f1",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795706529-0-0-c2ebe110d555d17d806b93fb54a54d80",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/6a5b13ceb36a14387baeddaa.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e917c3fd5911"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Iberia 1999 Vs Getafe",
+      "eventInfo": {
+        "teamA": "FC Iberia 1999",
+        "teamB": "Getafe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/116312/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61081\\/load-playlist-multi"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_062506ac252a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FK Jablonec Vs FC Lugano",
+      "eventInfo": {
+        "teamA": "FK Jablonec",
+        "teamB": "FC Lugano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2205/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2443/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0d03cc583c7c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Olympique de Marseille Vs Levski Sofia",
+      "eventInfo": {
+        "teamA": "Olympique de Marseille",
+        "teamB": "Levski Sofia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3273/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795710147-0-0-94a70c7aa3c43bb2ba36a55b9beafdd5",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795706529-0-0-f9cde86648a60b885d2f3c02da2b6d0c",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795706589-0-0-15b666b0f7b331d7fd5c78b32f74f7ea",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_162095940c3b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Heart of Midlothian Vs AS Monaco",
+      "eventInfo": {
+        "teamA": "Heart of Midlothian",
+        "teamB": "AS Monaco",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel12.flv?wsSecret=5600d07f70f45f3f9e50ac282bf54a18&wsABSTime=1795753283",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795710089-0-0-982e24d724aeeca10f3095aecba0349c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4bb84238a2fc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Celta Vigo Vs Bournemouth",
+      "eventInfo": {
+        "teamA": "Celta Vigo",
+        "teamB": "Bournemouth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.55/hls/KFFFA.m3u8"
+        },
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61071\\/load-playlist-multi"
+        },
+        {
+          "channel_name": "SONYLIV ENG - AQ",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795756470~acl=/*~id=50236481453523645919997976854260~hmac=ec26bf2778036912b1862271a24a730e1e62125e8c77d283be676b4030b59feb"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-1.flv?auth_key=3000001795710254-0-0-56f1758a3999a8b7500e7c819e84132c",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-1/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795706589-0-0-87292cc11729398e9edd8c93a4947851",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795706589-0-0-cec40455cb9fa81dba1f4fab820767d1",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/6a0c7c4b1ae4d6db02433c48.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e7b136df6d6e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Detroit Lions Vs Chicago Bears",
+      "eventInfo": {
+        "teamA": "Detroit Lions",
+        "teamB": "Chicago Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.50/hls/I555A.m3u8"
+        },
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61075\\/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0a989f05d36e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Besiktas Vs Hapoel Beer Sheva",
+      "eventInfo": {
+        "teamA": "Besiktas",
+        "teamB": "Hapoel Beer Sheva",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795709992-0-0-3b4b64066b33cda3a9f72a6185a6afd7",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=e5c18f17345bb244bd370ce2089961c2&txTime=6b089041",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_2c585483f221",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Dinamo Zagreb Vs Leverkusen",
+      "eventInfo": {
+        "teamA": "Dinamo Zagreb",
+        "teamB": "Leverkusen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+        "eventName": "UEFA Europa League",
+        "event_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795710046-0-0-37e1fe88a88c5f81d8a667955351de02",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=9bfc07fe5bec7a1751f8dc167de8d639&txTime=6b08952d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795706589-0-0-d198527f2c2c818c6c46b22a68671389",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_042000ffae2f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brann Vs AGF Aarhus",
+      "eventInfo": {
+        "teamA": "Brann",
+        "teamB": "AGF Aarhus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel21.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-21.flv?auth_key=3000001795710003-0-0-ccf11523cf5c2e52d7b9d84b39a85d5a",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-21/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6ab5f16f34ca",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kauno Zalgiris Vs Riga",
+      "eventInfo": {
+        "teamA": "Kauno Zalgiris",
+        "teamB": "Riga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/80741/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+        "eventName": "UEFA Conference League",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
+        "startTime": "26/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel8.flv?wsSecret=874561c2c7b19a9fece8cac454539775&wsABSTime=1795753319",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel8/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "http://193.47.62.41/hls/krrrAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_75d72ecbd205",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -502,6 +1143,98 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Morocco U17 Vs Spain U17",
+      "eventInfo": {
+        "teamA": "Morocco U17",
+        "teamB": "Spain U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "D Sports ES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795699383-0-0-93cd4010ebefe5566f8fd47c3286536d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1795689789-0-0-513470fa8fd32c8d184ab222000637c3",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795689729-0-0-0d7f571fc2bd75e9903691de56d42b99",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_24f88ca09e2d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "China U17 Vs Fiji U17",
+      "eventInfo": {
+        "teamA": "China U17",
+        "teamB": "Fiji U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8044/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "26/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795699603-0-0-80225df27bcbea98c560c762bab68e05",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_154d2bc5a91b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Abu Dhabi Knight Riders Vs MI Emirates",
       "eventInfo": {
@@ -550,430 +1283,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Beşiktaş JK Vs Hapoel Be'er Sheva",
-      "eventInfo": {
-        "teamA": "Beşiktaş JK",
-        "teamB": "Hapoel Be'er Sheva",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_72a082a5bf19"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Pafos FC Vs FC Midtjylland",
-      "eventInfo": {
-        "teamA": "Pafos FC",
-        "teamB": "FC Midtjylland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_1ad765e70aab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FK Kauno Žalgiris Vs Riga FC",
-      "eventInfo": {
-        "teamA": "FK Kauno Žalgiris",
-        "teamB": "Riga FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/80741/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ee89755b591b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "KF Egnatia Vs Lincoln Red Imps",
-      "eventInfo": {
-        "teamA": "KF Egnatia",
-        "teamB": "Lincoln Red Imps",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/264619/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/126304/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cc7de7b4e5f6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Olympiacos FC Vs AC Milan",
-      "eventInfo": {
-        "teamA": "Olympiacos FC",
-        "teamB": "AC Milan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3245/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a7f3b4ffd9c3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "GNK Dinamo Zagreb Vs Bayer 04 Leverkusen",
-      "eventInfo": {
-        "teamA": "GNK Dinamo Zagreb",
-        "teamB": "Bayer 04 Leverkusen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Top Event- AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2a2ba6cd2d58"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "SK Brann Vs AGF",
-      "eventInfo": {
-        "teamA": "SK Brann",
-        "teamB": "AGF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1159/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1291/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_824fa46cd0eb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "AFC Ajax Vs FC Thun",
-      "eventInfo": {
-        "teamA": "AFC Ajax",
-        "teamB": "FC Thun",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2454/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b7a81b2ff96b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Red Bull Salzburg Vs FC Ararat-Armenia",
-      "eventInfo": {
-        "teamA": "Red Bull Salzburg",
-        "teamB": "FC Ararat-Armenia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2046/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/262229/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_3d3d03918126"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brighton & Hove Albion Vs Universitatea Craiova",
-      "eventInfo": {
-        "teamA": "Brighton & Hove Albion",
-        "teamB": "Universitatea Craiova",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/116223/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_57306997baa9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Royale Union Saint-Gilloise Vs Lech Poznań",
-      "eventInfo": {
-        "teamA": "Royale Union Saint-Gilloise",
-        "teamB": "Lech Poznań",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4860/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795710332-0-0-44dc9f4809aa226240049f577e5333d0",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_9f00dfffd96d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Viktoria Plzeň Vs Benfica",
-      "eventInfo": {
-        "teamA": "FC Viktoria Plzeň",
-        "teamB": "Benfica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4502/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_e917c3fd5911"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Iberia 1999 Vs Getafe",
-      "eventInfo": {
-        "teamA": "FC Iberia 1999",
-        "teamB": "Getafe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/116312/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_062506ac252a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FK Jablonec Vs FC Lugano",
-      "eventInfo": {
-        "teamA": "FK Jablonec",
-        "teamB": "FC Lugano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2205/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2443/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sport CZ - AQ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0d03cc583c7c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Olympique de Marseille Vs Levski Sofia",
-      "eventInfo": {
-        "teamA": "Olympique de Marseille",
-        "teamB": "Levski Sofia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3273/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795710147-0-0-94a70c7aa3c43bb2ba36a55b9beafdd5",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795706529-0-0-f9cde86648a60b885d2f3c02da2b6d0c",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795706589-0-0-15b666b0f7b331d7fd5c78b32f74f7ea",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_162095940c3b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Heart of Midlothian Vs AS Monaco",
-      "eventInfo": {
-        "teamA": "Heart of Midlothian",
-        "teamB": "AS Monaco",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17015/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4bb84238a2fc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Celta Vigo Vs Bournemouth",
-      "eventInfo": {
-        "teamA": "Celta Vigo",
-        "teamB": "Bournemouth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e7b136df6d6e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Detroit Lions Vs Chicago Bears",
-      "eventInfo": {
-        "teamA": "Detroit Lions",
-        "teamB": "Chicago Bears",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-        "eventName": "NFL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "27/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0a989f05d36e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "OFI Crete Vs RSC Anderlecht",
       "eventInfo": {
         "teamA": "OFI Crete",
@@ -984,12 +1293,7 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/679/image/dark",
         "startTime": "27/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_a423b7224899"
     },
@@ -1679,6 +1983,37 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Italia T10 Vs Italia T10",
+      "eventInfo": {
+        "teamA": "Italia T10",
+        "teamB": "Italia T10",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "eventName": "Italia T10 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+        "startTime": "27/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "UNBEATEN FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
+        },
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
+        },
+        {
+          "channel_name": "TAMASHA PRO AQ",
+          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_22ba2b225076"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Motorsport",
       "event_name": "Formula 1 Vs Formula 1",
       "eventInfo": {
@@ -2166,101 +2501,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Besiktas Vs Hapoel Beer Sheva",
-      "eventInfo": {
-        "teamA": "Besiktas",
-        "teamB": "Hapoel Beer Sheva",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795709992-0-0-3b4b64066b33cda3a9f72a6185a6afd7",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=e5c18f17345bb244bd370ce2089961c2&txTime=6b089041",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_2c585483f221",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Dinamo Zagreb Vs Leverkusen",
-      "eventInfo": {
-        "teamA": "Dinamo Zagreb",
-        "teamB": "Leverkusen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-        "eventName": "UEFA Europa League",
-        "event_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/250px-UEFA_Champions_League.svg.png",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795710046-0-0-37e1fe88a88c5f81d8a667955351de02",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=9bfc07fe5bec7a1751f8dc167de8d639&txTime=6b08952d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1795706589-0-0-d198527f2c2c818c6c46b22a68671389",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://playback.livetl004.com/live/69f42e961f739deff81510c0.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_042000ffae2f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "Perth Scorchers Women Vs Hobart Hurricanes Women",
       "eventInfo": {
@@ -2286,40 +2526,6 @@
         }
       ],
       "id": "evt_ef7176feebd9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brann Vs AGF Aarhus",
-      "eventInfo": {
-        "teamA": "Brann",
-        "teamB": "AGF Aarhus",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1159/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1291/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6ab5f16f34ca",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Kauno Zalgiris Vs Riga",
-      "eventInfo": {
-        "teamA": "Kauno Zalgiris",
-        "teamB": "Riga",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/80741/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/162368/image",
-        "eventName": "UEFA Conference League",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:19.png/v6/Competitions/light/7685",
-        "startTime": "26/11/2026 11:45:00 PM"
-      },
-      "streams": [],
-      "id": "evt_75d72ecbd205",
       "isHot": false
     },
     {
@@ -5522,37 +5728,6 @@
       ],
       "isHot": false,
       "id": "evt_72227bde45b7"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Cricket",
-      "event_name": "Italia T10 Vs Italia T10",
-      "eventInfo": {
-        "teamA": "Italia T10",
-        "teamB": "Italia T10",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "eventName": "Italia T10 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-        "startTime": "26/11/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "UNBEATEN FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-          "drm_key": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b"
-        },
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8"
-        },
-        {
-          "channel_name": "TAMASHA PRO AQ",
-          "stream_url": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/t10-italia-SVOD-abr/playlist.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_22ba2b225076"
     },
     {
       "status": "ENDED",
