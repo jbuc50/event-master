@@ -1,40 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:20 AM 27-11-2026",
+  "last_update_time": "11:40:16 AM 27-11-2026",
   "total_matches": 211,
-  "live_match": 2,
+  "live_match": 1,
   "upcoming_match": 173,
-  "ended_match": 36,
+  "ended_match": 37,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Buffalo Bills Vs Kansas City Chiefs",
-      "eventInfo": {
-        "teamA": "Buffalo Bills",
-        "teamB": "Kansas City Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-        "eventName": "NFL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "27/11/2026 07:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Sky Top Event- AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b1d557b099bc"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -5173,6 +5145,34 @@
       ],
       "isHot": false,
       "id": "evt_ca419a62c3a2"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Buffalo Bills Vs Kansas City Chiefs",
+      "eventInfo": {
+        "teamA": "Buffalo Bills",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 07:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b1d557b099bc"
     }
   ]
 }
