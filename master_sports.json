@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:00:26 AM 27-11-2026",
+  "last_update_time": "07:10:16 AM 27-11-2026",
   "total_matches": 211,
-  "live_match": 4,
-  "upcoming_match": 174,
+  "live_match": 5,
+  "upcoming_match": 173,
   "ended_match": 33,
   "matches": [
     {
@@ -246,7 +246,7 @@
       "id": "evt_ca419a62c3a2"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "American football",
       "event_name": "Buffalo Bills Vs Kansas City Chiefs",
       "eventInfo": {
