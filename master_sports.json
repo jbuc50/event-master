@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:00:29 PM 27-11-2026",
+  "last_update_time": "11:10:19 PM 27-11-2026",
   "total_matches": 335,
   "live_match": 52,
-  "upcoming_match": 229,
-  "ended_match": 54,
+  "upcoming_match": 225,
+  "ended_match": 58,
   "matches": [
     {
       "status": "LIVE",
@@ -373,129 +373,6 @@
       ],
       "isHot": false,
       "id": "evt_38747064c422"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Azam FC Vs Al Ahli Tripoli",
-      "eventInfo": {
-        "teamA": "Azam FC",
-        "teamB": "Al Ahli Tripoli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/212411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/189124/image",
-        "eventName": "CAF Confederations Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1115/image/dark",
-        "startTime": "27/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN SPORTS3 -- FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/TFFFAAAQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "BEIN SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_66809909625d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Honduras U17 Vs Japan U17",
-      "eventInfo": {
-        "teamA": "Honduras U17",
-        "teamB": "Japan U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7764/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22618/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "27/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        },
-        {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/TFFFAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3ab6f17481da"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Colombia U17 Vs Serbia U17",
-      "eventInfo": {
-        "teamA": "Colombia U17",
-        "teamB": "Serbia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22592/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
-        "eventName": "U17 World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "startTime": "27/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "http://193.47.62.55/hls/TFFFA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "HD STREAM",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8"
-        },
-        {
-          "channel_name": "D Sports ES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d36baa7e8948"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Darts",
-      "event_name": "Darts Vs Darts",
-      "eventInfo": {
-        "teamA": "Darts",
-        "teamB": "Darts",
-        "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "eventName": "Player Championship FINAL",
-        "event_logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
-        "startTime": "27/11/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.55/hls/TFFF.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b46ddcc46ec5"
     },
     {
       "status": "LIVE",
@@ -1781,6 +1658,107 @@
     },
     {
       "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "New Jersey Devils Vs Calgary Flames",
+      "eventInfo": {
+        "teamA": "New Jersey Devils",
+        "teamB": "Calgary Flames",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_05097e60ec8e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Nashville Predators Vs Utah Mammoth",
+      "eventInfo": {
+        "teamA": "Nashville Predators",
+        "teamB": "Utah Mammoth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fecadd39d368"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Boston Bruins Vs Toronto Maple Leafs",
+      "eventInfo": {
+        "teamA": "Boston Bruins",
+        "teamB": "Toronto Maple Leafs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "Sky Sport Mix - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
+          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d4978889a304"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Sweden Vs Hungary",
+      "eventInfo": {
+        "teamA": "Sweden",
+        "teamB": "Hungary",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/54317/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25376/image",
+        "eventName": "FIBA World Cup Qualification, Europe",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10437/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d39cac41a633"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Rizespor Vs Kasimpasa",
       "eventInfo": {
@@ -1861,107 +1839,6 @@
       ],
       "id": "evt_6ebbe4457651",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "New Jersey Devils Vs Calgary Flames",
-      "eventInfo": {
-        "teamA": "New Jersey Devils",
-        "teamB": "Calgary Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_05097e60ec8e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Nashville Predators Vs Utah Mammoth",
-      "eventInfo": {
-        "teamA": "Nashville Predators",
-        "teamB": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fecadd39d368"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Boston Bruins Vs Toronto Maple Leafs",
-      "eventInfo": {
-        "teamA": "Boston Bruins",
-        "teamB": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "Sky Sport Mix - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd",
-          "drm_key": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d4978889a304"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Sweden Vs Hungary",
-      "eventInfo": {
-        "teamA": "Sweden",
-        "teamB": "Hungary",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/54317/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/25376/image",
-        "eventName": "FIBA World Cup Qualification, Europe",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d39cac41a633"
     },
     {
       "status": "UPCOMING",
@@ -9269,6 +9146,107 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Azam FC Vs Al Ahli Tripoli",
+      "eventInfo": {
+        "teamA": "Azam FC",
+        "teamB": "Al Ahli Tripoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/212411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/189124/image",
+        "eventName": "CAF Confederations Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1115/image/dark",
+        "startTime": "27/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN SPORTS3 -- FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TFFFAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "BEIN SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_66809909625d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Honduras U17 Vs Japan U17",
+      "eventInfo": {
+        "teamA": "Honduras U17",
+        "teamB": "Japan U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7764/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22618/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "27/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/TFFFAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3ab6f17481da"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Colombia U17 Vs Serbia U17",
+      "eventInfo": {
+        "teamA": "Colombia U17",
+        "teamB": "Serbia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22592/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
+        "startTime": "27/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "http://193.47.62.55/hls/TFFFA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "HD STREAM",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8"
+        },
+        {
+          "channel_name": "D Sports ES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d36baa7e8948"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Pamba SC Vs Namungo FC",
       "eventInfo": {
         "teamA": "Pamba SC",
@@ -9289,6 +9267,28 @@
       ],
       "isHot": false,
       "id": "evt_ecabbf7e545a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Darts",
+      "event_name": "Darts Vs Darts",
+      "eventInfo": {
+        "teamA": "Darts",
+        "teamB": "Darts",
+        "teamAFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "teamBFlag": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "eventName": "Player Championship FINAL",
+        "event_logo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
+        "startTime": "27/11/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.55/hls/TFFF.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b46ddcc46ec5"
     }
   ]
 }
