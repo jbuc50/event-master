@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:00:27 PM 27-11-2026",
+  "last_update_time": "12:10:16 PM 27-11-2026",
   "total_matches": 211,
   "live_match": 1,
   "upcoming_match": 173,
@@ -18,7 +18,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
         "eventName": "ICC World Test Championship",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-        "startTime": "27/11/2026 04:00:00 AM"
+        "startTime": "28/11/2026 04:00:00 AM"
       },
       "streams": [
         {
@@ -174,8 +174,41 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "TEN SPORTS HD",
+          "stream_url": "https://live.msnetworks.net/ten-sports/master.m3u8"
+        },
+        {
+          "channel_name": "TAPMAD HD",
+          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
+          "channel_name": "FANCODE SD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd",
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73"
+        },
+        {
+          "channel_name": "TNT SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FANCODE - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW S2 - AQ",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd",
+          "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73"
+        },
+        {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
         }
       ],
       "isHot": false,
