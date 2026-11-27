@@ -1,12 +1,39 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:22 PM 27-11-2026",
-  "total_matches": 217,
-  "live_match": 2,
-  "upcoming_match": 179,
+  "last_update_time": "03:40:18 PM 27-11-2026",
+  "total_matches": 219,
+  "live_match": 5,
+  "upcoming_match": 178,
   "ended_match": 36,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Italy Vs Chili",
+      "eventInfo": {
+        "teamA": "Italy",
+        "teamB": "Chili",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "eventName": "Dubai SVNS International Invitational",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
+        "startTime": "27/11/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RUGBYPASS TV AQ",
+          "stream_url": "https://dice-live-eu.akamaized.net/hdntl=exp=1795851329~acl=*dash%2flive%2f2001533%2f321898-340023%2f*!*dash%2flive%2f2001533-b%2f321898-340023-b%2f*~id=9b6d1c81-1430-4a46-8681-897e1e2e6484~data=hdntl,dWlkPUF4dWszZXw3ODZhMzg0ZS01YWQyLTQwMGItYTg3NS0wOWYxMzliMzM2OTEmc3JjPWRnZSZpcD0xMTkuNzMuNy4xOTImZXhwPTE3OTU4NTEzNTkmZWlkPTMyMTg5OCZjaWQ9ZGNlLndvcmxkcnVnYnkmb2lkPTM3OCZ0eXBlPUxJVkUmZGFwPTA~hmac=7e3925fb45c6313b427a46091ec73832c4e4bdbb9e8601153c0f3dcbfa774bd9/dash/live/2001533/321898-340023/manifest-d.mpd",
+          "drm_key": "f2cce52de61b45169ea9221315ff49a3:5c24503f0e2a4559bcd54b41be962071"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_609a992c412c"
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -35,7 +62,8 @@
         {
           "channel_name": "FANCODE SD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-          "drm_key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e"
+          "drm_key": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "FANCODE SD",
@@ -50,12 +78,14 @@
         },
         {
           "channel_name": "AUSTRALIA TV - AQ",
-          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484"
+          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2VWJmyhJkUhTKsnZxVfS461SzFk36ooDMQvb6WPDD3hAckbcAbQrCVKDf8fw6p9JRNSQ4AhMDk5q/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=333FC2FEA484",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "FANCODE - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "TNT SPORTS - AQ",
@@ -107,6 +137,14 @@
       },
       "streams": [
         {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/FRFRFR.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://www.rtmpcdn.com/live/b9149b1d-db70-42f9-a0b9-1581ad9ee25e.m3u8"
+        },
+        {
           "channel_name": "TNT SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd?",
           "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
@@ -120,13 +158,17 @@
           "channel_name": "SPOTV AQ",
           "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
           "drm_key": "ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4249863_english_hls_eb299d9e9a55254_1ta-di_h264/index.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_36f8fbe28c2a"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsport",
       "event_name": "MotoGP Vs MotoGP",
       "eventInfo": {
@@ -141,7 +183,7 @@
       "streams": [
         {
           "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.44/hls/ziii.m3u8"
+          "stream_url": "http://193.47.62.41/hls/FRFRFRV.m3u8"
         },
         {
           "channel_name": "FANCODE - AQ",
@@ -167,13 +209,17 @@
           "channel_name": "AUVIO SPORTS - AQ",
           "stream_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/8dc11abc.isml/.mpd?t=2026-11-27T07:52:00.000",
           "drm_key": "e5cd31b4fefc41339a0cc7ce38efe365:3fa354cde4b3a320250387caacebc13e"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_5a299ac3a06a"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Bangladesh A Vs Pakistan A",
       "eventInfo": {
@@ -256,6 +302,28 @@
       ],
       "isHot": false,
       "id": "evt_22ba2b225076"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Ireland 7s Vs Belgium 7's",
+      "eventInfo": {
+        "teamA": "Ireland 7s",
+        "teamB": "Belgium 7's",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/291711/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1316755/image",
+        "eventName": "Dubai SVNS Women's International Invitational",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/40419/image/dark",
+        "startTime": "27/11/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2ce01e71d736"
     },
     {
       "status": "UPCOMING",
