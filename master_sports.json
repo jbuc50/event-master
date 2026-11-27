@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "12:30:20 PM 27-11-2026",
-  "total_matches": 211,
+  "last_update_time": "12:40:17 PM 27-11-2026",
+  "total_matches": 216,
   "live_match": 1,
-  "upcoming_match": 173,
+  "upcoming_match": 178,
   "ended_match": 37,
   "matches": [
     {
@@ -179,7 +179,7 @@
         },
         {
           "channel_name": "TAPMAD HD",
-          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8"
         },
         {
           "channel_name": "FANCODE SD",
@@ -202,13 +202,13 @@
           "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
         },
         {
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8"
+        },
+        {
           "channel_name": "WILLOW S2 - AQ",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t6yncydpeh/out/v1/769e083013ea4147b7d5a0ca8e1669c1/cenc.mpd",
           "drm_key": "5884f024392a0ac512db400c4978db37:a99a15ba3e7e0494e8544b1cd08d9a73"
-        },
-        {
-          "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8"
         }
       ],
       "isHot": false,
@@ -911,6 +911,28 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Ireland Vs Australia",
+      "eventInfo": {
+        "teamA": "Ireland",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4228/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "28/11/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_105cde1e2564"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Columbus Crew Vs Inter Miami CF",
       "eventInfo": {
@@ -1065,6 +1087,50 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Wales Vs Japan",
+      "eventInfo": {
+        "teamA": "Wales",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "28/11/2026 07:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a46bc6245f3e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "England Vs New Zealand",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4226/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4227/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "28/11/2026 10:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c8f12caa2c6c"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "Ozcan Vs Afakir",
       "eventInfo": {
@@ -1151,6 +1217,50 @@
       ],
       "isHot": false,
       "id": "evt_58e36571529d"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Scotland Vs Argentina",
+      "eventInfo": {
+        "teamA": "Scotland",
+        "teamB": "Argentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4230/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4225/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "29/11/2026 07:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c862a2c0ce44"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "South Africa Vs France",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "France",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4231/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4224/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "29/11/2026 10:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_48d7076259fb"
     },
     {
       "status": "UPCOMING",
