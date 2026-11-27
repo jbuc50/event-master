@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:00:28 AM 28-11-2026",
-  "total_matches": 317,
-  "live_match": 58,
-  "upcoming_match": 181,
-  "ended_match": 78,
+  "last_update_time": "03:10:16 AM 28-11-2026",
+  "total_matches": 318,
+  "live_match": 55,
+  "upcoming_match": 180,
+  "ended_match": 83,
   "matches": [
     {
       "status": "LIVE",
@@ -132,34 +132,6 @@
       ],
       "isHot": false,
       "id": "evt_c4e10ab9664c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3c671d56b0ab"
     },
     {
       "status": "LIVE",
@@ -305,101 +277,6 @@
       ],
       "isHot": false,
       "id": "evt_d4978889a304"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Sweden Vs Hungary",
-      "eventInfo": {
-        "teamA": "Sweden",
-        "teamB": "Hungary",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/54317/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/25376/image",
-        "eventName": "FIBA World Cup Qualification, Europe",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/JMMMAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d39cac41a633"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Iowa State Cyclones Vs St. John's Red Storm",
-      "eventInfo": {
-        "teamA": "Iowa State Cyclones",
-        "teamB": "St. John's Red Storm",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66362/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/49865/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61140/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f8e4471ba84d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Palestine Vs United Arab Emirates",
-      "eventInfo": {
-        "teamA": "Palestine",
-        "teamB": "United Arab Emirates",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/206348/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/55353/image",
-        "eventName": "FIBA Asia Cup 2029 Pre-Qualifiers",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37114/image/dark",
-        "startTime": "28/11/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "http://193.47.62.59/hls/YYYY.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_f38d7ff7e516"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Petrolul Ploiești Vs FC Argeș Pitești",
-      "eventInfo": {
-        "teamA": "FC Petrolul Ploiești",
-        "teamB": "FC Argeș Pitești",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25856/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "28/11/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "http://193.47.62.41/hls/T8888AAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5d4a20f57ac4"
     },
     {
       "status": "LIVE",
@@ -1946,7 +1823,7 @@
       "streams": [
         {
           "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61177\\/load-playlist"
         }
       ],
       "isHot": false,
@@ -1985,6 +1862,10 @@
         },
         {
           "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61178\\/load-playlist"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
         }
       ],
@@ -2012,7 +1893,7 @@
         },
         {
           "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61180\\/load-playlist"
         }
       ],
       "isHot": false,
@@ -2041,6 +1922,40 @@
       ],
       "isHot": false,
       "id": "evt_1aaa84c1a5ff"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Kansas Jayhawks Vs Villanova Wildcats",
+      "eventInfo": {
+        "teamA": "Kansas Jayhawks",
+        "teamB": "Villanova Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34634/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34618/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "28/11/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_5ea3eed0c9ab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "St Mary's Gaels Vs Texas Longhorns",
+      "eventInfo": {
+        "teamA": "St Mary's Gaels",
+        "teamB": "Texas Longhorns",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41207/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34616/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "28/11/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_fb944d242cfc"
     },
     {
       "status": "LIVE",
@@ -2254,40 +2169,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Kansas Jayhawks Vs Villanova Wildcats",
-      "eventInfo": {
-        "teamA": "Kansas Jayhawks",
-        "teamB": "Villanova Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34618/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "28/11/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_5ea3eed0c9ab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "St Mary's Gaels Vs Texas Longhorns",
-      "eventInfo": {
-        "teamA": "St Mary's Gaels",
-        "teamB": "Texas Longhorns",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41207/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34616/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "28/11/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_fb944d242cfc"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs New York Rangers",
       "eventInfo": {
@@ -2300,6 +2181,11 @@
         "startTime": "28/11/2026 04:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
@@ -3995,6 +3881,29 @@
       ],
       "isHot": false,
       "id": "evt_02b05a637e1c"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Washington Wizards Vs Orlando Magic",
+      "eventInfo": {
+        "teamA": "Washington Wizards",
+        "teamB": "Orlando Magic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "eventName": "NBA",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "29/11/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ea549df17c74"
     },
     {
       "status": "UPCOMING",
@@ -8888,6 +8797,34 @@
     },
     {
       "status": "ENDED",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Raków Częstochowa Vs Piast Gliwice",
       "eventInfo": {
@@ -9338,6 +9275,101 @@
       ],
       "isHot": false,
       "id": "evt_8fa22a95bbdc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Sweden Vs Hungary",
+      "eventInfo": {
+        "teamA": "Sweden",
+        "teamB": "Hungary",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/54317/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25376/image",
+        "eventName": "FIBA World Cup Qualification, Europe",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10437/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/JMMMAAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d39cac41a633"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Iowa State Cyclones Vs St. John's Red Storm",
+      "eventInfo": {
+        "teamA": "Iowa State Cyclones",
+        "teamB": "St. John's Red Storm",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/49865/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61140/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f8e4471ba84d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Palestine Vs United Arab Emirates",
+      "eventInfo": {
+        "teamA": "Palestine",
+        "teamB": "United Arab Emirates",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/206348/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55353/image",
+        "eventName": "FIBA Asia Cup 2029 Pre-Qualifiers",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37114/image/dark",
+        "startTime": "28/11/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "http://193.47.62.59/hls/YYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_f38d7ff7e516"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Petrolul Ploiești Vs FC Argeș Pitești",
+      "eventInfo": {
+        "teamA": "FC Petrolul Ploiești",
+        "teamB": "FC Argeș Pitești",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25856/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "28/11/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "http://193.47.62.41/hls/T8888AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5d4a20f57ac4"
     }
   ]
 }
