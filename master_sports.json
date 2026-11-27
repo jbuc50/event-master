@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "04:30:21 PM 27-11-2026",
+  "last_update_time": "04:40:16 PM 27-11-2026",
   "total_matches": 219,
-  "live_match": 5,
-  "upcoming_match": 179,
+  "live_match": 7,
+  "upcoming_match": 177,
   "ended_match": 35,
   "matches": [
     {
@@ -331,7 +331,7 @@
       "id": "evt_c7fa86c01802"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Italia T10 Vs Italia T10",
       "eventInfo": {
@@ -362,7 +362,7 @@
       "id": "evt_22ba2b225076"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Ireland 7s Vs Belgium 7's",
       "eventInfo": {
