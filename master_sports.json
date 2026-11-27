@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:40:19 PM 27-11-2026",
+  "last_update_time": "08:50:17 PM 27-11-2026",
   "total_matches": 336,
   "live_match": 27,
   "upcoming_match": 256,
@@ -1169,6 +1169,18 @@
           "channel_name": "UNITE8 HIN HD",
           "stream_url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syx49vqdrr/out/v1/909eab72dfa945a08debe81846c5b78f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x0hng8nfkx/out/v1/de020c70a9fe4bf89b3151f962dd087e/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54"
         }
       ],
       "id": "evt_6ebbe4457651",
