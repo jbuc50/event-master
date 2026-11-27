@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:20:17 PM 27-11-2026",
+  "last_update_time": "02:30:23 PM 27-11-2026",
   "total_matches": 220,
-  "live_match": 1,
-  "upcoming_match": 182,
+  "live_match": 2,
+  "upcoming_match": 181,
   "ended_match": 37,
   "matches": [
     {
@@ -72,7 +72,7 @@
       "id": "evt_71cff774ddc9"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Macarthur FC Vs Melbourne City",
       "eventInfo": {
