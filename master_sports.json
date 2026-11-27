@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:40:18 PM 27-11-2026",
+  "last_update_time": "03:50:16 PM 27-11-2026",
   "total_matches": 219,
   "live_match": 5,
   "upcoming_match": 178,
@@ -267,6 +267,11 @@
         {
           "channel_name": "TAMASHA AQ",
           "stream_url": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-abr/playlist.m3u8"
+        },
+        {
+          "channel_name": "sonyliv - aq",
+          "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -1896,7 +1901,7 @@
         "teamB": "Hobart Hurricanes Women",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
-        "eventName": "WBBL 2026 - 36th Match",
+        "eventName": "WBBL 2026",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
         "startTime": "27/11/2026 04:10:00 PM"
       },
@@ -1913,7 +1918,7 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_ef7176feebd9",
+      "id": "evt_3878f9275a5e",
       "isHot": false
     },
     {
