@@ -1,54 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:30:23 AM 27-11-2026",
+  "last_update_time": "07:40:17 AM 27-11-2026",
   "total_matches": 211,
-  "live_match": 5,
+  "live_match": 4,
   "upcoming_match": 173,
-  "ended_match": 33,
+  "ended_match": 34,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Dallas Cowboys Vs Philadelphia Eagles",
-      "eventInfo": {
-        "teamA": "Dallas Cowboys",
-        "teamB": "Philadelphia Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-        "eventName": "NFL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "27/11/2026 03:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "LiveZoneTV Live - AQ",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61096\\/load-playlist"
-        },
-        {
-          "channel_name": "Sky Top Event - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "TSN SPORTS 3 - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "TSN SPORTS 4 - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5ccfbbf7d59e"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -5144,6 +5102,48 @@
       ],
       "isHot": false,
       "id": "evt_192e7710fc3d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Dallas Cowboys Vs Philadelphia Eagles",
+      "eventInfo": {
+        "teamA": "Dallas Cowboys",
+        "teamB": "Philadelphia Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+        "eventName": "NFL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "27/11/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "LiveZoneTV Live - AQ",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61096\\/load-playlist"
+        },
+        {
+          "channel_name": "Sky Top Event - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "TSN SPORTS 3 - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "TSN SPORTS 4 - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5ccfbbf7d59e"
     }
   ]
 }
