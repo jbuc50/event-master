@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:34 PM 27-11-2026",
+  "last_update_time": "10:10:16 PM 27-11-2026",
   "total_matches": 335,
-  "live_match": 31,
-  "upcoming_match": 249,
+  "live_match": 45,
+  "upcoming_match": 235,
   "ended_match": 55,
   "matches": [
     {
@@ -1092,7 +1092,9 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.41/hls/JRRR.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "HD stream",
@@ -1154,6 +1156,12 @@
           "channel_name": "HD STREAM",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/JRRRA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "D Sports ES - AQ",
@@ -1250,6 +1258,317 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Fiji Vs Italy",
+      "eventInfo": {
+        "teamA": "Fiji",
+        "teamB": "Italy",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7951/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7057/image",
+        "eventName": "Nations Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "27/11/2026 10:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "http://193.47.62.41/hls/JRRRAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7dee03b717c9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Raków Częstochowa Vs Piast Gliwice",
+      "eventInfo": {
+        "teamA": "Raków Częstochowa",
+        "teamB": "Piast Gliwice",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35268/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_33ff53695e93"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Alanyaspor Vs Konyaspor",
+      "eventInfo": {
+        "teamA": "Alanyaspor",
+        "teamB": "Konyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ef73f1fac68d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Çaykur Rizespor Vs Kasımpaşa",
+      "eventInfo": {
+        "teamA": "Çaykur Rizespor",
+        "teamB": "Kasımpaşa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_2cfcc4c0acb7"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sarıyer Vs İstanbulspor",
+      "eventInfo": {
+        "teamA": "Sarıyer",
+        "teamB": "İstanbulspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4952/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3066/image",
+        "eventName": "Trendyol 1.Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_4f03cb324644"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ümraniyespor Vs Manisa FK",
+      "eventInfo": {
+        "teamA": "Ümraniyespor",
+        "teamB": "Manisa FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55625/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/202391/image",
+        "eventName": "Trendyol 1.Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_b22b4915dbef"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Estonia Vs France",
+      "eventInfo": {
+        "teamA": "Estonia",
+        "teamB": "France",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25373/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6248/image",
+        "eventName": "FIBA World Cup Qualification, Europe",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10437/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_db14a46d55ca"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Ole Miss Rebels Vs Mississippi State Bulldogs",
+      "eventInfo": {
+        "teamA": "Ole Miss Rebels",
+        "teamB": "Mississippi State Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4385/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4318/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_db1b9ac48706"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "UTSA Roadrunners Vs Tulsa Golden Hurricane",
+      "eventInfo": {
+        "teamA": "UTSA Roadrunners",
+        "teamB": "Tulsa Golden Hurricane",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188116/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4373/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c3122f12f2d1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Akron Zips Vs Buffalo Bulls",
+      "eventInfo": {
+        "teamA": "Akron Zips",
+        "teamB": "Buffalo Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4353/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4376/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_cd86fb2007f5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Iowa Hawkeyes Vs Nebraska Cornhuskers",
+      "eventInfo": {
+        "teamA": "Iowa Hawkeyes",
+        "teamB": "Nebraska Cornhuskers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4322/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4282/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_ed88460d62f3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Ohio Bobcats Vs Toledo Rockets",
+      "eventInfo": {
+        "teamA": "Ohio Bobcats",
+        "teamB": "Toledo Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4350/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4362/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d3c502957016"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mauritania Vs Gambia U17",
+      "eventInfo": {
+        "teamA": "Mauritania",
+        "teamB": "Gambia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/74813/image",
+        "eventName": "International Friendly Games Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/852/image/dark",
+        "startTime": "27/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_350d2f6f82c2"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Qadisiya Vs Al-Fayha",
       "eventInfo": {
@@ -1341,311 +1660,6 @@
       ],
       "id": "evt_6ebbe4457651",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Fiji Vs Italy",
-      "eventInfo": {
-        "teamA": "Fiji",
-        "teamB": "Italy",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7951/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7057/image",
-        "eventName": "Nations Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "27/11/2026 10:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7dee03b717c9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3c671d56b0ab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Raków Częstochowa Vs Piast Gliwice",
-      "eventInfo": {
-        "teamA": "Raków Częstochowa",
-        "teamB": "Piast Gliwice",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35268/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7918/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=hwQ5xTdvvKa3RjqhBJbFQQ&e=2095137026&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_33ff53695e93"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Alanyaspor Vs Konyaspor",
-      "eventInfo": {
-        "teamA": "Alanyaspor",
-        "teamB": "Konyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ef73f1fac68d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Çaykur Rizespor Vs Kasımpaşa",
-      "eventInfo": {
-        "teamA": "Çaykur Rizespor",
-        "teamB": "Kasımpaşa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_2cfcc4c0acb7"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sarıyer Vs İstanbulspor",
-      "eventInfo": {
-        "teamA": "Sarıyer",
-        "teamB": "İstanbulspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4952/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3066/image",
-        "eventName": "Trendyol 1.Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_4f03cb324644"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Ümraniyespor Vs Manisa FK",
-      "eventInfo": {
-        "teamA": "Ümraniyespor",
-        "teamB": "Manisa FK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55625/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/202391/image",
-        "eventName": "Trendyol 1.Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_b22b4915dbef"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Estonia Vs France",
-      "eventInfo": {
-        "teamA": "Estonia",
-        "teamB": "France",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25373/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6248/image",
-        "eventName": "FIBA World Cup Qualification, Europe",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_db14a46d55ca"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Ole Miss Rebels Vs Mississippi State Bulldogs",
-      "eventInfo": {
-        "teamA": "Ole Miss Rebels",
-        "teamB": "Mississippi State Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4385/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4318/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_db1b9ac48706"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "UTSA Roadrunners Vs Tulsa Golden Hurricane",
-      "eventInfo": {
-        "teamA": "UTSA Roadrunners",
-        "teamB": "Tulsa Golden Hurricane",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/188116/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4373/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c3122f12f2d1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Akron Zips Vs Buffalo Bulls",
-      "eventInfo": {
-        "teamA": "Akron Zips",
-        "teamB": "Buffalo Bulls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4353/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4376/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_cd86fb2007f5"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Iowa Hawkeyes Vs Nebraska Cornhuskers",
-      "eventInfo": {
-        "teamA": "Iowa Hawkeyes",
-        "teamB": "Nebraska Cornhuskers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4322/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4282/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_ed88460d62f3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Ohio Bobcats Vs Toledo Rockets",
-      "eventInfo": {
-        "teamA": "Ohio Bobcats",
-        "teamB": "Toledo Rockets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4350/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4362/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d3c502957016"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mauritania Vs Gambia U17",
-      "eventInfo": {
-        "teamA": "Mauritania",
-        "teamB": "Gambia U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/74813/image",
-        "eventName": "International Friendly Games Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/852/image/dark",
-        "startTime": "27/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_350d2f6f82c2"
     },
     {
       "status": "UPCOMING",
@@ -2515,10 +2529,14 @@
         "teamAFlag": "https://img.sofascore.com/api/v1/team/4228/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/4223/image",
         "eventName": "Nations Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
         "startTime": "28/11/2026 02:10:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
@@ -3897,10 +3915,14 @@
         "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
         "eventName": "Nations Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
         "startTime": "28/11/2026 07:10:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        },
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
