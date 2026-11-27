@@ -1,35 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:26 AM 27-11-2026",
+  "last_update_time": "09:10:17 AM 27-11-2026",
   "total_matches": 211,
-  "live_match": 3,
+  "live_match": 2,
   "upcoming_match": 173,
-  "ended_match": 35,
+  "ended_match": 36,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "São Paulo Vs Remo",
-      "eventInfo": {
-        "teamA": "São Paulo",
-        "teamB": "Remo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "27/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV LIVE",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_0d18edfd4d6f"
-    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -5144,6 +5121,29 @@
       ],
       "isHot": false,
       "id": "evt_4ae959eba447"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "São Paulo Vs Remo",
+      "eventInfo": {
+        "teamA": "São Paulo",
+        "teamB": "Remo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "27/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV LIVE",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_0d18edfd4d6f"
     }
   ]
 }
