@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:00:33 PM 27-11-2026",
+  "last_update_time": "06:10:16 PM 27-11-2026",
   "total_matches": 219,
-  "live_match": 7,
-  "upcoming_match": 177,
+  "live_match": 8,
+  "upcoming_match": 176,
   "ended_match": 35,
   "matches": [
     {
@@ -384,7 +384,7 @@
       "id": "evt_2ce01e71d736"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Kholood Vs Al-Khaleej",
       "eventInfo": {
