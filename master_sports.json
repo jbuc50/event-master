@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:50:16 PM 27-11-2026",
+  "last_update_time": "04:00:27 PM 27-11-2026",
   "total_matches": 219,
-  "live_match": 5,
-  "upcoming_match": 178,
+  "live_match": 6,
+  "upcoming_match": 177,
   "ended_match": 36,
   "matches": [
     {
@@ -272,10 +272,51 @@
           "channel_name": "sonyliv - aq",
           "stream_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1/cc1b68d926844c0e9440675578e2a82b/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "24dea51a9817383c884a175a7bc74549:86e7bd926119ff53f5eda7457afd8ee3"
         }
       ],
       "isHot": false,
       "id": "evt_4134cd516863"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Perth Scorchers Women Vs Hobart Hurricanes Women",
+      "eventInfo": {
+        "teamA": "Perth Scorchers Women",
+        "teamB": "Hobart Hurricanes Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+        "eventName": "WBBL 2026",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
+        "startTime": "27/11/2026 04:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "willow sports - aq",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "CRICKET AU - AQ",
+          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_3878f9275a5e",
+      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -1891,35 +1932,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Perth Scorchers Women Vs Hobart Hurricanes Women",
-      "eventInfo": {
-        "teamA": "Perth Scorchers Women",
-        "teamB": "Hobart Hurricanes Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
-        "eventName": "WBBL 2026",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/11163/image",
-        "startTime": "27/11/2026 04:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "CRICKET AU - AQ",
-          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__2ZSbXCxaSwFFBUKQ6zJP1r1zTb6LraaFvz4JpdbGM499UGTZPdBUaC4QRMnbx4Qgff2KqxypDuiQ/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc6EVhp1qQPKscddSPaexvFJxAWLJVo5ag7d2YUvPsEZBffyWCAhWzaA4z5HiuqESb8bWwFvQy54ymw6HkywYyTp6s5uff5iK1y1RSvJaMh8bFcN3DYuB6J6kZ6oGTG5gTG1aENGxqN8eQL8qpPC9LS2k9i7F26VGQXz8VUtBaRSdJcr56NEzc7EWRyDrv8HhoPmmKTciJBitAoZVMsD2GbUJdJ2GMYqtE6ZoLKPzxVUasxZ5wxED4Bo2LV2XkPUosrY7AoJ5Soj4LbmAzGsi6rQrPki99Zq6UDhuNKSLfAjkH8Sb6fb4ESC1GyAjjvEhcrM2LWtKgYe7RPVSS7vz61SSucYduKsUpRM12LoJCqyk28Zxk9xiyVDr1xrfQs59cQuKVsCqRr1yLVAHn4KPf33n1mpEBCYYcy6SXX6nK1B9CdpxQ2WibrYkpgqAD8RuA6wExpExV8Rk5Cydd5TXcMGFiE1ggWzGxU21LVCdWthwTwSavSpNLgVWvFKvaShPWBAQZ9N5DCjZdz2PKnJqykV6naF5EtphgPNgKRHNsck8v2QM6Z6vQQnf1DiV67C8Y2o3LZpmicjawqqVdLRpsh9VcWGt58FemP19iXdx&sid=07B5BF5786DC",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_3878f9275a5e",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
