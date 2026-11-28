@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:50:17 PM 28-11-2026",
-  "total_matches": 244,
-  "live_match": 56,
+  "last_update_time": "11:00:27 PM 28-11-2026",
+  "total_matches": 241,
+  "live_match": 53,
   "upcoming_match": 146,
   "ended_match": 42,
   "matches": [
@@ -175,43 +175,21 @@
       "streams": [
         {
           "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/KFFF.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "http://193.47.62.41/hls/KFFF.m3u8"
         },
         {
           "channel_name": "FOX SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         },
         {
           "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         },
         {
           "channel_name": "FANCODE [IND]",
           "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250972_english_hls_c2c855bfe850786_1ta-di_h264/index.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel23.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel23/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-23.flv?auth_key=3000001795871962-0-0-a1bba08fda80a3186b2f73d62bf8a059",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-23/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - Aq",
-          "stream_url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -427,59 +405,26 @@
       "streams": [
         {
           "channel_name": "HD SERVER",
-          "stream_url": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8"
         },
         {
           "channel_name": "beIN ENGLISH - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         },
         {
           "channel_name": "PEACOCK ES - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uq231p5pdn/out/v1/33634b79a3de4f48b29b237b16398caa/cenc.mpd",
-          "drm_key": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2"
         },
         {
           "channel_name": "SKY TOP EVENT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
         },
         {
           "channel_name": "LOW SERVER",
-          "stream_url": "http://193.47.62.41/hls/KFFFQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795872133-0-0-f1437df6e4d0bc2a1b61d6b14e46abfc",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1795870449-0-0-05912ebe52e12c2e2f131a96719165c7",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1795870509-0-0-8ec0ef0258fb6c2d702eea89558acdce",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "http://193.47.62.41/hls/KFFFQQ.m3u8"
         }
       ],
       "isHot": false,
@@ -1739,211 +1684,6 @@
         }
       ],
       "id": "evt_047244770ca8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "SC Paderborn Vs Schalke 04",
-      "eventInfo": {
-        "teamA": "SC Paderborn",
-        "teamB": "Schalke 04",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "28/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://www.rtmpcdn.com/live/82bae1ed-3746-40a3-985d-33b75a41fccf.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795872290-0-0-99a55f2bb5e3587a25b06511a6cf0b69",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1795870389-0-0-9c73a6524a372cde9fced5f7655ec3f3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1795870389-0-0-f195626875e0ca46f1a731705080eef2",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "http://193.47.62.41/hls/KFFFQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "PEACOCK ES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtcrpj7yj1/out/v1/bb07c5a510f643239a0a73878377d9d6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "e888efc6b190f36237ea0cfb37b29d4f:a61e14099def87a5185b27235ae83800"
-        },
-        {
-          "channel_name": "SKY SPORT DE - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
-        },
-        {
-          "channel_name": "SHAHID EN/AR - AQ",
-          "stream_url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b"
-        }
-      ],
-      "id": "evt_b739c0a736ee",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Köln Vs Elversberg",
-      "eventInfo": {
-        "teamA": "Köln",
-        "teamB": "Elversberg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "28/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://www.rtmpcdn.com/live/ea8f0543-549b-4878-adb1-bac47d831a9b.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795872089-0-0-9f5d0962850ae852c34be16ca7c4a0ce",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912138_lhd.m3u8?auth_key=1795875249-0-0-800c2b6324a67f433371ee1a02310410",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "http://193.47.62.41/hls/KFFFQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "PEACOCK ES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rknfkonbnx/out/v1/366e578cf16f468397abd0c10be40d67/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "5fd082fda7d6a9f67e706d697ff8f217:2ac6e5ec76cc0213f1a5b560bb6384bf"
-        }
-      ],
-      "id": "evt_161e7d01624f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mainz Vs Union Berlin",
-      "eventInfo": {
-        "teamA": "Mainz",
-        "teamB": "Union Berlin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-        "eventName": "Bundesliga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
-        "startTime": "28/11/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://www.rtmpcdn.com/live/b5d03af5-de19-42e8-b50f-5d22cc8726e8.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-24.flv?auth_key=3000001795872209-0-0-ab9b0e1c4de246300e1e9a4c928922db",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-24/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1795870449-0-0-262acb00524280740e46d9d1cc09a3fd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795870449-0-0-74b5f2ed8b4f7795fe1201b848e382b3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "http://193.47.62.41/hls/KFFFQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SKY SPORT DE - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
-        },
-        {
-          "channel_name": "PEACOCK ES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8xmgbdd3a0/out/v1/ad13949204914ae084834ba24cf49f72/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "d5c8b8385c9ccede88f0a9bd519df0af:bf1aa762959b8882625ae06646c6514c"
-        },
-        {
-          "channel_name": "SHAHID EN/AR - AQ",
-          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714"
-        }
-      ],
-      "id": "evt_d6027dda3c5a",
       "isHot": false
     },
     {
