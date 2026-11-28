@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:30:21 PM 28-11-2026",
+  "last_update_time": "07:40:19 PM 28-11-2026",
   "total_matches": 247,
-  "live_match": 24,
-  "upcoming_match": 182,
+  "live_match": 26,
+  "upcoming_match": 180,
   "ended_match": 41,
   "matches": [
     {
@@ -453,6 +453,67 @@
       ],
       "isHot": false,
       "id": "evt_a46bc6245f3e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Frosinone Vs Parma",
+      "eventInfo": {
+        "teamA": "Frosinone",
+        "teamB": "Parma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "28/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795868499-0-0-55086b3d063f7f7bd6c28130bced1f57",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1795875249-0-0-04bf4538c01e1ef37f7b1360e5279035",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_25c76d7eddeb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chennaiyin FC Vs Mumbai City FC",
+      "eventInfo": {
+        "teamA": "Chennaiyin FC",
+        "teamB": "Mumbai City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
+        "eventName": "Indian Super League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "startTime": "28/11/2026 08:00:00 PM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_27d66639987e"
     },
     {
       "status": "LIVE",
@@ -961,45 +1022,6 @@
       ],
       "id": "evt_405d2c3aee69",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Frosinone Vs Parma",
-      "eventInfo": {
-        "teamA": "Frosinone",
-        "teamB": "Parma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-        "eventName": "Serie A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "28/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_25c76d7eddeb"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chennaiyin FC Vs Mumbai City FC",
-      "eventInfo": {
-        "teamA": "Chennaiyin FC",
-        "teamB": "Mumbai City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
-        "eventName": "Indian Super League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-        "startTime": "28/11/2026 08:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_27d66639987e"
     },
     {
       "status": "UPCOMING",
@@ -3199,6 +3221,45 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Chennaiyin Vs Mumbai City",
+      "eventInfo": {
+        "teamA": "Chennaiyin",
+        "teamB": "Mumbai City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
+        "eventName": "Indian Super League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+        "startTime": "28/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795868609-0-0-3c862fcc2c35ae7f0e051b5f052d5dfa",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONYLIV (ENG)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONYLIV (HIN)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONYLIV (TAM)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_40f7f2140f25",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Leeds Vs Coventry",
       "eventInfo": {
         "teamA": "Leeds",
@@ -4792,23 +4853,6 @@
       },
       "streams": [],
       "id": "evt_bea4014d760c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chennaiyin Vs Mumbai City",
-      "eventInfo": {
-        "teamA": "Chennaiyin",
-        "teamB": "Mumbai City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
-        "eventName": "Indian Super League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-        "startTime": "28/11/2026 08:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_40f7f2140f25",
       "isHot": false
     },
     {
