@@ -7,7 +7,9 @@
     ["evt_f9521ce2453e", "evt_e212e80eb1fc"]
   ],
   
-  "status_override": {
+  "status_override": {  "evt_cb92eaad2884": "ENDED",
+     "evt_dfa6ba76db50": "ENDED",
+     "evt_a21b10ab40cc": "ENDED"
   },
   
   "remove_streams": {},
