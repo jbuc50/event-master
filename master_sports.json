@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:40:15 PM 28-11-2026",
-  "total_matches": 257,
-  "live_match": 43,
-  "upcoming_match": 173,
+  "last_update_time": "08:50:15 PM 28-11-2026",
+  "total_matches": 252,
+  "live_match": 51,
+  "upcoming_match": 160,
   "ended_match": 41,
   "matches": [
     {
@@ -87,52 +87,13 @@
           "stream_url": "https://pl.playlist6.space/playlist/61240/simplefuturetower92/caxi"
         },
         {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://www.rtmpcdn.com/live/37f53d4e-780f-41d9-86e5-e4b72ebea97e.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
           "channel_name": "PARAMOUNT+ - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6ginyunf7/out/v1/ed32e46a405247b7a8f07c9f8d4391fb/cenc.mpd",
           "drm_key": "64fcc9ada4b24f5f671f04b0599ac141:2207c97243479b71f98ff8a2eb778de8"
         },
         {
           "channel_name": "LOW SERVER",
-          "stream_url": "http://193.47.62.44/hls/D777AAAAQQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel12.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795861344-0-0-80a0631501f677126b351b7e65ee182e",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1795862289-0-0-48a832545ff37390628c648c65c48a77",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795861869-0-0-38a4aa842910a4221c59fe22a5308193",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel12.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://live2.zktsva.app/live/301263.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "http://193.47.62.44/hls/D777AAAAQQQQ.m3u8"
         }
       ],
       "isHot": false,
@@ -289,27 +250,32 @@
       "streams": [
         {
           "channel_name": "HD SERVER",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61251/load-playlist"
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61251/load-playlist",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "PARAMOUNT+ - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deut0uoays/out/v1/dc0b396f73ed4c8db8bfc70c985798d5/cenc.mpd",
-          "drm_key": "c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d"
+          "drm_key": "c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "FUBO SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd",
-          "drm_key": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298"
+          "drm_key": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "DAZN ITALIA - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxdzg12g3i/out/v1/4165e1e7162c4c81b3a64b1f45094210/cenc.mpd",
-          "drm_key": "d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba"
+          "drm_key": "d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "SPORT 2 CZ - AQ",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -1085,132 +1051,375 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Preston Vs Norwich",
+      "event_name": "Leeds Vs Coventry",
       "eventInfo": {
-        "teamA": "Preston",
-        "teamB": "Norwich",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD quality",
-          "stream_url": "https://www.rtmpcdn.com/live/ec1c7f7d-19f7-40ae-9ad1-fa16be470780.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY",
-          "stream_url": "http://193.47.62.44/hls/AGGG.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795861446-0-0-ad5019bdb93dea20e5e8269c65d14b59",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "beIN ENGLISH - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        }
-      ],
-      "id": "evt_3e7468ede158",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Blackburn Vs Charlton",
-      "eventInfo": {
-        "teamA": "Blackburn",
-        "teamB": "Charlton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 06:30:00 PM"
+        "teamA": "Leeds",
+        "teamB": "Coventry",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
+        "startTime": "28/11/2026 09:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel13.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=a4d400838dc0e896b4da2467fd491139&wsABSTime=1795915385",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795861194-0-0-5a069d12fcdb5aa885e826915199be38",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795872191-0-0-c6bc3bb9089fa540c61af419505e4915",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.44/hls/D777AAAAQQQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795872193-0-0-033afa3f337c28e5a95f3acf91d417be",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1795870329-0-0-8be6ae647ea9d5442c900cbe9b165745",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795870389-0-0-632454c15adf30446b868e4871e87de9",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 7",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 8",
+          "stream_url": "https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_6c3b4f91da8a",
+      "id": "evt_19f79134a204",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Peterborough Vs Cambridge",
+      "event_name": "QPR Vs Sheff Utd",
       "eventInfo": {
-        "teamA": "Peterborough",
-        "teamB": "Cambridge",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 06:30:00 PM"
+        "teamA": "QPR",
+        "teamB": "Sheff Utd",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
+        "eventName": "Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "28/11/2026 09:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "Server - 1",
-          "stream_url": "http://193.47.62.44/hls/D777AAAAQQ.m3u8",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795872317-0-0-2f14b6112247096f987ffee98ad42aeb",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.55/hls/IGGGAAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_f3dd28f8da8a",
+      "id": "evt_5b5b17566be9",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "MK Dons Vs Notts County",
+      "event_name": "Birmingham Vs Bolton",
       "eventInfo": {
-        "teamA": "MK Dons",
-        "teamB": "Notts County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 06:30:00 PM"
+        "teamA": "Birmingham",
+        "teamB": "Bolton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
+        "eventName": "Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "28/11/2026 09:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "Server - 1",
-          "stream_url": "http://193.47.62.44/hls/D777AAAAQ.m3u8",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel65.flv?wsSecret=95f1c580e9b0689213cb5a5552a41c64&wsABSTime=1795915195",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "http://193.47.62.44/hls/XQXQXQAAAAA.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_ff0d8f540f5c",
+      "id": "evt_e54494bedda9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Derby Vs Watford FC",
+      "eventInfo": {
+        "teamA": "Derby",
+        "teamB": "Watford FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
+        "eventName": "Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel64.flv?wsSecret=2b873b15fb639fb1df92c8aa74bbba0f&wsABSTime=1795915252",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel64/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "http://193.47.62.59/hls/DOOOAAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_cf73e78091af",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wycombe Vs Bradford",
+      "eventInfo": {
+        "teamA": "Wycombe",
+        "teamB": "Bradford",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Myco - (bd)1",
+          "stream_url": "http://193.47.62.50/hls/KCCCQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6f5971bbc01e",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wigan Vs Plymouth",
+      "eventInfo": {
+        "teamA": "Wigan",
+        "teamB": "Plymouth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Myco - (bd)1",
+          "stream_url": "http://193.47.62.59/hls/DOOOAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_4bcf221a6deb",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Stockport Vs Leyton Orient",
+      "eventInfo": {
+        "teamA": "Stockport",
+        "teamB": "Leyton Orient",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/83/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Myco - (bd)1",
+          "stream_url": "http://193.47.62.44/hls/XQXQXQAAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7f1baf32e06b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Stevenage Vs Blackpool",
+      "eventInfo": {
+        "teamA": "Stevenage",
+        "teamB": "Blackpool",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/67/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.55/hls/IGGGAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_610816a88ff0",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sheffield Wed Vs Reading",
+      "eventInfo": {
+        "teamA": "Sheffield Wed",
+        "teamB": "Reading",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.50/hls/KCCCQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8cb4c8724755",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Luton Vs Oxford United",
+      "eventInfo": {
+        "teamA": "Luton",
+        "teamB": "Oxford United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.59/hls/DOOOAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0d613b90dd26",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leicester City Vs Mansfield",
+      "eventInfo": {
+        "teamA": "Leicester City",
+        "teamB": "Mansfield",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/70/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Myco - (bd)1",
+          "stream_url": "http://193.47.62.44/hls/XQXQXQAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6f529d323480",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bromley Vs Burton",
+      "eventInfo": {
+        "teamA": "Bromley",
+        "teamB": "Burton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.55/hls/IGGGAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_f0b2504b82a9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "AFC Wimbledon Vs Barnsley",
+      "eventInfo": {
+        "teamA": "AFC Wimbledon",
+        "teamB": "Barnsley",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/71/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.50/hls/KCCCQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_047244770ca8",
       "isHot": false
     },
     {
@@ -1493,47 +1702,6 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "Desert Vipers Vs MI Emirates",
-      "eventInfo": {
-        "teamA": "Desert Vipers",
-        "teamB": "MI Emirates",
-        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M2.png",
-        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
-        "eventName": "ILT20 2026",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
-        "startTime": "28/11/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "UNITE8 HIN HD",
-          "stream_url": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "willow - aq",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f"
-        },
-        {
-          "channel_name": "TNT SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "id": "evt_405d2c3aee69",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
       "event_name": "Dubai Capitals Vs Gulf Giants",
       "eventInfo": {
         "teamA": "Dubai Capitals",
@@ -1555,6 +1723,18 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f"
+        },
+        {
+          "channel_name": "willow - aq",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hew9euaay4/out/v1/fab4c018765d4574982ac6d67a51923a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6"
+        },
+        {
+          "channel_name": "willow - alt",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hew9euaay4/out/v1/fab4c018765d4574982ac6d67a51923a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6"
         }
       ],
       "id": "evt_040acba132a4",
@@ -3720,304 +3900,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Leeds Vs Coventry",
-      "eventInfo": {
-        "teamA": "Leeds",
-        "teamB": "Coventry",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
-        "eventName": "Premier League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel6.flv?wsSecret=a4d400838dc0e896b4da2467fd491139&wsABSTime=1795915385",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel6/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-11.flv?auth_key=3000001795872191-0-0-c6bc3bb9089fa540c61af419505e4915",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel11/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795872193-0-0-033afa3f337c28e5a95f3acf91d417be",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1795870329-0-0-8be6ae647ea9d5442c900cbe9b165745",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1795870389-0-0-632454c15adf30446b868e4871e87de9",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 8",
-          "stream_url": "https://playback.livetl002.com/live/69a1aaa7230584579e2d5ce1.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_19f79134a204",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "QPR Vs Sheff Utd",
-      "eventInfo": {
-        "teamA": "QPR",
-        "teamB": "Sheff Utd",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795872317-0-0-2f14b6112247096f987ffee98ad42aeb",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "http://193.47.62.55/hls/IGGGAAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_5b5b17566be9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Birmingham Vs Bolton",
-      "eventInfo": {
-        "teamA": "Birmingham",
-        "teamB": "Bolton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel65.flv?wsSecret=95f1c580e9b0689213cb5a5552a41c64&wsABSTime=1795915195",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel65/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "http://193.47.62.44/hls/XQXQXQAAAAA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e54494bedda9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Derby Vs Watford FC",
-      "eventInfo": {
-        "teamA": "Derby",
-        "teamB": "Watford FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_cf73e78091af",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wycombe Vs Bradford",
-      "eventInfo": {
-        "teamA": "Wycombe",
-        "teamB": "Bradford",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6f5971bbc01e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wigan Vs Plymouth",
-      "eventInfo": {
-        "teamA": "Wigan",
-        "teamB": "Plymouth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_4bcf221a6deb",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Stockport Vs Leyton Orient",
-      "eventInfo": {
-        "teamA": "Stockport",
-        "teamB": "Leyton Orient",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/83/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_7f1baf32e06b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Stevenage Vs Blackpool",
-      "eventInfo": {
-        "teamA": "Stevenage",
-        "teamB": "Blackpool",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/133/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/67/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_610816a88ff0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sheffield Wed Vs Reading",
-      "eventInfo": {
-        "teamA": "Sheffield Wed",
-        "teamB": "Reading",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/12/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_8cb4c8724755",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Luton Vs Oxford United",
-      "eventInfo": {
-        "teamA": "Luton",
-        "teamB": "Oxford United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_0d613b90dd26",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Leicester City Vs Mansfield",
-      "eventInfo": {
-        "teamA": "Leicester City",
-        "teamB": "Mansfield",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/70/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6f529d323480",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bromley Vs Burton",
-      "eventInfo": {
-        "teamA": "Bromley",
-        "teamB": "Burton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_f0b2504b82a9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "AFC Wimbledon Vs Barnsley",
-      "eventInfo": {
-        "teamA": "AFC Wimbledon",
-        "teamB": "Barnsley",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/71/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_047244770ca8",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
