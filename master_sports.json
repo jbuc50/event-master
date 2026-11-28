@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:20:17 AM 28-11-2026",
+  "last_update_time": "10:30:21 AM 28-11-2026",
   "total_matches": 388,
-  "live_match": 20,
-  "upcoming_match": 295,
+  "live_match": 21,
+  "upcoming_match": 294,
   "ended_match": 73,
   "matches": [
     {
@@ -772,7 +772,7 @@
       "id": "evt_eac0dd26bc58"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Melbourne Renegades Women Vs Melbourne Stars Women",
       "eventInfo": {
