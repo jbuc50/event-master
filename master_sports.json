@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:40:17 PM 28-11-2026",
+  "last_update_time": "09:50:22 PM 28-11-2026",
   "total_matches": 245,
-  "live_match": 53,
-  "upcoming_match": 150,
+  "live_match": 54,
+  "upcoming_match": 149,
   "ended_match": 42,
   "matches": [
     {
@@ -837,7 +837,8 @@
         {
           "channel_name": "PARAMOUNT+ - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/00yfltkazn/out/v1/2b25a20b39c240959f90e6a09abe980c/cenc.mpd",
-          "drm_key": "5aed837655fb76359bf334dd41a4cb53:45ffea1919db680a77ca36b6347e123b"
+          "drm_key": "5aed837655fb76359bf334dd41a4cb53:45ffea1919db680a77ca36b6347e123b",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "Server - 1",
@@ -1878,6 +1879,12 @@
           "stream_url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
           "referer": "https://www.tapmad.com/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457"
         }
       ],
       "id": "evt_83f300f9d68f",
@@ -1946,6 +1953,30 @@
         }
       ],
       "id": "evt_768886a2b83f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gaziantep FK Vs Amed SK",
+      "eventInfo": {
+        "teamA": "Gaziantep FK",
+        "teamB": "Amed SK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "28/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=32b2c93b5b5871c00db144e3d3721d96&wsABSTime=1795918891",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_65f8fcfb2b35",
       "isHot": false
     },
     {
@@ -4053,30 +4084,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Gaziantep FK Vs Amed SK",
-      "eventInfo": {
-        "teamA": "Gaziantep FK",
-        "teamB": "Amed SK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "28/11/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=32b2c93b5b5871c00db144e3d3721d96&wsABSTime=1795918891",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_65f8fcfb2b35",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Angers Vs Lens",
       "eventInfo": {
         "teamA": "Angers",
@@ -4087,7 +4094,35 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
         "startTime": "28/11/2026 10:15:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795875571-0-0-989469e133cb2f821ba34c1f4fbce9ad",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795870569-0-0-b6428a6eaddaaa8bca1761d62f2be4d5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795870569-0-0-b075763474486846b1e8b24e12b1312b",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_6a8af5ff7e6f",
       "isHot": false
     },
