@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:10:16 PM 28-11-2026",
-  "total_matches": 368,
+  "last_update_time": "02:20:18 PM 28-11-2026",
+  "total_matches": 396,
   "live_match": 8,
-  "upcoming_match": 314,
+  "upcoming_match": 342,
   "ended_match": 46,
   "matches": [
     {
@@ -245,8 +245,7 @@
         {
           "channel_name": "WILLOW HD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         },
         {
           "channel_name": "SD STREAM",
@@ -255,8 +254,7 @@
         {
           "channel_name": "WILLOW - AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd",
-          "drm_key": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
         },
         {
           "channel_name": "AUSTRALIA TV - AQ",
@@ -264,24 +262,15 @@
         },
         {
           "channel_name": "SKY CRICKET - AQ",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=7bnkGmSODWhSvD7xUkjZYw&e=2075749396&scheme=https"
         },
         {
           "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
         },
         {
           "channel_name": "FANCODE [IND]",
           "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250423_english_hls_afd62b9eee64615_1ta-di_h264/index.m3u8"
-        },
-        {
-          "channel_name": "willow - alt",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
         }
       ],
       "isHot": false,
@@ -435,7 +424,9 @@
         },
         {
           "channel_name": "TAPMAD - AQ",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "FANCODE [IND]",
@@ -8255,6 +8246,482 @@
       },
       "streams": [],
       "id": "evt_6b2f0f93da23",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Rosario Central Vs Barracas Central",
+      "eventInfo": {
+        "teamA": "Rosario Central",
+        "teamB": "Barracas Central",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/65668/image",
+        "eventName": "Liga Profesional (Argentina)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "30/11/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6439bae761bf",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Boca Jrs. Vs Gimnasia Y Esgrima La Plata",
+      "eventInfo": {
+        "teamA": "Boca Jrs.",
+        "teamB": "Gimnasia Y Esgrima La Plata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+        "eventName": "Liga Profesional (Argentina)",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/155/image",
+        "startTime": "30/11/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_229008e03e00",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vitoria Vs Santos",
+      "eventInfo": {
+        "teamA": "Vitoria",
+        "teamB": "Santos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "30/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_85abfdff9325",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Coritiba Vs Flamengo",
+      "eventInfo": {
+        "teamA": "Coritiba",
+        "teamB": "Flamengo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "30/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6b9a159916a4",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Internacional Vs Red Bull Bragantino",
+      "eventInfo": {
+        "teamA": "Internacional",
+        "teamB": "Red Bull Bragantino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "30/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c463c7579a09",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mirassol Vs Athletico Paranaense",
+      "eventInfo": {
+        "teamA": "Mirassol",
+        "teamB": "Athletico Paranaense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "30/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_bf9680582285",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Corinthians Vs Gremio",
+      "eventInfo": {
+        "teamA": "Corinthians",
+        "teamB": "Gremio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "30/11/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_d3da373bbf92",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Atlético-MG Vs Vasco da Gama",
+      "eventInfo": {
+        "teamA": "Atlético-MG",
+        "teamB": "Vasco da Gama",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+        "eventName": "Brasileirão Série A",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:21.png/v11/Competitions/light/113",
+        "startTime": "30/11/2026 04:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_7914b608070e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Lyon Vs AS Monaco",
+      "eventInfo": {
+        "teamA": "Lyon",
+        "teamB": "AS Monaco",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "30/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_26248b0bae1f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Dortmund Vs Bayer 04 Leverkusen",
+      "eventInfo": {
+        "teamA": "Dortmund",
+        "teamB": "Bayer 04 Leverkusen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+        "eventName": "Bundesliga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v2/Competitions/light/25",
+        "startTime": "30/11/2026 12:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_25c59efba5e0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Croatia U17 Vs Uruguay U17",
+      "eventInfo": {
+        "teamA": "Croatia U17",
+        "teamB": "Uruguay U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_fac64f8b0f7f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Italy U17 Vs Tajikistan U17",
+      "eventInfo": {
+        "teamA": "Italy U17",
+        "teamB": "Tajikistan U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8581",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 06:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_d8ab9cc5d4bb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Brazil U17 Vs Mozambique U17",
+      "eventInfo": {
+        "teamA": "Brazil U17",
+        "teamB": "Mozambique U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4783/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_dc4f194bff83",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Belgium U17 Vs Saudi Arabia U17",
+      "eventInfo": {
+        "teamA": "Belgium U17",
+        "teamB": "Saudi Arabia U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+        "teamBFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5087",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 07:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4211b95b9453",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ireland U17 Vs Ivory Coast U17",
+      "eventInfo": {
+        "teamA": "Ireland U17",
+        "teamB": "Ivory Coast U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_9cec6062f393",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Mexico U17 Vs Argentina U17",
+      "eventInfo": {
+        "teamA": "Mexico U17",
+        "teamB": "Argentina U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_d72dae48d866",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Chile U17 Vs Morocco U17",
+      "eventInfo": {
+        "teamA": "Chile U17",
+        "teamB": "Morocco U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_4178670a17ac",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Spain U17 Vs Uzbekistan U17",
+      "eventInfo": {
+        "teamA": "Spain U17",
+        "teamB": "Uzbekistan U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+        "eventName": "U17 World Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/279/image",
+        "startTime": "30/11/2026 09:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_022029cdb48c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Como Vs Juventus",
+      "eventInfo": {
+        "teamA": "Como",
+        "teamB": "Juventus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "30/11/2026 01:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_65b3525300e6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Lecce Vs Atalanta",
+      "eventInfo": {
+        "teamA": "Lecce",
+        "teamB": "Atalanta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image",
+        "startTime": "30/11/2026 11:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f2bc07526409",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "N.E.C. Vs FC Twente Enschede",
+      "eventInfo": {
+        "teamA": "N.E.C.",
+        "teamB": "FC Twente Enschede",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "30/11/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3a1312310b0a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Gil Vicente Vs Estoril",
+      "eventInfo": {
+        "teamA": "Gil Vicente",
+        "teamB": "Estoril",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+        "eventName": "Liga Portugal",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+        "startTime": "30/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_0187604396d7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Porto Vs Sporting Lisbon",
+      "eventInfo": {
+        "teamA": "Porto",
+        "teamB": "Sporting Lisbon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+        "eventName": "Liga Portugal",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+        "startTime": "30/11/2026 02:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_0724ac19e069",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Jabalain Vs Al-Ittihad Club",
+      "eventInfo": {
+        "teamA": "Al Jabalain",
+        "teamB": "Al-Ittihad Club",
+        "teamAFlag": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28905",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "eventName": "King's Cup",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v2/Competitions/light/5501",
+        "startTime": "30/11/2026 07:25:00 PM"
+      },
+      "streams": [],
+      "id": "evt_f75758e92a66",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Riyadh Vs Al-Fayha FC",
+      "eventInfo": {
+        "teamA": "Al Riyadh",
+        "teamB": "Al-Fayha FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+        "eventName": "King's Cup",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v2/Competitions/light/5501",
+        "startTime": "30/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_15960f5a6dfc",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Hilal Vs Al Hazm",
+      "eventInfo": {
+        "teamA": "Al-Hilal",
+        "teamB": "Al Hazm",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+        "eventName": "King's Cup",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:122.png/v2/Competitions/light/5501",
+        "startTime": "30/11/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_94558dc8fd45",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Goztepe Vs Trabzonspor",
+      "eventInfo": {
+        "teamA": "Goztepe",
+        "teamB": "Trabzonspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3054/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "30/11/2026 10:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_870fc6378ab3",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "Abu Dhabi Knight Riders Vs MI Emirates",
+      "eventInfo": {
+        "teamA": "Abu Dhabi Knight Riders",
+        "teamB": "MI Emirates",
+        "teamAFlag": "https://cricketvectors.akamaized.net/Teams/M3.png",
+        "teamBFlag": "https://cricketvectors.akamaized.net/Teams/M6.png",
+        "eventName": "ILT20 2026",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPndYvPPmBJ0VOjTWw_WPRI9QHj-Av6FZOFe7IQ4K6rw&s=10",
+        "startTime": "30/11/2026 08:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bea4014d760c",
       "isHot": false
     },
     {
