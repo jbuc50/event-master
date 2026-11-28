@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:00:25 AM 28-11-2026",
+  "last_update_time": "11:10:16 AM 28-11-2026",
   "total_matches": 391,
-  "live_match": 17,
-  "upcoming_match": 299,
-  "ended_match": 75,
+  "live_match": 11,
+  "upcoming_match": 300,
+  "ended_match": 80,
   "matches": [
     {
       "status": "LIVE",
@@ -122,142 +122,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Boston Celtics Vs Atlanta Hawks",
-      "eventInfo": {
-        "teamA": "Boston Celtics",
-        "teamB": "Atlanta Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "28/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61213/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/A555AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_7c8fb2d6fde8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Buffalo Sabres Vs Pittsburgh Penguins",
-      "eventInfo": {
-        "teamA": "Buffalo Sabres",
-        "teamB": "Pittsburgh Penguins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "NOVA1 SPORTS FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "SERVER+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61214/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/42ac0c75-08f5-4b32-9132-5cf3cc73f120/master.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e99191dbf289"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Columbus Crew Vs Inter Miami CF",
-      "eventInfo": {
-        "teamA": "Columbus Crew",
-        "teamB": "Inter Miami CF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-        "eventName": "MLS",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "28/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "FOX SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "FOX DEPORTES - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d41aeaebd995"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "USA W Vs El Salvador W",
-      "eventInfo": {
-        "teamA": "USA W",
-        "teamB": "El Salvador W",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/132932/image",
-        "eventName": "CONCACAF Women's Champions",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1954/image",
-        "startTime": "28/11/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61193/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/WQWQWQAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_35e1e8f2cec1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
       "eventInfo": {
         "teamA": "Minnesota Timberwolves",
@@ -287,6 +151,30 @@
       ],
       "isHot": false,
       "id": "evt_93a28db75eef"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Utah Utes Vs West Virginia Mountaineers",
+      "eventInfo": {
+        "teamA": "Utah Utes",
+        "teamB": "West Virginia Mountaineers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47352/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4289/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "28/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/WQWQWQAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_bfd586eb8240"
     },
     {
       "status": "LIVE",
@@ -320,53 +208,6 @@
       ],
       "isHot": false,
       "id": "evt_528774b7dbce"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Utah Utes Vs West Virginia Mountaineers",
-      "eventInfo": {
-        "teamA": "Utah Utes",
-        "teamB": "West Virginia Mountaineers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47352/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4289/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "28/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/WQWQWQAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_bfd586eb8240"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Kentucky Wildcats Vs Wichita State Shockers",
-      "eventInfo": {
-        "teamA": "Kentucky Wildcats",
-        "teamB": "Wichita State Shockers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41210/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66354/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "28/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61223/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_911be68bab02"
     },
     {
       "status": "LIVE",
@@ -594,10 +435,10 @@
       "eventInfo": {
         "teamA": "Supercars Championship Race 36 | Adelaide",
         "teamB": "Supercars Championship Race 36 | Adelaide",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0ilt6duN2x_7ZMEYTRPsfcF9NDXeK6IibYu8rJHAUw&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0ilt6duN2x_7ZMEYTRPsfcF9NDXeK6IibYu8rJHAUw&s=10",
         "eventName": "Supercars Championship Race 36 | Adelaide",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq0ilt6duN2x_7ZMEYTRPsfcF9NDXeK6IibYu8rJHAUw&s=10",
         "startTime": "28/11/2026 10:45:00 AM"
       },
       "streams": [
@@ -616,48 +457,6 @@
       ],
       "isHot": false,
       "id": "evt_9d6c25b39ddd"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Seattle Kraken Vs Edmonton Oilers",
-      "eventInfo": {
-        "teamA": "Seattle Kraken",
-        "teamB": "Edmonton Oilers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "29/11/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61217/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ca89ca2d-b69e-499f-bb89-3c20208689a2/master.m3u8"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_eac0dd26bc58"
     },
     {
       "status": "UPCOMING",
@@ -5638,6 +5437,48 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Hockey",
+      "event_name": "Seattle Kraken Vs Edmonton Oilers",
+      "eventInfo": {
+        "teamA": "Seattle Kraken",
+        "teamB": "Edmonton Oilers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "29/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61217/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ca89ca2d-b69e-499f-bb89-3c20208689a2/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_eac0dd26bc58"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Fresno State Bulldogs Vs Oregon State Beavers",
       "eventInfo": {
@@ -8092,8 +7933,8 @@
       "streams": [
         {
           "channel_name": "WILLOW - FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2dkhupmkeb/out/v1/0c49d8b659d74e618997b7c5778d9abf/cenc.mpd",
-          "drm_key": "f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ewm728qxey/out/v1/f3bf9fd892df4562815f96df89048cab/cenc.mpd",
+          "drm_key": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
         },
         {
           "channel_name": "SKY CRICKET - FHD",
@@ -8107,8 +7948,8 @@
         },
         {
           "channel_name": "WILLOW - ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2dkhupmkeb/out/v1/0c49d8b659d74e618997b7c5778d9abf/cenc.mpd",
-          "drm_key": "f73c2628577d8cc808034cb583cc16d2:a71e14c7698b1593f7373b16dd4faf6f"
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ewm728qxey/out/v1/f3bf9fd892df4562815f96df89048cab/cenc.mpd",
+          "drm_key": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
         }
       ],
       "isHot": false,
@@ -8125,7 +7966,7 @@
         "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
         "eventName": "TENNIS | EVENTO ",
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/2404/image",
-        "startTime": "28/11/2026 03:10:00 PM"
+        "startTime": "28/11/2026 06:05:00 PM"
       },
       "streams": [
         {
@@ -10802,6 +10643,113 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
+      "event_name": "Boston Celtics Vs Atlanta Hawks",
+      "eventInfo": {
+        "teamA": "Boston Celtics",
+        "teamB": "Atlanta Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "28/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61213/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/A555AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7c8fb2d6fde8"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Buffalo Sabres Vs Pittsburgh Penguins",
+      "eventInfo": {
+        "teamA": "Buffalo Sabres",
+        "teamB": "Pittsburgh Penguins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "NOVA1 SPORTS FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "SERVER+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61214/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/42ac0c75-08f5-4b32-9132-5cf3cc73f120/master.m3u8"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e99191dbf289"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Columbus Crew Vs Inter Miami CF",
+      "eventInfo": {
+        "teamA": "Columbus Crew",
+        "teamB": "Inter Miami CF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+        "eventName": "MLS",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "28/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "FOX SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "FOX DEPORTES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d41aeaebd995"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
       "event_name": "Colombia Vs Dominican Republic",
       "eventInfo": {
         "teamA": "Colombia",
@@ -10831,6 +10779,35 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "USA W Vs El Salvador W",
+      "eventInfo": {
+        "teamA": "USA W",
+        "teamB": "El Salvador W",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/132932/image",
+        "eventName": "CONCACAF Women's Champions",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1954/image",
+        "startTime": "28/11/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61193/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/WQWQWQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_35e1e8f2cec1"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Millonarios Vs América de Cali",
       "eventInfo": {
         "teamA": "Millonarios",
@@ -10851,6 +10828,29 @@
       ],
       "isHot": false,
       "id": "evt_0711f9f07fa8"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Kentucky Wildcats Vs Wichita State Shockers",
+      "eventInfo": {
+        "teamA": "Kentucky Wildcats",
+        "teamB": "Wichita State Shockers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41210/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66354/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "28/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61223/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_911be68bab02"
     }
   ]
 }
