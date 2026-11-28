@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "01:50:18 PM 28-11-2026",
+  "last_update_time": "02:00:25 PM 28-11-2026",
   "total_matches": 367,
-  "live_match": 5,
-  "upcoming_match": 316,
+  "live_match": 6,
+  "upcoming_match": 315,
   "ended_match": 46,
   "matches": [
     {
@@ -371,7 +371,7 @@
       "id": "evt_b0ea17825774"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Sydney Thunder Women Vs Sydney Sixers Women",
       "eventInfo": {
