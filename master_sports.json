@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:10:18 PM 28-11-2026",
+  "last_update_time": "05:20:17 PM 28-11-2026",
   "total_matches": 247,
   "live_match": 5,
   "upcoming_match": 203,
@@ -2689,6 +2689,96 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Holstein Kiel Vs FC Kaiserslautern",
+      "eventInfo": {
+        "teamA": "Holstein Kiel",
+        "teamB": "FC Kaiserslautern",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "28/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795861311-0-0-03e83d0e278549a7c975566483b2217d",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_a08734feab46",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Dresden Vs St. Pauli",
+      "eventInfo": {
+        "teamA": "Dresden",
+        "teamB": "St. Pauli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "28/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795861255-0-0-7be736af123eaf512eef155090934b6b",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_dcf6ae7eac9b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Hertha BSC Vs Karlsruher",
+      "eventInfo": {
+        "teamA": "Hertha BSC",
+        "teamB": "Karlsruher",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "eventName": "Bundesliga 2",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
+        "startTime": "28/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel16.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795861303-0-0-36b3ad041a543fb22c3a7f3d66220b89",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_4dfd002bb217",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Leeds Vs Coventry",
       "eventInfo": {
         "teamA": "Leeds",
@@ -3058,57 +3148,6 @@
       },
       "streams": [],
       "id": "evt_267f9cc23128",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Holstein Kiel Vs FC Kaiserslautern",
-      "eventInfo": {
-        "teamA": "Holstein Kiel",
-        "teamB": "FC Kaiserslautern",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "eventName": "Bundesliga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-        "startTime": "28/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_a08734feab46",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Dresden Vs St. Pauli",
-      "eventInfo": {
-        "teamA": "Dresden",
-        "teamB": "St. Pauli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-        "eventName": "Bundesliga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-        "startTime": "28/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_dcf6ae7eac9b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hertha BSC Vs Karlsruher",
-      "eventInfo": {
-        "teamA": "Hertha BSC",
-        "teamB": "Karlsruher",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "eventName": "Bundesliga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:4.png/v1/Competitions/light/26",
-        "startTime": "28/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_4dfd002bb217",
       "isHot": false
     },
     {
