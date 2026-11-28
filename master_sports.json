@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "03:30:19 PM 28-11-2026",
+  "last_update_time": "03:40:17 PM 28-11-2026",
   "total_matches": 248,
-  "live_match": 3,
-  "upcoming_match": 206,
+  "live_match": 4,
+  "upcoming_match": 205,
   "ended_match": 39,
   "matches": [
     {
@@ -85,11 +85,6 @@
           "channel_name": "SPORTDIGITAL FUSSBALL AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "TNT SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         }
       ],
       "isHot": false,
@@ -147,7 +142,7 @@
       "id": "evt_5a299ac3a06a"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "ILT T20 Vs ILT T20",
       "eventInfo": {
