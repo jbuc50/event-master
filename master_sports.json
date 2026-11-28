@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:00:25 AM 28-11-2026",
+  "last_update_time": "09:10:18 AM 28-11-2026",
   "total_matches": 275,
-  "live_match": 27,
+  "live_match": 26,
   "upcoming_match": 176,
-  "ended_match": 72,
+  "ended_match": 73,
   "matches": [
     {
       "status": "LIVE",
@@ -167,34 +167,6 @@
       ],
       "isHot": false,
       "id": "evt_a21b10ab40cc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fluminense Vs Cruzeiro",
-      "eventInfo": {
-        "teamA": "Fluminense",
-        "teamB": "Cruzeiro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "28/11/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE BR - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a2ccd594888e"
     },
     {
       "status": "LIVE",
@@ -7832,6 +7804,34 @@
       "streams": [],
       "isHot": false,
       "id": "evt_d00e3a56a94f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Fluminense Vs Cruzeiro",
+      "eventInfo": {
+        "teamA": "Fluminense",
+        "teamB": "Cruzeiro",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "28/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE BR - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a2ccd594888e"
     },
     {
       "status": "ENDED",
