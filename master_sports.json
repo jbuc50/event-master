@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "02:00:25 PM 28-11-2026",
-  "total_matches": 367,
-  "live_match": 6,
-  "upcoming_match": 315,
+  "last_update_time": "02:10:16 PM 28-11-2026",
+  "total_matches": 368,
+  "live_match": 8,
+  "upcoming_match": 314,
   "ended_match": 46,
   "matches": [
     {
@@ -372,6 +372,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Rugby SVNS Dubai Vs Rugby SVNS Dubai",
+      "eventInfo": {
+        "teamA": "Rugby SVNS Dubai",
+        "teamB": "Rugby SVNS Dubai",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/2080261758418137088/tanKQZY6.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/2080261758418137088/tanKQZY6.jpg",
+        "eventName": "Rugby SVNS Dubai",
+        "event_logo": "https://pbs.twimg.com/profile_images/2080261758418137088/tanKQZY6.jpg",
+        "startTime": "28/11/2026 01:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.41/hls/DSSSAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c8fe9c443c41"
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Sydney Thunder Women Vs Sydney Sixers Women",
       "eventInfo": {
@@ -385,14 +409,24 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
-          "channel_name": "willow sports - aq",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.41/hls/DSSSAA.m3u8"
+        },
+        {
+          "channel_name": "WILLOW - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/29zmikjvfd/out/v1/67d74da2234e44aa9154e4d90eb2d83f/cenc.mpd",
+          "drm_key": "c1cf31ab4b238c9c0bd1a653cd5d4918:a2471af5b035199c2e739085143062d4"
+        },
+        {
+          "channel_name": "AUSTRALIA TV - AQ",
+          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__oiSJjF9PHcQtcQnSXMyc2nX61gwvJSjvKE3KhuGDtvrtqN5VQvuXT45RJQuzDaZdf17yFaPhGKN/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=3B5EECB1E928",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "SKY CRICKET - AQ",
@@ -400,16 +434,19 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
-          "channel_name": "AUSTRALIA TV - AQ",
-          "stream_url": "https://host-64-235-250-99.contentfabric.io/qlibs/ilibBFVVnZD2HsyW1Rmi5atMjddq2NQ/q/hq__oiSJjF9PHcQtcQnSXMyc2nX61gwvJSjvKE3KhuGDtvrtqN5VQvuXT45RJQuzDaZdf17yFaPhGKN/rep/playout/default/hls-aes128/playlist.m3u8?authorization=acssjc9GqKQhD4zgqPicqVYwswYaABaCB3jwPAVvkLx1EL32F2KP8DFeqn44MqnMRhyb3p6Wpqeusjeicq8xNzCTPcJ7BL1QnMsoqBMdBQQ2Rf5pqiKHyzRJXH7YqGAtwX5xUnwwkRXHzRnH5XGPPt754h4jDns8muXs4NJ8jNe7LrtbKsjbyqZrD4KBXZDdW8bd5snaakLojDTsTdN8bSFtRmptuLfjxcZnm6MeWtsooShecHSWN9gTEfftm9EpmSZoKg9ndKURd3nwe5eS6AvSJfEL6AyQQi9EcSTEoAYpfWFP8zt4VF9yLd7CrUoMyRvNRjeCUgYThtBdNjJuMHKhK66Y3sASuAYfxNC1dL7enmuk8pbWhJ5ZqvGjhcns48NfPqK485rCSiQyFMyRFJaoGABnJJzSYJnSZys4F1p4hvbQwF2SMoh5aRQJ9rcNF6R4HSrr1qVjesjFoGvcSV3reXYWao1J89yJ2hsZkvs6nQcCDrSVyEjHc4zsY4MDDsPYaB7tPFxVGZZmmojfu156r1pc8sjPb2yna1oMCexRoqyLxwWd8iytJ3jyBGrgxrxtz58NrDVaBWJik2a&sid=3B5EECB1E928",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "channel_name": "TAPMAD - AQ",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-vod.fancode.com/mumbai/4250423_english_hls_afd62b9eee64615_1ta-di_h264/index.m3u8"
         }
       ],
       "isHot": false,
       "id": "evt_148ff859a643"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Central Coast Mariners Vs Auckland FC",
       "eventInfo": {
@@ -452,10 +489,6 @@
       },
       "streams": [
         {
-          "channel_name": "SD STREAM",
-          "stream_url": "http://193.47.62.41/hls/FRFRFRV.m3u8"
-        },
-        {
           "channel_name": "FANCODE - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
           "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
@@ -477,12 +510,8 @@
         },
         {
           "channel_name": "AUVIO SPORTS - AQ",
-          "stream_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/8dc11abc.isml/.mpd?t=2026-11-27T07:52:00.000",
-          "drm_key": "e5cd31b4fefc41339a0cc7ce38efe365:3fa354cde4b3a320250387caacebc13e"
-        },
-        {
-          "channel_name": "FANCODE [IND]",
-          "stream_url": "https://in-mc-vod.fancode.com/mumbai/139987_english_hls_d24b6feeea4926_1ta-di_h264/index.m3u8"
+          "stream_url": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/2ced309d.isml/.mpd?t=2026-11-28T07:33:00.000",
+          "drm_key": "fc71795b0f134061b2d253d84147f8a5:464cf86817ec3437a1ece232e01955ba"
         }
       ],
       "isHot": false,
@@ -3463,7 +3492,8 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -4094,7 +4124,8 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -4148,7 +4179,8 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -4307,12 +4339,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "startTime": "29/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "isHot": false,
       "id": "evt_9f53e333c896"
     },
@@ -4879,7 +4906,8 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -5168,7 +5196,8 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
@@ -5737,7 +5766,8 @@
       "streams": [
         {
           "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         }
       ],
       "isHot": false,
