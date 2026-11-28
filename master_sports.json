@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:50:15 PM 28-11-2026",
+  "last_update_time": "07:00:26 PM 28-11-2026",
   "total_matches": 247,
-  "live_match": 24,
-  "upcoming_match": 183,
+  "live_match": 25,
+  "upcoming_match": 182,
   "ended_match": 40,
   "matches": [
     {
@@ -295,6 +295,11 @@
       },
       "streams": [
         {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/37f53d4e-780f-41d9-86e5-e4b72ebea97e.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "LOW SERVER",
           "stream_url": "http://193.47.62.44/hls/D777AAAAQQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
@@ -411,6 +416,34 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Wales Vs Japan",
+      "eventInfo": {
+        "teamA": "Wales",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "28/11/2026 07:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RUGBYPASS TV AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "channel_name": "STARZPLAY RUGBY AQ",
+          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "drm_key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a46bc6245f3e"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Preston Vs Norwich",
       "eventInfo": {
@@ -424,6 +457,17 @@
       },
       "streams": [
         {
+          "channel_name": "HD quality",
+          "stream_url": "https://www.rtmpcdn.com/live/ec1c7f7d-19f7-40ae-9ad1-fa16be470780.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.44/hls/AGGG.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
@@ -434,6 +478,12 @@
           "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795861446-0-0-ad5019bdb93dea20e5e8269c65d14b59",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "beIN ENGLISH - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
         }
       ],
       "id": "evt_3e7468ede158",
@@ -548,6 +598,18 @@
           "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-18.flv?auth_key=3000001795861311-0-0-03e83d0e278549a7c975566483b2217d",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-18/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SKY BUNDESLIGA - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uvs2xhdiej/out/v1/433bf6d117f7498bbec46459d95e4856/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "eb5d2d0b9a495fd6d6e3564017b4114c:e6c14d3d9c6b4f3933991cb90324f1da"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.41/hls/KBBBAAQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_a08734feab46",
@@ -584,6 +646,18 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "SKY BUNDESLIGA - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.41/hls/DEEE.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_dcf6ae7eac9b",
@@ -613,6 +687,18 @@
           "channel_name": "Server - 2",
           "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-16.flv?auth_key=3000001795861303-0-0-36b3ad041a543fb22c3a7f3d66220b89",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-16/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SKY BUNDESLIGA - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.41/hls/KBBBAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -750,10 +836,22 @@
       },
       "streams": [
         {
-          "channel_name": "Server - 1",
+          "channel_name": "HD QUALITY",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=bab83e676a183a73263009f5af341a41&wsABSTime=1795904534",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel23/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.41/hls/SASASAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LALIGA HYPEMOTION - AQ",
+          "stream_url": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         }
       ],
       "id": "evt_969e27ff5b91",
@@ -829,34 +927,6 @@
       ],
       "id": "evt_405d2c3aee69",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Wales Vs Japan",
-      "eventInfo": {
-        "teamA": "Wales",
-        "teamB": "Japan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
-        "eventName": "Nations Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "28/11/2026 07:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RUGBYPASS TV AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-          "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
-        },
-        {
-          "channel_name": "STARZPLAY RUGBY AQ",
-          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
-          "drm_key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a46bc6245f3e"
     },
     {
       "status": "UPCOMING",
