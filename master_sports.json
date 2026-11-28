@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:50:15 PM 28-11-2026",
+  "last_update_time": "09:00:26 PM 28-11-2026",
   "total_matches": 252,
   "live_match": 51,
   "upcoming_match": 160,
@@ -3904,6 +3904,51 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Malaga Vs Athletic Bilbao",
+      "eventInfo": {
+        "teamA": "Malaga",
+        "teamB": "Athletic Bilbao",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+        "eventName": "LaLiga",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
+        "startTime": "28/11/2026 09:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-15.flv?auth_key=3000001795875773-0-0-69a093fa86ba580431e85f1f7813137f",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-15/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912136_lhd.m3u8?auth_key=1795880289-0-0-453b2af85e95755fd34c7eea3cbd6dd1",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912129_lhd.m3u8?auth_key=1795870509-0-0-25bcaad747d2f1058b5eaf52671c0e49",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_83f300f9d68f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Angers Vs Lens",
       "eventInfo": {
         "teamA": "Angers",
@@ -3967,23 +4012,6 @@
       },
       "streams": [],
       "id": "evt_dedab50d6c7b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Malaga Vs Athletic Bilbao",
-      "eventInfo": {
-        "teamA": "Malaga",
-        "teamB": "Athletic Bilbao",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-        "eventName": "LaLiga",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v7/Competitions/light/11",
-        "startTime": "28/11/2026 09:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_83f300f9d68f",
       "isHot": false
     },
     {
