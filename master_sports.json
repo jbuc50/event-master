@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:00:25 PM 28-11-2026",
+  "last_update_time": "10:10:16 PM 28-11-2026",
   "total_matches": 245,
-  "live_match": 54,
-  "upcoming_match": 149,
+  "live_match": 55,
+  "upcoming_match": 148,
   "ended_match": 42,
   "matches": [
     {
@@ -1105,6 +1105,10 @@
           "channel_name": "DAZN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd",
           "drm_key": "c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.41/hls/KKKKAA.m3u8"
         }
       ],
       "isHot": false,
@@ -1125,8 +1129,8 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.41/hls/KKKKAAAAQQQ.m3u8"
         }
       ],
       "isHot": false,
@@ -1146,6 +1150,10 @@
         "startTime": "28/11/2026 09:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.41/hls/KKKKAAAA.m3u8"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel25.flv",
@@ -1175,7 +1183,12 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
         "startTime": "28/11/2026 09:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.41/hls/KKKKAAA.m3u8"
+        }
+      ],
       "isHot": false,
       "id": "evt_0e60b70ef68f"
     },
@@ -1567,6 +1580,51 @@
         }
       ],
       "id": "evt_047244770ca8",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Angers Vs Lens",
+      "eventInfo": {
+        "teamA": "Angers",
+        "teamB": "Lens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
+        "startTime": "28/11/2026 10:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795875571-0-0-989469e133cb2f821ba34c1f4fbce9ad",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795870569-0-0-b6428a6eaddaaa8bca1761d62f2be4d5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795870569-0-0-b075763474486846b1e8b24e12b1312b",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6a8af5ff7e6f",
       "isHot": false
     },
     {
@@ -4087,51 +4145,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Angers Vs Lens",
-      "eventInfo": {
-        "teamA": "Angers",
-        "teamB": "Lens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-        "eventName": "Ligue 1",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-        "startTime": "28/11/2026 10:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795875571-0-0-989469e133cb2f821ba34c1f4fbce9ad",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795870569-0-0-b6428a6eaddaaa8bca1761d62f2be4d5",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795870569-0-0-b075763474486846b1e8b24e12b1312b",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_6a8af5ff7e6f",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
