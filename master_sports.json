@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:20:17 PM 28-11-2026",
+  "last_update_time": "06:30:21 PM 28-11-2026",
   "total_matches": 247,
-  "live_match": 16,
-  "upcoming_match": 192,
+  "live_match": 20,
+  "upcoming_match": 188,
   "ended_match": 39,
   "matches": [
     {
@@ -313,6 +313,39 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel12.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-12.flv?auth_key=3000001795861344-0-0-80a0631501f677126b351b7e65ee182e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-12/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1795862289-0-0-48a832545ff37390628c648c65c48a77",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1795861869-0-0-38a4aa842910a4221c59fe22a5308193",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel12.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 6",
+          "stream_url": "http://193.47.62.44/hls/D777AAAAQQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -334,6 +367,120 @@
       "streams": [],
       "isHot": false,
       "id": "evt_ca34df19fc13"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Preston Vs Norwich",
+      "eventInfo": {
+        "teamA": "Preston",
+        "teamB": "Norwich",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+        "eventName": "Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "28/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel17.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel17/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-17.flv?auth_key=3000001795861446-0-0-ad5019bdb93dea20e5e8269c65d14b59",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-17/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_3e7468ede158",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Blackburn Vs Charlton",
+      "eventInfo": {
+        "teamA": "Blackburn",
+        "teamB": "Charlton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+        "eventName": "Championship",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
+        "startTime": "28/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795861194-0-0-5a069d12fcdb5aa885e826915199be38",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "http://193.47.62.44/hls/D777AAAAQQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6c3b4f91da8a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Peterborough Vs Cambridge",
+      "eventInfo": {
+        "teamA": "Peterborough",
+        "teamB": "Cambridge",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.44/hls/D777AAAAQQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_f3dd28f8da8a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "MK Dons Vs Notts County",
+      "eventInfo": {
+        "teamA": "MK Dons",
+        "teamB": "Notts County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
+        "eventName": "League One",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
+        "startTime": "28/11/2026 06:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "http://193.47.62.44/hls/D777AAAAQ.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_ff0d8f540f5c",
+      "isHot": false
     },
     {
       "status": "LIVE",
@@ -390,6 +537,12 @@
           "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-4.flv?auth_key=3000001795861255-0-0-7be736af123eaf512eef155090934b6b",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-4/off-tvc?is_off_add=false",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "beIN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
       ],
       "id": "evt_dcf6ae7eac9b",
@@ -2867,40 +3020,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Preston Vs Norwich",
-      "eventInfo": {
-        "teamA": "Preston",
-        "teamB": "Norwich",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 06:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_3e7468ede158",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Blackburn Vs Charlton",
-      "eventInfo": {
-        "teamA": "Blackburn",
-        "teamB": "Charlton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "eventName": "Championship",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/1",
-        "startTime": "28/11/2026 06:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6c3b4f91da8a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "QPR Vs Sheff Utd",
       "eventInfo": {
         "teamA": "QPR",
@@ -2947,40 +3066,6 @@
       },
       "streams": [],
       "id": "evt_cf73e78091af",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Peterborough Vs Cambridge",
-      "eventInfo": {
-        "teamA": "Peterborough",
-        "teamB": "Cambridge",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 06:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_f3dd28f8da8a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "MK Dons Vs Notts County",
-      "eventInfo": {
-        "teamA": "MK Dons",
-        "teamB": "Notts County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-        "eventName": "League One",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:1.png/v2/Competitions/light/2",
-        "startTime": "28/11/2026 06:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_ff0d8f540f5c",
       "isHot": false
     },
     {
