@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "05:30:22 PM 28-11-2026",
+  "last_update_time": "05:40:17 PM 28-11-2026",
   "total_matches": 247,
-  "live_match": 5,
-  "upcoming_match": 203,
+  "live_match": 8,
+  "upcoming_match": 200,
   "ended_match": 39,
   "matches": [
     {
@@ -197,6 +197,73 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hertha BSC Vs Karlsruher SC",
+      "eventInfo": {
+        "teamA": "Hertha BSC",
+        "teamB": "Karlsruher SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "28/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3cdea95a3098"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Holstein Kiel Vs 1. FC Kaiserslautern",
+      "eventInfo": {
+        "teamA": "Holstein Kiel",
+        "teamB": "1. FC Kaiserslautern",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "28/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_e43ffe733600"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "SG Dynamo Dresden Vs FC St. Pauli",
+      "eventInfo": {
+        "teamA": "SG Dynamo Dresden",
+        "teamB": "FC St. Pauli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "28/11/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_7821a737d330"
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Desert Vipers Vs MI Emirates",
       "eventInfo": {
@@ -239,67 +306,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Hertha BSC Vs Karlsruher SC",
-      "eventInfo": {
-        "teamA": "Hertha BSC",
-        "teamB": "Karlsruher SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "28/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3cdea95a3098"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Holstein Kiel Vs 1. FC Kaiserslautern",
-      "eventInfo": {
-        "teamA": "Holstein Kiel",
-        "teamB": "1. FC Kaiserslautern",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "28/11/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_e43ffe733600"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "SG Dynamo Dresden Vs FC St. Pauli",
-      "eventInfo": {
-        "teamA": "SG Dynamo Dresden",
-        "teamB": "FC St. Pauli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "28/11/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_7821a737d330"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Al-Hazem Vs Al-Nassr",
       "eventInfo": {
         "teamA": "Al-Hazem",
@@ -312,8 +318,14 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "FOX DESPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
       "isHot": false,
