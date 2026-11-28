@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:21 PM 28-11-2026",
+  "last_update_time": "09:40:17 PM 28-11-2026",
   "total_matches": 245,
-  "live_match": 51,
-  "upcoming_match": 152,
+  "live_match": 53,
+  "upcoming_match": 150,
   "ended_match": 42,
   "matches": [
     {
@@ -454,7 +454,8 @@
       "streams": [
         {
           "channel_name": "HD SERVER",
-          "stream_url": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "beIN ENGLISH - AQ",
@@ -465,12 +466,14 @@
         {
           "channel_name": "PEACOCK ES - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uq231p5pdn/out/v1/33634b79a3de4f48b29b237b16398caa/cenc.mpd",
-          "drm_key": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2"
+          "drm_key": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "SKY TOP EVENT - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
           "channel_name": "LOW SERVER",
@@ -511,70 +514,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Tennis",
-      "event_name": "Great Britain Vs Spain",
-      "eventInfo": {
-        "teamA": "Great Britain",
-        "teamB": "Spain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/15766/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-        "eventName": "Davis Cup",
-        "event_logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN SPORTS",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "TENNIS TV DE AQ",
-          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
-          "drm_key": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
-        },
-        {
-          "channel_name": "TSN SPORTS AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_8290e3de6756"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Leeds United Vs Coventry City",
-      "eventInfo": {
-        "teamA": "Leeds United",
-        "teamB": "Coventry City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
-        "eventName": "Premier League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "28/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61253/load-playlist"
-        },
-        {
-          "channel_name": "FUBO SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j8amxihvvf/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd",
-          "drm_key": "78f7863d9908f8e036a0e19515e8e848:30e4471a447f134df0caf05559cb6fe3"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61253\\/load-playlist-multi"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_706d097e0f8b"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Manchester United Vs Brentford",
       "eventInfo": {
@@ -599,10 +538,24 @@
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
+          "channel_name": "PEACOCK ENG",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ulwuyu4ai4/out/v1/05f1ef0f4a9b4bfc89ec0685d33786a6/cenc.mpd",
+          "drm_key": "6e88d1e31d904955f910a082d1aff122:32aeb26c720d15a8d16ae8b488c2734a"
+        },
+        {
           "channel_name": "FUBO SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
           "drm_key": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SKY SPORT PL - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj8aqoogh/out/v1/b427d030aa6c40b1ab5acccc70497a2f/cenc.mpd",
+          "drm_key": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.59/hls/DADADAQ.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -663,6 +616,78 @@
       ],
       "isHot": false,
       "id": "evt_a69524036036"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Tennis",
+      "event_name": "Great Britain Vs Spain",
+      "eventInfo": {
+        "teamA": "Great Britain",
+        "teamB": "Spain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/15766/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+        "eventName": "Davis Cup",
+        "event_logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN SPORTS",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "TENNIS TV DE AQ",
+          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=tennistv1.mpd",
+          "drm_key": "2b8cd782fe332547063317b3f58de936:98c9c8f4e23e3a7a083d26857d5881ab"
+        },
+        {
+          "channel_name": "TSN SPORTS AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_8290e3de6756"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leeds United Vs Coventry City",
+      "eventInfo": {
+        "teamA": "Leeds United",
+        "teamB": "Coventry City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
+        "eventName": "Premier League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "28/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61253/load-playlist"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://www.rtmpcdn.com/live/57e47c7e-e2ba-4901-b8ed-4c1d1203415f.m3u8"
+        },
+        {
+          "channel_name": "FUBO SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j8amxihvvf/out/v1/ee234bf8b2854366834b938725860805/cenc.mpd",
+          "drm_key": "78f7863d9908f8e036a0e19515e8e848:30e4471a447f134df0caf05559cb6fe3"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61253\\/load-playlist-multi"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.59/hls/DADADA.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_706d097e0f8b"
     },
     {
       "status": "LIVE",
@@ -1072,7 +1097,13 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
         "startTime": "28/11/2026 09:15:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/um0kkq6pea/out/v1/49c2ad5a13d14c4a895fb77f23f93fcb/cenc.mpd",
+          "drm_key": "c977d5dc5dd558690680f51ed66d948d:b8f0d19112c33479b9cfc6382beba457"
+        }
+      ],
       "isHot": false,
       "id": "evt_2470d9146e48"
     },
@@ -1111,7 +1142,20 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
         "startTime": "28/11/2026 09:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel25.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel25/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-25.flv?auth_key=3000001795875791-0-0-4f21659dd65681666c4d4325b0d04b05",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-25/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_b4d07952738a"
     },
@@ -1532,6 +1576,11 @@
       },
       "streams": [
         {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/82bae1ed-3746-40a3-985d-33b75a41fccf.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel4.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel4/off-tvc?is_off_add=false",
@@ -1563,6 +1612,24 @@
           "stream_url": "http://193.47.62.41/hls/KFFFQQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PEACOCK ES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtcrpj7yj1/out/v1/bb07c5a510f643239a0a73878377d9d6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "e888efc6b190f36237ea0cfb37b29d4f:a61e14099def87a5185b27235ae83800"
+        },
+        {
+          "channel_name": "SKY SPORT DE - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e"
+        },
+        {
+          "channel_name": "SHAHID EN/AR - AQ",
+          "stream_url": "https://shahid-sports-3-enc.edgenextcdn.net/out/v1/2658c96bbfa54f339e357fe36361587e/index.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "2b6f6b340aa8467785e4e82f9320fb5a:8889701d704078c4d910ed1409413d9b"
         }
       ],
       "id": "evt_b739c0a736ee",
@@ -1582,6 +1649,11 @@
         "startTime": "28/11/2026 08:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/ea8f0543-549b-4878-adb1-bac47d831a9b.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel18.flv",
@@ -1609,6 +1681,12 @@
           "stream_url": "http://193.47.62.41/hls/KFFFQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "PEACOCK ES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rknfkonbnx/out/v1/366e578cf16f468397abd0c10be40d67/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "5fd082fda7d6a9f67e706d697ff8f217:2ac6e5ec76cc0213f1a5b560bb6384bf"
         }
       ],
       "id": "evt_161e7d01624f",
@@ -1628,6 +1706,11 @@
         "startTime": "28/11/2026 08:30:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://www.rtmpcdn.com/live/b5d03af5-de19-42e8-b50f-5d22cc8726e8.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel24.flv",
@@ -1660,9 +1743,87 @@
           "stream_url": "http://193.47.62.41/hls/KFFFQQQ.m3u8",
           "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SKY SPORT DE - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f"
+        },
+        {
+          "channel_name": "PEACOCK ES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8xmgbdd3a0/out/v1/ad13949204914ae084834ba24cf49f72/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "d5c8b8385c9ccede88f0a9bd519df0af:bf1aa762959b8882625ae06646c6514c"
+        },
+        {
+          "channel_name": "SHAHID EN/AR - AQ",
+          "stream_url": "https://shahid-sports-2-enc.edgenextcdn.net/out/v1/589aa6b16ce942388695b5b214f4ae93/index.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "50a7f3afc00a40b38face4db639d0e4c:ad7000691326064706281a700b7d6714"
         }
       ],
       "id": "evt_d6027dda3c5a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Excelsior Vs Telstar",
+      "eventInfo": {
+        "teamA": "Excelsior",
+        "teamB": "Telstar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "28/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel13.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-13.flv?auth_key=3000001795875669-0-0-47f75c1fbf562a97c3cda08b4e4c3887",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-13/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_edcd1a2b67e4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Arouca Vs Rio Ave",
+      "eventInfo": {
+        "teamA": "Arouca",
+        "teamB": "Rio Ave",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
+        "eventName": "Liga Portugal",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
+        "startTime": "28/11/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel7.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-7.flv?auth_key=3000001795875671-0-0-bdced39a00ae7617b5345a39f55a5973",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-7/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_dedab50d6c7b",
       "isHot": false
     },
     {
@@ -1679,6 +1840,12 @@
         "startTime": "28/11/2026 09:15:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.41/hls/KKKKAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
         {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
@@ -1705,6 +1872,12 @@
           "channel_name": "Server - 5",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.m3u8",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_83f300f9d68f",
@@ -1727,6 +1900,12 @@
         {
           "channel_name": "HD QUALITY",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel23.flv?wsSecret=8213c62e6dd09c4acb4f20436d92b1a1&wsABSTime=1795918760",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.41/hls/KKKK.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         },
         {
@@ -1757,6 +1936,12 @@
           "channel_name": "HD QUALITY",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=51553f8e8e8fd179f98d6d3126260cc5&wsABSTime=1795918856",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.41/hls/KKKKA.m3u8",
+          "referer": "http://www.fawanews.sc/",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
@@ -3868,6 +4053,30 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Gaziantep FK Vs Amed SK",
+      "eventInfo": {
+        "teamA": "Gaziantep FK",
+        "teamB": "Amed SK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image",
+        "eventName": "Super Lig",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
+        "startTime": "28/11/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel29.flv?wsSecret=32b2c93b5b5871c00db144e3d3721d96&wsABSTime=1795918891",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel29/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_65f8fcfb2b35",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Angers Vs Lens",
       "eventInfo": {
         "teamA": "Angers",
@@ -3885,23 +4094,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Excelsior Vs Telstar",
-      "eventInfo": {
-        "teamA": "Excelsior",
-        "teamB": "Telstar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
-        "eventName": "Eredivisie",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-        "startTime": "28/11/2026 09:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_edcd1a2b67e4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "PSV Vs Go Ahead Eagles",
       "eventInfo": {
         "teamA": "PSV",
@@ -3914,40 +4106,6 @@
       },
       "streams": [],
       "id": "evt_66a185ee4e61",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Arouca Vs Rio Ave",
-      "eventInfo": {
-        "teamA": "Arouca",
-        "teamB": "Rio Ave",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-        "eventName": "Liga Portugal",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image",
-        "startTime": "28/11/2026 09:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_dedab50d6c7b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Gaziantep FK Vs Amed SK",
-      "eventInfo": {
-        "teamA": "Gaziantep FK",
-        "teamB": "Amed SK",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/207011/image",
-        "eventName": "Super Lig",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Countries:Round:12.png/v4/Competitions/light/78",
-        "startTime": "28/11/2026 10:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_65f8fcfb2b35",
       "isHot": false
     },
     {
