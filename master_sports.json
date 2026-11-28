@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:40:19 PM 28-11-2026",
+  "last_update_time": "07:50:18 PM 28-11-2026",
   "total_matches": 247,
-  "live_match": 26,
-  "upcoming_match": 180,
+  "live_match": 27,
+  "upcoming_match": 179,
   "ended_match": 41,
   "matches": [
     {
@@ -1021,6 +1021,45 @@
         }
       ],
       "id": "evt_405d2c3aee69",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chennaiyin Vs Mumbai City",
+      "eventInfo": {
+        "teamA": "Chennaiyin",
+        "teamB": "Mumbai City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
+        "eventName": "Indian Super League",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
+        "startTime": "28/11/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795868609-0-0-3c862fcc2c35ae7f0e051b5f052d5dfa",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONYLIV (ENG)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONYLIV (HIN)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SONYLIV (TAM)",
+          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_40f7f2140f25",
       "isHot": false
     },
     {
@@ -3217,45 +3256,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chennaiyin Vs Mumbai City",
-      "eventInfo": {
-        "teamA": "Chennaiyin",
-        "teamB": "Mumbai City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
-        "eventName": "Indian Super League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-        "startTime": "28/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795868609-0-0-3c862fcc2c35ae7f0e051b5f052d5dfa",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SONYLIV (ENG)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SONYLIV (HIN)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SONYLIV (TAM)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_40f7f2140f25",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
