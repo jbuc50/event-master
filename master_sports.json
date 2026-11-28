@@ -1,7 +1,7 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "07:20:17 PM 28-11-2026",
+  "last_update_time": "07:30:21 PM 28-11-2026",
   "total_matches": 247,
   "live_match": 24,
   "upcoming_match": 182,
@@ -807,6 +807,11 @@
       },
       "streams": [
         {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://pl.playlist6.space/playlist/61241/simplefuturetower92/caxi",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "Server - 1",
           "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel15.flv",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel15/off-tvc?is_off_add=false",
@@ -828,6 +833,23 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
           "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qonkionqjw/out/v1/727a5f2dc7a7459c9fb8b00034af429c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
+          "drm_key": "f102116527f7ec46e25ad94124830f60:0fd3e0c6005ae205264678ef348c7587"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "FANCODE [IND]",
+          "stream_url": "https://in-mc-flive.fancode.com/out/v1/ap-south-1/4247698_english_924643/ad-drm-h264/master.mpd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "id": "evt_ca24a26bcd05",
