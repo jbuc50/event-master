@@ -1,10 +1,10 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:30:21 PM 28-11-2026",
+  "last_update_time": "10:40:21 PM 28-11-2026",
   "total_matches": 244,
-  "live_match": 55,
-  "upcoming_match": 147,
+  "live_match": 56,
+  "upcoming_match": 146,
   "ended_match": 42,
   "matches": [
     {
@@ -1090,6 +1090,41 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "CD Eldense Vs Girona FC",
+      "eventInfo": {
+        "teamA": "CD Eldense",
+        "teamB": "Girona FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "28/11/2026 09:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=51553f8e8e8fd179f98d6d3126260cc5&wsABSTime=1795918856",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY",
+          "stream_url": "http://193.47.62.41/hls/KKKKA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+          "drm_key": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_76cc9faa9a7f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Excelsior Vs SC Telstar",
       "eventInfo": {
         "teamA": "Excelsior",
@@ -1167,6 +1202,72 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Angers Vs RC Lens",
+      "eventInfo": {
+        "teamA": "Angers",
+        "teamB": "RC Lens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+        "eventName": "Ligue 1",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "28/11/2026 10:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ovc9ckljg8/out/v1/76a556891e9447309205972ad4ae6d48/cenc.mpd",
+          "drm_key": "f6ee12913c97cb9fe2941ba8b81c5bab:995b153c1d7c8c486c0116e5b45e4a0d"
+        },
+        {
+          "channel_name": "beIN SPORTS - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?",
+          "drm_key": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe"
+        },
+        {
+          "channel_name": "beIN SPANISH - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?",
+          "drm_key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795875571-0-0-989469e133cb2f821ba34c1f4fbce9ad",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795870569-0-0-b6428a6eaddaaa8bca1761d62f2be4d5",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795870569-0-0-b075763474486846b1e8b24e12b1312b",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad - Aq",
+          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "referer": "https://www.tapmad.com/",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_29410785cc48"
+    },
+    {
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "England Vs New Zealand",
       "eventInfo": {
@@ -1192,6 +1293,63 @@
       ],
       "isHot": false,
       "id": "evt_c8f12caa2c6c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Torino Vs Lazio",
+      "eventInfo": {
+        "teamA": "Torino",
+        "teamB": "Lazio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+        "eventName": "Serie A",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "28/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beIN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Sport CZ - AQ",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795875945-0-0-83bd30a517dc40f57b2739924f13eb09",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795870569-0-0-8ac6994bce86a7e669d1088547702a78",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1795870629-0-0-d9c0e831a48a78df288886a0d96389ae",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_36ee5df7e496"
     },
     {
       "status": "LIVE",
@@ -1586,57 +1744,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Angers Vs Lens",
-      "eventInfo": {
-        "teamA": "Angers",
-        "teamB": "Lens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-        "eventName": "Ligue 1",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34/image",
-        "startTime": "28/11/2026 10:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795875571-0-0-989469e133cb2f821ba34c1f4fbce9ad",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-633416_lhd.m3u8?auth_key=1795870569-0-0-b6428a6eaddaaa8bca1761d62f2be4d5",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1795870569-0-0-b075763474486846b1e8b24e12b1312b",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Tapmad - Aq",
-          "stream_url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-          "referer": "https://www.tapmad.com/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_6a8af5ff7e6f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "SC Paderborn Vs Schalke 04",
       "eventInfo": {
         "teamA": "SC Paderborn",
@@ -2000,36 +2107,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CD Eldense Vs Girona",
-      "eventInfo": {
-        "teamA": "CD Eldense",
-        "teamB": "Girona",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:2.png/v2/Competitions/light/12",
-        "startTime": "28/11/2026 09:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live1.quickscoreboardz.com/live/channel22.flv?wsSecret=51553f8e8e8fd179f98d6d3126260cc5&wsABSTime=1795918856",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel22/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY",
-          "stream_url": "http://193.47.62.41/hls/KKKKA.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_768886a2b83f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Gaziantep FK Vs Amed SK",
       "eventInfo": {
         "teamA": "Gaziantep FK",
@@ -2091,63 +2168,6 @@
       ],
       "id": "evt_040acba132a4",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Torino Vs Lazio",
-      "eventInfo": {
-        "teamA": "Torino",
-        "teamB": "Lazio",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2699/image",
-        "eventName": "Serie A",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "28/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beIN SPORTS - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Sport CZ - AQ",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795875945-0-0-83bd30a517dc40f57b2739924f13eb09",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1795870569-0-0-8ac6994bce86a7e669d1088547702a78",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niues.live/live/stream-9912133_lhd.m3u8?auth_key=1795870629-0-0-d9c0e831a48a78df288886a0d96389ae",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel2.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_36ee5df7e496"
     },
     {
       "status": "UPCOMING",
@@ -2218,6 +2238,12 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel14.flv?wsSecret=a579ecf9db407eaf059925b572266bf3&wsABSTime=1795922471",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel14/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2240,6 +2266,18 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel10.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-10.flv?auth_key=3000001795879181-0-0-fd3685e798bf6221263186bf99f4cb4e",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-10/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2258,7 +2296,14 @@
         "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "28/11/2026 11:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live1.quickscoreboardz.com/live/channel33.flv?wsSecret=8d619f620a430ac0a99bc1f0dbbe1594&wsABSTime=1795922421",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "isHot": false,
       "id": "evt_30e25ec82cac"
     },
@@ -2279,6 +2324,33 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel6.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-6.flv?auth_key=3000001795879555-0-0-496e7bfbe9079d6e867cf952538d4b54",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-6/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1795870629-0-0-f0afa88c0aa93a031f5ed41042c3d519",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-406865_lhd.m3u8?auth_key=1795870629-0-0-729d17ec9b36db36cbf2533666910746",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel6.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2301,6 +2373,33 @@
         {
           "channel_name": "LiveZoneTV Live",
           "stream_url": "Ok"
+        },
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-5.flv?auth_key=3000001795879278-0-0-b710cd112de40b090d8f9cf2d73944a1",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-5/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 3",
+          "stream_url": "https://pull.niues.live/live/stream-620504_lhd.m3u8?auth_key=1795875309-0-0-7d814e9df0b116d33a0624398420ce2e",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 4",
+          "stream_url": "https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1795875309-0-0-70423dd44d65eb4aa24dab73a52037bd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 5",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel5.m3u8",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -4158,7 +4257,20 @@
         "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
         "startTime": "28/11/2026 11:45:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795879471-0-0-89a1c538a88fbe5463b7840401c98dec",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_66a185ee4e61",
       "isHot": false
     },
@@ -7069,8 +7181,8 @@
         },
         {
           "channel_name": "WILLOW - AQ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
-          "drm_key": "93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f"
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saegpmsaey/out/v1/4efa6a026d044bc7b8731477db044d85/cenc.mpd",
+          "drm_key": "7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6"
         },
         {
           "channel_name": "TNT SPORTS - AQ",
