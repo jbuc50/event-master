@@ -1,40 +1,12 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "11:30:26 PM 28-11-2026",
+  "last_update_time": "11:40:16 PM 28-11-2026",
   "total_matches": 241,
-  "live_match": 58,
-  "upcoming_match": 140,
-  "ended_match": 43,
+  "live_match": 61,
+  "upcoming_match": 136,
+  "ended_match": 44,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Wales Vs Japan",
-      "eventInfo": {
-        "teamA": "Wales",
-        "teamB": "Japan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
-        "eventName": "Nations Championship",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
-        "startTime": "28/11/2026 07:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RUGBYPASS TV AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-          "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
-        },
-        {
-          "channel_name": "STARZPLAY RUGBY AQ",
-          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
-          "drm_key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_a46bc6245f3e"
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -1210,6 +1182,26 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tdjmgerldr/out/v1/13fbb564002948f293a5da8c8c36a00a/cenc.mpd",
+          "drm_key": "60943ec02f3bd2da2f7a89b4e30b124c:d74d790f29bdbd30a98e96466784d4cc"
+        },
+        {
+          "channel_name": "FUBO SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tp12vfucwz/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd",
+          "drm_key": "97a149db60d54f69fab9ed60ef7c2070:ed2c25f30a40cb729ec045e542d01fdc"
+        },
+        {
+          "channel_name": "PEACOCK ES - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/if1b6yheja/out/v1/d6627001ada042449014a391b7da23c0/cenc.mpd",
+          "drm_key": "00695ab8a3626259119b0ea0658860e7:7ff4d834432bd3e33f1f141f8b90f856"
+        },
+        {
+          "channel_name": "DAZN ITALIA - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8pfr5vwoqb/out/v1/fa741c09d7064a579412124ae20d6b83/cenc.mpd",
+          "drm_key": "b0dd851b418b1e8424848a85e91c6b41:3d76f40f19670f7e5168e9c608db3aac"
+        },
+        {
           "channel_name": "beIN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
@@ -1220,6 +1212,10 @@
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.55/hls/TTTTUAAQQQQQAQA.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -1267,9 +1263,22 @@
       },
       "streams": [
         {
+          "channel_name": "USA NETWORK HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61269/load-playlist-multi?"
+        },
+        {
+          "channel_name": "FUBO SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jn2ofkx3at/out/v1/a8645e4080344c53b38dc66983651d99/cenc.mpd",
+          "drm_key": "ea52c5a01f5735dc8b82f6b6acae8583:73a08638449831101e9f36e009a33615"
+        },
+        {
           "channel_name": "SKY SPORTS PL - AQ",
           "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=eXsDq9RXXLqUQkamaHEreA&e=2075749056&scheme=https",
           "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.59/hls/D3333.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -1319,8 +1328,9 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "LaLiga Hypermotion",
+          "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+          "drm_key": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a"
         },
         {
           "channel_name": "Server - 1",
@@ -1347,8 +1357,8 @@
       },
       "streams": [
         {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.50/hls/FVFVFVAAAA.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -1381,6 +1391,10 @@
       },
       "streams": [
         {
+          "channel_name": "SD STREAM",
+          "stream_url": "http://193.47.62.50/hls/FVFVFVA.m3u8"
+        },
+        {
           "channel_name": "Server - 1",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel33.flv?wsSecret=8d619f620a430ac0a99bc1f0dbbe1594&wsABSTime=1795922421",
           "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/7/link/channel33/off-tvc?is_off_add=false",
@@ -1405,9 +1419,18 @@
       },
       "streams": [
         {
+          "channel_name": "SKY BUNDESLIGA - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/voytp3p31f/out/v1/0865f52bcc8243f48d25d5f1e7b5fd37/cenc.mpd",
+          "drm_key": "28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8"
+        },
+        {
           "channel_name": "Sky Top Event- AQ",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
           "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.50/hls/FVFVFVAAAAQQQ.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -1455,6 +1478,15 @@
       },
       "streams": [
         {
+          "channel_name": "ESPN DEPORTES HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61271/load-playlist-multi?"
+        },
+        {
+          "channel_name": "DAZN SPORTS - AQ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fj6jbnbap5/out/v1/50e273cb673144cead55dc926a6a1626/cenc.mpd",
+          "drm_key": "2c7b5426bb1b2d35b84d652350fb9657:d66f5bf62b19bb7d3a3cb2eda943283c"
+        },
+        {
           "channel_name": "beIN SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
@@ -1463,6 +1495,10 @@
           "channel_name": "PREMIER SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW SERVER",
+          "stream_url": "http://193.47.62.50/hls/FVFVFVAAAAQQQQ.m3u8"
         },
         {
           "channel_name": "Server - 1",
@@ -1494,6 +1530,73 @@
       ],
       "isHot": false,
       "id": "evt_1cc62ef1914b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Motherwell Vs Hibernian",
+      "eventInfo": {
+        "teamA": "Motherwell",
+        "teamB": "Hibernian",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "28/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER SPORTS - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "SPORTDIGITAL FUSSBALL 2 AQ",
+          "stream_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_c8777e3e5d2c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "PSV Eindhoven Vs Go Ahead Eagles",
+      "eventInfo": {
+        "teamA": "PSV Eindhoven",
+        "teamB": "Go Ahead Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "28/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_fcd5bf1027ac"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Académico Viseu FC Vs FC Alverca",
+      "eventInfo": {
+        "teamA": "Académico Viseu FC",
+        "teamB": "FC Alverca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "29/11/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "isHot": false,
+      "id": "evt_5a46e0889395"
     },
     {
       "status": "LIVE",
@@ -1918,6 +2021,36 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "PSV Vs Go Ahead Eagles",
+      "eventInfo": {
+        "teamA": "PSV",
+        "teamB": "Go Ahead Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "eventName": "Eredivisie",
+        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
+        "startTime": "28/11/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Server - 1",
+          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Server - 2",
+          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795879471-0-0-89a1c538a88fbe5463b7840401c98dec",
+          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
+          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_66a185ee4e61",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Arouca Vs Rio Ave",
       "eventInfo": {
         "teamA": "Arouca",
@@ -2107,73 +2240,6 @@
       ],
       "id": "evt_040acba132a4",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Motherwell Vs Hibernian",
-      "eventInfo": {
-        "teamA": "Motherwell",
-        "teamB": "Hibernian",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "28/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER SPORTS - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "SPORTDIGITAL FUSSBALL 2 AQ",
-          "stream_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_c8777e3e5d2c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "PSV Eindhoven Vs Go Ahead Eagles",
-      "eventInfo": {
-        "teamA": "PSV Eindhoven",
-        "teamB": "Go Ahead Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "28/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_fcd5bf1027ac"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Académico Viseu FC Vs FC Alverca",
-      "eventInfo": {
-        "teamA": "Académico Viseu FC",
-        "teamB": "FC Alverca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "29/11/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "isHot": false,
-      "id": "evt_5a46e0889395"
     },
     {
       "status": "UPCOMING",
@@ -3949,36 +4015,6 @@
       ],
       "isHot": false,
       "id": "evt_cf1a3ad985ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "PSV Vs Go Ahead Eagles",
-      "eventInfo": {
-        "teamA": "PSV",
-        "teamB": "Go Ahead Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "eventName": "Eredivisie",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:7.png/v2/Competitions/light/57",
-        "startTime": "28/11/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel9.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-9.flv?auth_key=3000001795879471-0-0-89a1c538a88fbe5463b7840401c98dec",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-9/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_66a185ee4e61",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -6987,6 +7023,34 @@
       ],
       "isHot": false,
       "id": "evt_6f2f8e7dbaa5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Wales Vs Japan",
+      "eventInfo": {
+        "teamA": "Wales",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7058/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/34478/image/dark",
+        "startTime": "28/11/2026 07:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RUGBYPASS TV AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "channel_name": "STARZPLAY RUGBY AQ",
+          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "drm_key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_a46bc6245f3e"
     }
   ]
 }
