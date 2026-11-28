@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "09:30:20 AM 28-11-2026",
-  "total_matches": 275,
-  "live_match": 26,
+  "last_update_time": "09:40:23 AM 28-11-2026",
+  "total_matches": 274,
+  "live_match": 24,
   "upcoming_match": 176,
-  "ended_match": 73,
+  "ended_match": 74,
   "matches": [
     {
       "status": "LIVE",
@@ -203,6 +203,64 @@
     },
     {
       "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Wisconsin Badgers Vs Minnesota Golden Gophers",
+      "eventInfo": {
+        "teamA": "Wisconsin Badgers",
+        "teamB": "Minnesota Golden Gophers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4301/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4381/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "28/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61211/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/MPMPMPAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_3a8de7106c2b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Texas A&M Aggies Vs Texas Longhorns",
+      "eventInfo": {
+        "teamA": "Texas A&M Aggies",
+        "teamB": "Texas Longhorns",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4348/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4332/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "28/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "SERVER+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61210/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_ffaa85862567"
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Indiana Pacers Vs Philadelphia 76ers",
       "eventInfo": {
@@ -354,86 +412,6 @@
       ],
       "isHot": false,
       "id": "evt_aa1a3b37b75b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Wisconsin Badgers Vs Minnesota Golden Gophers",
-      "eventInfo": {
-        "teamA": "Wisconsin Badgers",
-        "teamB": "Minnesota Golden Gophers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4301/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4381/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "28/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61211/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/MPMPMPAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_3a8de7106c2b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Texas A&M Aggies Vs Texas Longhorns",
-      "eventInfo": {
-        "teamA": "Texas A&M Aggies",
-        "teamB": "Texas Longhorns",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4348/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4332/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "28/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "SERVER+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61210/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_ffaa85862567"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Houston Cougars Vs Oakland Golden Grizzlies",
-      "eventInfo": {
-        "teamA": "Houston Cougars",
-        "teamB": "Oakland Golden Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41217/image",
-        "eventName": "NCAA Men's Division I",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
-        "startTime": "28/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_d1e916dc32c3"
     },
     {
       "status": "LIVE",
@@ -918,96 +896,6 @@
       ],
       "isHot": false,
       "id": "evt_62afce986eb2"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Columbus Crew Vs Inter Miami",
-      "eventInfo": {
-        "teamA": "Columbus Crew",
-        "teamB": "Inter Miami",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-        "eventName": "MLS",
-        "event_logo": "https://imagecache.365scores.com/image/upload/f_png,w_24,h_24,c_limit,q_auto:eco,dpr_2,d_Countries:Round:18.png/v2/Competitions/light/104",
-        "startTime": "28/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "hd quality",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61216/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "hd quality 2",
-          "stream_url": "https://www.rtmpcdn.com/live/9e9b613b-73a8-4037-80a6-832e62b0bc58.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795807207-0-0-bc973e92089a27485e9809e5813cd7e8",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1795788729-0-0-7e694fe3c2a09aaf20fe72c0f88212f3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=eb522cb35eb8b0fe19507d3a43cba9dd&txTime=6b09d645",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 5",
-          "stream_url": "https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1795788789-0-0-4ebe09feccc57861412cc047df762fb3",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 6",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 7",
-          "stream_url": "https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 8",
-          "stream_url": "http://193.47.62.41/hls/WQWQWQ.m3u8",
-          "referer": "http://www.fawanews.sc/",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_09c4afe29468",
-      "isHot": false
     },
     {
       "status": "UPCOMING",
@@ -7889,6 +7777,28 @@
       ],
       "isHot": false,
       "id": "evt_25e910a6c84d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Houston Cougars Vs Oakland Golden Grizzlies",
+      "eventInfo": {
+        "teamA": "Houston Cougars",
+        "teamB": "Oakland Golden Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41217/image",
+        "eventName": "NCAA Men's Division I",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/33651/image/dark",
+        "startTime": "28/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_d1e916dc32c3"
     }
   ]
 }
