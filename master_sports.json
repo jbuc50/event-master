@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "08:30:22 AM 28-11-2026",
+  "last_update_time": "08:40:20 AM 28-11-2026",
   "total_matches": 275,
-  "live_match": 29,
+  "live_match": 27,
   "upcoming_match": 176,
-  "ended_match": 70,
+  "ended_match": 72,
   "matches": [
     {
       "status": "LIVE",
@@ -170,41 +170,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Chicago Blackhawks Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/11/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61194/load-playlist"
-        },
-        {
-          "channel_name": "SD STREAM",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/120369e1-6e5f-4ac7-b694-c1f2407ebcd2/master.m3u8"
-        },
-        {
-          "channel_name": "Sky Top Event- AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61194\\/load-playlist"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_5bddc0208aa4"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Fluminense Vs Cruzeiro",
       "eventInfo": {
@@ -230,39 +195,6 @@
       ],
       "isHot": false,
       "id": "evt_a2ccd594888e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Brazil Vs USA",
-      "eventInfo": {
-        "teamA": "Brazil",
-        "teamB": "USA",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6126/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6141/image",
-        "eventName": "FIBA World Cup Qualification, Americas",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10461/image/dark",
-        "startTime": "28/11/2026 05:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61200/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://www.rtmpcdn.com/live/1e7e140e-9bb3-4f2f-b319-3ed623863348.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/4RRRAAAQQAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_aba0e662f80f"
     },
     {
       "status": "LIVE",
@@ -7834,6 +7766,41 @@
     },
     {
       "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Chicago Blackhawks Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "Chicago Blackhawks",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61194/load-playlist"
+        },
+        {
+          "channel_name": "SD STREAM",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/120369e1-6e5f-4ac7-b694-c1f2407ebcd2/master.m3u8"
+        },
+        {
+          "channel_name": "Sky Top Event- AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "https:\\/\\/chatgpt.hereisman.net\\/playlist\\/61194\\/load-playlist"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_5bddc0208aa4"
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Illinois Fighting Illini Vs Western Kentucky Hilltoppers",
       "eventInfo": {
@@ -7865,6 +7832,39 @@
       "streams": [],
       "isHot": false,
       "id": "evt_d00e3a56a94f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Brazil Vs USA",
+      "eventInfo": {
+        "teamA": "Brazil",
+        "teamB": "USA",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6126/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6141/image",
+        "eventName": "FIBA World Cup Qualification, Americas",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10461/image/dark",
+        "startTime": "28/11/2026 05:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61200/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://www.rtmpcdn.com/live/1e7e140e-9bb3-4f2f-b319-3ed623863348.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/4RRRAAAQQAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_aba0e662f80f"
     },
     {
       "status": "ENDED",
