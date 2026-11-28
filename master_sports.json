@@ -1,9 +1,9 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "10:10:16 PM 28-11-2026",
-  "total_matches": 245,
-  "live_match": 55,
+  "last_update_time": "10:20:16 PM 28-11-2026",
+  "total_matches": 244,
+  "live_match": 54,
   "upcoming_match": 148,
   "ended_match": 42,
   "matches": [
@@ -95,32 +95,27 @@
       "streams": [
         {
           "channel_name": "HD SERVER",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/61251/load-playlist",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "stream_url": "https://chatgpt.hereisman.net/playlist/61251/load-playlist"
         },
         {
           "channel_name": "PARAMOUNT+ - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deut0uoays/out/v1/dc0b396f73ed4c8db8bfc70c985798d5/cenc.mpd",
-          "drm_key": "c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d"
         },
         {
           "channel_name": "FUBO SPORTS - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd",
-          "drm_key": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298"
         },
         {
           "channel_name": "DAZN ITALIA - AQ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxdzg12g3i/out/v1/4165e1e7162c4c81b3a64b1f45094210/cenc.mpd",
-          "drm_key": "d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba"
         },
         {
           "channel_name": "SPORT 2 CZ - AQ",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
         },
         {
           "channel_name": "LiveZoneTV Live",
@@ -129,28 +124,6 @@
         {
           "channel_name": "LOW SERVER",
           "stream_url": "http://193.47.62.41/hls/TTTTAAAA.m3u8"
-        },
-        {
-          "channel_name": "Server - 1",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.flv",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/8/link/channel19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 2",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-19.flv?auth_key=3000001795868499-0-0-55086b3d063f7f7bd6c28130bced1f57",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-19/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 3",
-          "stream_url": "https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1795875249-0-0-04bf4538c01e1ef37f7b1360e5279035",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Server - 4",
-          "stream_url": "https://live3979.zundrixmediapipeline.com/live/channel19.m3u8",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
         }
       ],
       "isHot": false,
@@ -2083,45 +2056,6 @@
         }
       ],
       "id": "evt_040acba132a4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chennaiyin Vs Mumbai City",
-      "eventInfo": {
-        "teamA": "Chennaiyin",
-        "teamB": "Mumbai City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174600/image",
-        "eventName": "Indian Super League",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/1900/image",
-        "startTime": "28/11/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://live2.streamhaulcdn.com/livecdn/channel-2.flv?auth_key=3000001795868609-0-0-3c862fcc2c35ae7f0e051b5f052d5dfa",
-          "referer": "https://xlz.domainkqt.cc/ajax/chanel/type/5/link/channel-2/off-tvc?is_off_add=false",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SONYLIV (ENG)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SONYLIV (HIN)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SONYLIV (TAM)",
-          "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795914963~acl=/*~id=30379333139028394089152677919754~hmac=2c43b133ef59405770cc4dd3535e3caa02cd3f1f4e57a70d9a5140e44738e57e",
-          "user_agent": "Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_40f7f2140f25",
       "isHot": false
     },
     {
