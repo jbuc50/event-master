@@ -1,11 +1,11 @@
 {
   "name": "Live and Upcoming Sports Data",
   "telegram_channel": "https://t.me/LiveZoneTV",
-  "last_update_time": "06:30:22 AM 28-11-2026",
+  "last_update_time": "06:40:17 AM 28-11-2026",
   "total_matches": 323,
-  "live_match": 28,
-  "upcoming_match": 184,
-  "ended_match": 111,
+  "live_match": 27,
+  "upcoming_match": 183,
+  "ended_match": 113,
   "matches": [
     {
       "status": "LIVE",
@@ -193,68 +193,6 @@
       ],
       "isHot": false,
       "id": "evt_b2f62722ee28"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs Ireland",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "Ireland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-        "eventName": "Nations Championship",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAggxEXHS9ztvKH2feAydGbkMxtqADeTMgmdjOFyMcPIEw-iSrdXJ0Vk-&s=10",
-        "startTime": "28/11/2026 02:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/POPOPOQQAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "RUGBYPASS TV AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
-          "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
-        },
-        {
-          "channel_name": "STARZPLAY RUGBY AQ",
-          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
-          "drm_key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_52299bd5b83b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CS Marítimo Vs CD Nacional",
-      "eventInfo": {
-        "teamA": "CS Marítimo",
-        "teamB": "CD Nacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "28/11/2026 02:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital FussBall",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_33ad8e5e7d7d"
     },
     {
       "status": "LIVE",
@@ -983,6 +921,33 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Memphis Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "28/11/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER TV+ HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LiveZoneTV Live",
+          "stream_url": "Ok"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_93a28db75eef"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Fluminense Vs Cruzeiro - MG",
       "eventInfo": {
@@ -1022,33 +987,6 @@
       ],
       "id": "evt_f44d948f638a",
       "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Memphis Grizzlies",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Memphis Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "28/11/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER TV+ HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LiveZoneTV Live",
-          "stream_url": "Ok"
-        }
-      ],
-      "isHot": false,
-      "id": "evt_93a28db75eef"
     },
     {
       "status": "UPCOMING",
@@ -8974,6 +8912,68 @@
       ],
       "isHot": false,
       "id": "evt_ebdc069eb41f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Australia Vs Ireland",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "Ireland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+        "eventName": "Nations Championship",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJAggxEXHS9ztvKH2feAydGbkMxtqADeTMgmdjOFyMcPIEw-iSrdXJ0Vk-&s=10",
+        "startTime": "28/11/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/POPOPOQQAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "RUGBYPASS TV AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd",
+          "drm_key": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3"
+        },
+        {
+          "channel_name": "STARZPLAY RUGBY AQ",
+          "stream_url": "https://hoast-plm.shop/playztv/links.php?id=starzrugby.mpd",
+          "drm_key": "8828eee88101104595dfcfc9a7962afc:446853911ec94183d3a4a673192afd21"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_52299bd5b83b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CS Marítimo Vs CD Nacional",
+      "eventInfo": {
+        "teamA": "CS Marítimo",
+        "teamB": "CD Nacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "28/11/2026 02:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital FussBall",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "SPORTDIGITAL FUSSBALL - AQ",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "isHot": false,
+      "id": "evt_33ad8e5e7d7d"
     },
     {
       "status": "ENDED",
